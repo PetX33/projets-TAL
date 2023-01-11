@@ -1,0 +1,546 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Je Te Rends Ton Amour par Mylene Farmer\n\nM'extraire du cadre \nMa vie suspendue \n",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "Je",
+      "Te",
+      "Rends",
+      "Ton",
+      "Amour",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "M'",
+      "extraire",
+      "du",
+      "cadre",
+      "\n",
+      "Ma",
+      "vie",
+      "suspendue",
+      "\n"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Je rêvais mieux \nJe voyais l'âtre \nTous ces inconnus",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Je",
+      "rêvais",
+      "mieux",
+      "\n",
+      "Je",
+      "voyais",
+      "l'",
+      "âtre",
+      "\n",
+      "Tous",
+      "ces",
+      "inconnus"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "Toi parmi eux \n\nToile \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Toi",
+      "parmi",
+      "eux",
+      "\n\n",
+      "Toile",
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Fibre",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Fibre"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "qui suinte",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "qui",
+      "suinte"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\nDes meurtrissures",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n",
+      "Des",
+      "meurtrissures"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "\nTu voyais l'âme \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "\n",
+      "Tu",
+      "voyais",
+      "l'",
+      "âme",
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "Mais j'ai vu ta main \nChoisir Gaugin",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Mais",
+      "j'",
+      "ai",
+      "vu",
+      "ta",
+      "main",
+      "\n",
+      "Choisir",
+      "Gaugin"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "\n\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Et je te rends ton amour \nRedeviens",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Et",
+      "je",
+      "te",
+      "rends",
+      "ton",
+      "amour",
+      "\n",
+      "Redeviens"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "les contours \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "les",
+      "contours",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Je te rends ton amour \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Je",
+      "te",
+      "rends",
+      "ton",
+      "amour",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "C'est mon dernier recours \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "mon",
+      "dernier",
+      "recours",
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "Je te rends ton amour \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Je",
+      "te",
+      "rends",
+      "ton",
+      "amour",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Au moins pour toujours \nRedeviens les contours \n\" la femme nue debout \" \n\nM'extraire du cadre \nLa vie étriquée \nD'une écorchée \nJ'ai cru la fable \nD'un mortel aimé \nTu m'as trompé \n\nToi \nTu m'as laissé \nMe compromettre \nJe serai \" l'Unique \" \nPour des milliers d'yeux \n",
+    "nombre de token": 68,
+    "Liste de tokens": [
+      "Au",
+      "moins",
+      "pour",
+      "toujours",
+      "\n",
+      "Redeviens",
+      "les",
+      "contours",
+      "\n",
+      "\"",
+      "la",
+      "femme",
+      "nue",
+      "debout",
+      "\"",
+      "\n\n",
+      "M'",
+      "extraire",
+      "du",
+      "cadre",
+      "\n",
+      "La",
+      "vie",
+      "étriquée",
+      "\n",
+      "D'",
+      "une",
+      "écorchée",
+      "\n",
+      "J'",
+      "ai",
+      "cru",
+      "la",
+      "fable",
+      "\n",
+      "D'",
+      "un",
+      "mortel",
+      "aimé",
+      "\n",
+      "Tu",
+      "m'",
+      "as",
+      "trompé",
+      "\n\n",
+      "Toi",
+      "\n",
+      "Tu",
+      "m'",
+      "as",
+      "laissé",
+      "\n",
+      "Me",
+      "compromettre",
+      "\n",
+      "Je",
+      "serai",
+      "\"",
+      "l'",
+      "Unique",
+      "\"",
+      "\n",
+      "Pour",
+      "des",
+      "milliers",
+      "d'",
+      "yeux",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Un nu de maître \n\n\nEt je te rends ton amour",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "Un",
+      "nu",
+      "de",
+      "maître",
+      "\n\n\n",
+      "Et",
+      "je",
+      "te",
+      "rends",
+      "ton",
+      "amour"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "Au moins pour toujours \nJe te rends ton amour \nLe miens est trop lourd",
+    "nombre de token": 16,
+    "Liste de tokens": [
+      "Au",
+      "moins",
+      "pour",
+      "toujours",
+      "\n",
+      "Je",
+      "te",
+      "rends",
+      "ton",
+      "amour",
+      "\n",
+      "Le",
+      "miens",
+      "est",
+      "trop",
+      "lourd"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Et je te rends ton amour \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Et",
+      "je",
+      "te",
+      "rends",
+      "ton",
+      "amour",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "C'est plus flagrant le jour \nSes couleurs se sont diluées \nEt je reprends mon amour \nRedeviens le contour \nDe mon seul maître : EGON SCHIELE et...",
+    "nombre de token": 32,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "plus",
+      "flagrant",
+      "le",
+      "jour",
+      "\n",
+      "Ses",
+      "couleurs",
+      "se",
+      "sont",
+      "diluées",
+      "\n",
+      "Et",
+      "je",
+      "reprends",
+      "mon",
+      "amour",
+      "\n",
+      "Redeviens",
+      "le",
+      "contour",
+      "\n",
+      "De",
+      "mon",
+      "seul",
+      "maître",
+      ":",
+      "EGON",
+      "SCHIELE",
+      "et",
+      "..."
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\n\nEt je te rends ton amour \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n\n",
+      "Et",
+      "je",
+      "te",
+      "rends",
+      "ton",
+      "amour",
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "Au moins pour toujours \nJe te rends ton amour \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "Au",
+      "moins",
+      "pour",
+      "toujours",
+      "\n",
+      "Je",
+      "te",
+      "rends",
+      "ton",
+      "amour",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Le mien est trop lourd \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Le",
+      "mien",
+      "est",
+      "trop",
+      "lourd",
+      "\n"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "Et je te rends ton amour \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Et",
+      "je",
+      "te",
+      "rends",
+      "ton",
+      "amour",
+      "\n"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "C'est plus flagrant le jour \nSes couleurs se sont diluées \nEt je reprends mon amour \nRedeviens le contour \nDe mon seul maître : EGON SCHIELE et... \nEt je te rends ton amour \n",
+    "nombre de token": 40,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "plus",
+      "flagrant",
+      "le",
+      "jour",
+      "\n",
+      "Ses",
+      "couleurs",
+      "se",
+      "sont",
+      "diluées",
+      "\n",
+      "Et",
+      "je",
+      "reprends",
+      "mon",
+      "amour",
+      "\n",
+      "Redeviens",
+      "le",
+      "contour",
+      "\n",
+      "De",
+      "mon",
+      "seul",
+      "maître",
+      ":",
+      "EGON",
+      "SCHIELE",
+      "et",
+      "...",
+      "\n",
+      "Et",
+      "je",
+      "te",
+      "rends",
+      "ton",
+      "amour",
+      "\n"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "Au moins pour toujours \nJe te rends ton amour \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "Au",
+      "moins",
+      "pour",
+      "toujours",
+      "\n",
+      "Je",
+      "te",
+      "rends",
+      "ton",
+      "amour",
+      "\n"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "Le mien est trop lourd \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Le",
+      "mien",
+      "est",
+      "trop",
+      "lourd",
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Et je te rends ton amour \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Et",
+      "je",
+      "te",
+      "rends",
+      "ton",
+      "amour",
+      "\n"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "C'est plus flagrant le jour \nSes couleurs se sont diluées \nEt je reprends mon amour \nRedeviens le contour \nDe mon seul maître : EGON SCHIELE",
+    "nombre de token": 30,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "plus",
+      "flagrant",
+      "le",
+      "jour",
+      "\n",
+      "Ses",
+      "couleurs",
+      "se",
+      "sont",
+      "diluées",
+      "\n",
+      "Et",
+      "je",
+      "reprends",
+      "mon",
+      "amour",
+      "\n",
+      "Redeviens",
+      "le",
+      "contour",
+      "\n",
+      "De",
+      "mon",
+      "seul",
+      "maître",
+      ":",
+      "EGON",
+      "SCHIELE"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "et...",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "et",
+      "..."
+    ]
+  }
+}

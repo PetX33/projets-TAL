@@ -1,0 +1,819 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Lonely Lisa par Mylene",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Lonely",
+      "Lisa",
+      "par",
+      "Mylene"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Farmer",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Farmer"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\n\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "Elle est libre \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Elle",
+      "est",
+      "libre",
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Elle a deux vies, \nMais pas de chance \n\nPas d'équilibre \nMais elle fait de son mieux \nElle penche \n\nAimer \nEt fondre l'or \nFaire de la mort \n",
+    "nombre de token": 37,
+    "Liste de tokens": [
+      "Elle",
+      "a",
+      "deux",
+      "vies",
+      ",",
+      "\n",
+      "Mais",
+      "pas",
+      "de",
+      "chance",
+      "\n\n",
+      "Pas",
+      "d'",
+      "équilibre",
+      "\n",
+      "Mais",
+      "elle",
+      "fait",
+      "de",
+      "son",
+      "mieux",
+      "\n",
+      "Elle",
+      "penche",
+      "\n\n",
+      "Aimer",
+      "\n",
+      "Et",
+      "fondre",
+      "l'",
+      "or",
+      "\n",
+      "Faire",
+      "de",
+      "la",
+      "mort",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "Une immortelle",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Une",
+      "immortelle"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\n\nRêver \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n\n",
+      "Rêver",
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "Jusqu'à l'aurore \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Jusqu'",
+      "à",
+      "l'",
+      "aurore",
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "Aimer encore \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Aimer",
+      "encore",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Aimer le ciel \n\nLonely Lisa !",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Aimer",
+      "le",
+      "ciel",
+      "\n\n",
+      "Lonely",
+      "Lisa",
+      "!"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "C'est bien ça \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "bien",
+      "ça",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Un peu de déraison \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Un",
+      "peu",
+      "de",
+      "déraison",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Lonely Lisa",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Lonely",
+      "Lisa"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "!",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "!"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "\nDevisée",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n",
+      "Devisée"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Et tous à l'unisson \n\nLonely Lisa !",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Et",
+      "tous",
+      "à",
+      "l'",
+      "unisson",
+      "\n\n",
+      "Lonely",
+      "Lisa",
+      "!"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "C'est bien ça \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "bien",
+      "ça",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Un peu de déraison \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Un",
+      "peu",
+      "de",
+      "déraison",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "Plus d'à quoi bon !",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Plus",
+      "d'",
+      "à",
+      "quoi",
+      "bon",
+      "!"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\nDes mots libres \nDes maux",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "Des",
+      "mots",
+      "libres",
+      "\n",
+      "Des",
+      "maux"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Démolition",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Démolition"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "\n\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n\n"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "Mélancolie \n",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Mélancolie",
+      "\n"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "Par la porte opposée elle voit \nSa folie",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Par",
+      "la",
+      "porte",
+      "opposée",
+      "elle",
+      "voit",
+      "\n",
+      "Sa",
+      "folie"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Qu'elle va jeter plus loin \nDe toi \n\nRêver \nEt fondre l'or \nFaire de nos morts",
+    "nombre de token": 21,
+    "Liste de tokens": [
+      "Qu'",
+      "elle",
+      "va",
+      "jeter",
+      "plus",
+      "loin",
+      "\n",
+      "De",
+      "toi",
+      "\n\n",
+      "Rêver",
+      "\n",
+      "Et",
+      "fondre",
+      "l'",
+      "or",
+      "\n",
+      "Faire",
+      "de",
+      "nos",
+      "morts"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "\nDes immortelles",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n",
+      "Des",
+      "immortelles"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "\n\nAimer \nJusqu'à l'aurore \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n\n",
+      "Aimer",
+      "\n",
+      "Jusqu'",
+      "à",
+      "l'",
+      "aurore",
+      "\n"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "Aimer encore \nGagner le ciel \n\nLonely Lisa !",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Aimer",
+      "encore",
+      "\n",
+      "Gagner",
+      "le",
+      "ciel",
+      "\n\n",
+      "Lonely",
+      "Lisa",
+      "!"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "C'est bien ça, \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "bien",
+      "ça",
+      ",",
+      "\n"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "Un peu de déraison \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Un",
+      "peu",
+      "de",
+      "déraison",
+      "\n"
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "Lonely Lisa",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Lonely",
+      "Lisa"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "!",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "!"
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "\nDevisée",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n",
+      "Devisée"
+    ]
+  },
+  "Segment_39": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_40": {
+    "Phrase_0": "Et tous à l'unisson \n\nLonely Lisa !",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Et",
+      "tous",
+      "à",
+      "l'",
+      "unisson",
+      "\n\n",
+      "Lonely",
+      "Lisa",
+      "!"
+    ]
+  },
+  "Segment_41": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_42": {
+    "Phrase_0": "C'est bien ça \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "bien",
+      "ça",
+      "\n"
+    ]
+  },
+  "Segment_43": {
+    "Phrase_0": "Un peu de déraison \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Un",
+      "peu",
+      "de",
+      "déraison",
+      "\n"
+    ]
+  },
+  "Segment_44": {
+    "Phrase_0": "Plus d'à quoi bon !",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Plus",
+      "d'",
+      "à",
+      "quoi",
+      "bon",
+      "!"
+    ]
+  },
+  "Segment_45": {
+    "Phrase_0": "\nDes mots libres \nDes maux",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "Des",
+      "mots",
+      "libres",
+      "\n",
+      "Des",
+      "maux"
+    ]
+  },
+  "Segment_46": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_47": {
+    "Phrase_0": "Démolition",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Démolition"
+    ]
+  },
+  "Segment_48": {
+    "Phrase_0": "\n\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n\n"
+    ]
+  },
+  "Segment_49": {
+    "Phrase_0": "Une révolution \nTous pour la même même partition \nEt la routine",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "Une",
+      "révolution",
+      "\n",
+      "Tous",
+      "pour",
+      "la",
+      "même",
+      "même",
+      "partition",
+      "\n",
+      "Et",
+      "la",
+      "routine"
+    ]
+  },
+  "Segment_50": {
+    "Phrase_0": "pas que du bon \nÀ moins de rêver \n\nIl nous faut une révolution \nPour créer l'envie",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "pas",
+      "que",
+      "du",
+      "bon",
+      "\n",
+      "À",
+      "moins",
+      "de",
+      "rêver",
+      "\n\n",
+      "Il",
+      "nous",
+      "faut",
+      "une",
+      "révolution",
+      "\n",
+      "Pour",
+      "créer",
+      "l'",
+      "envie"
+    ]
+  },
+  "Segment_51": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_52": {
+    "Phrase_0": "L'âme est ainsi \nY a pas de génie sans grain de fo... \nSans grain de folie !",
+    "nombre de token": 21,
+    "Liste de tokens": [
+      "L'",
+      "âme",
+      "est",
+      "ainsi",
+      "\n",
+      "Y",
+      "a",
+      "pas",
+      "de",
+      "génie",
+      "sans",
+      "grain",
+      "de",
+      "fo",
+      "...",
+      "\n",
+      "Sans",
+      "grain",
+      "de",
+      "folie",
+      "!"
+    ]
+  },
+  "Segment_53": {
+    "Phrase_0": "\n\nAimer \nEt fondre l'or \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n\n",
+      "Aimer",
+      "\n",
+      "Et",
+      "fondre",
+      "l'",
+      "or",
+      "\n"
+    ]
+  },
+  "Segment_54": {
+    "Phrase_0": "Faire de nos morts",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Faire",
+      "de",
+      "nos",
+      "morts"
+    ]
+  },
+  "Segment_55": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_56": {
+    "Phrase_0": "Une immortelle",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Une",
+      "immortelle"
+    ]
+  },
+  "Segment_57": {
+    "Phrase_0": "\n\nRêver \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n\n",
+      "Rêver",
+      "\n"
+    ]
+  },
+  "Segment_58": {
+    "Phrase_0": "Jusqu'à l'aurore \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Jusqu'",
+      "à",
+      "l'",
+      "aurore",
+      "\n"
+    ]
+  },
+  "Segment_59": {
+    "Phrase_0": "Aimer encore \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Aimer",
+      "encore",
+      "\n"
+    ]
+  },
+  "Segment_60": {
+    "Phrase_0": "Aimer le ciel \n\nLonely Lisa !",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Aimer",
+      "le",
+      "ciel",
+      "\n\n",
+      "Lonely",
+      "Lisa",
+      "!"
+    ]
+  },
+  "Segment_61": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_62": {
+    "Phrase_0": "C'est bien ça \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "bien",
+      "ça",
+      "\n"
+    ]
+  },
+  "Segment_63": {
+    "Phrase_0": "Un peu de déraison \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Un",
+      "peu",
+      "de",
+      "déraison",
+      "\n"
+    ]
+  },
+  "Segment_64": {
+    "Phrase_0": "Lonely Lisa",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Lonely",
+      "Lisa"
+    ]
+  },
+  "Segment_65": {
+    "Phrase_0": "!",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "!"
+    ]
+  },
+  "Segment_66": {
+    "Phrase_0": "\nDevisée",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n",
+      "Devisée"
+    ]
+  },
+  "Segment_67": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_68": {
+    "Phrase_0": "Et tous à l'unisson \n\nLonely Lisa !",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Et",
+      "tous",
+      "à",
+      "l'",
+      "unisson",
+      "\n\n",
+      "Lonely",
+      "Lisa",
+      "!"
+    ]
+  },
+  "Segment_69": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_70": {
+    "Phrase_0": "C'est bien ça \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "bien",
+      "ça",
+      "\n"
+    ]
+  },
+  "Segment_71": {
+    "Phrase_0": "Un peu de déraison \nDes à quoi bon !",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Un",
+      "peu",
+      "de",
+      "déraison",
+      "\n",
+      "Des",
+      "à",
+      "quoi",
+      "bon",
+      "!"
+    ]
+  },
+  "Segment_72": {
+    "Phrase_0": "\nDes mots libres \nDes maux",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "Des",
+      "mots",
+      "libres",
+      "\n",
+      "Des",
+      "maux"
+    ]
+  },
+  "Segment_73": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_74": {
+    "Phrase_0": "Révolution",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Révolution"
+    ]
+  }
+}

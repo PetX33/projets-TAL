@@ -1,0 +1,122 @@
+{
+  "entité_0": {
+    "Entité": "oublie Pas",
+    "Label": "LOC"
+  },
+  "entité_1": {
+    "Entité": "Mylene Farmer\n\n[Mylène & LP]\nLà",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Cause in the world I've come upon\nI never saw",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "one\nThat sparkled like your diamond in the sun\nLa chambre",
+    "Label": "ORG"
+  },
+  "entité_4": {
+    "Entité": "Mylène & LP]\nJamais",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "étoile\nJamais",
+    "Label": "LOC"
+  },
+  "entité_6": {
+    "Entité": "I",
+    "Label": "LOC"
+  },
+  "entité_7": {
+    "Entité": "where you are\n",
+    "Label": "PER"
+  },
+  "entité_8": {
+    "Entité": "univers\nIt's",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "moi\nOh oh oh\n",
+    "Label": "PER"
+  },
+  "entité_10": {
+    "Entité": "univers\nIt's",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "Oh oh oh\n\n[Mylène & LP]\nSous terre",
+    "Label": "MISC"
+  },
+  "entité_12": {
+    "Entité": "toi\nDon’t you think twice\nBeen lost",
+    "Label": "LOC"
+  },
+  "entité_13": {
+    "Entité": "I finally know\nEt",
+    "Label": "MISC"
+  },
+  "entité_14": {
+    "Entité": "the stars\nAnd",
+    "Label": "MISC"
+  },
+  "entité_15": {
+    "Entité": "Alone you know\nMais",
+    "Label": "PER"
+  },
+  "entité_16": {
+    "Entité": "Mylène & LP]\nJamais",
+    "Label": "MISC"
+  },
+  "entité_17": {
+    "Entité": "étoile\nJamais",
+    "Label": "LOC"
+  },
+  "entité_18": {
+    "Entité": "I",
+    "Label": "LOC"
+  },
+  "entité_19": {
+    "Entité": "where you are\nUn",
+    "Label": "PER"
+  },
+  "entité_20": {
+    "Entité": "univers\nIt's",
+    "Label": "MISC"
+  },
+  "entité_21": {
+    "Entité": "moi\nOh oh oh\n",
+    "Label": "PER"
+  },
+  "entité_22": {
+    "Entité": "univers\nIt's",
+    "Label": "MISC"
+  },
+  "entité_23": {
+    "Entité": "Oh oh oh\n\n[LP]\nOh oh oh oh\n",
+    "Label": "MISC"
+  },
+  "entité_24": {
+    "Entité": "moi\nYou know\nOh oh\n\n[Mylène & LP]",
+    "Label": "LOC"
+  },
+  "entité_25": {
+    "Entité": "I",
+    "Label": "LOC"
+  },
+  "entité_26": {
+    "Entité": "where you are\n",
+    "Label": "PER"
+  },
+  "entité_27": {
+    "Entité": "univers\nIt's",
+    "Label": "MISC"
+  },
+  "entité_28": {
+    "Entité": "moi\nOh oh oh\nOuh ouh ouh\nUn",
+    "Label": "PER"
+  },
+  "entité_29": {
+    "Entité": "univers\nIt's",
+    "Label": "MISC"
+  }
+}

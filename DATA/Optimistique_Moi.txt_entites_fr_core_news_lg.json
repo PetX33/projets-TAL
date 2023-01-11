@@ -1,0 +1,54 @@
+{
+  "entité_0": {
+    "Entité": "Petit",
+    "Label": "LOC"
+  },
+  "entité_1": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "Papa",
+    "Label": "PER"
+  },
+  "entité_4": {
+    "Entité": "Petit",
+    "Label": "LOC"
+  },
+  "entité_5": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_6": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_7": {
+    "Entité": "Petit",
+    "Label": "LOC"
+  },
+  "entité_8": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_9": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_10": {
+    "Entité": "Petit",
+    "Label": "LOC"
+  },
+  "entité_11": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_12": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  }
+}

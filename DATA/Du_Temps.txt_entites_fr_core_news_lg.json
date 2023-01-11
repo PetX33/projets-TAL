@@ -1,0 +1,14 @@
+{
+  "entité_0": {
+    "Entité": "Du Temps",
+    "Label": "MISC"
+  },
+  "entité_1": {
+    "Entité": "Mylene Farmer\n\nDu temps du temps",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Mes vous \n",
+    "Label": "MISC"
+  }
+}

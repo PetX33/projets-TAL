@@ -1,0 +1,50 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nEt",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Moi je ne sais",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "sapin \nSe",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "Baudelaire",
+    "Label": "PER"
+  },
+  "entité_4": {
+    "Entité": "loving you",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "De peine",
+    "Label": "PER"
+  },
+  "entité_6": {
+    "Entité": "Toulouse",
+    "Label": "LOC"
+  },
+  "entité_7": {
+    "Entité": "sapin \nSe",
+    "Label": "PER"
+  },
+  "entité_8": {
+    "Entité": "Baudelaire",
+    "Label": "PER"
+  },
+  "entité_9": {
+    "Entité": "loving you",
+    "Label": "MISC"
+  },
+  "entité_10": {
+    "Entité": "De peine",
+    "Label": "PER"
+  },
+  "entité_11": {
+    "Entité": "Des larmes, des larmes, des larmes, des larmes \nDe peine",
+    "Label": "MISC"
+  }
+}

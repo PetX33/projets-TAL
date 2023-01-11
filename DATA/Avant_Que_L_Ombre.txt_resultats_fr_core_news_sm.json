@@ -1,0 +1,293 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Avant Que L'ombre par Mylene Farmer\n\nÂpreté des sons \nTourmente des vents \nMémoire ...",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "Avant",
+      "Que",
+      "L'",
+      "ombre",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Âpreté",
+      "des",
+      "sons",
+      "\n",
+      "Tourmente",
+      "des",
+      "vents",
+      "\n",
+      "Mémoire",
+      "..."
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "\nQui m'oublie, qui me fuit \n\nJésus !",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "\n",
+      "Qui",
+      "m'",
+      "oublie",
+      ",",
+      "qui",
+      "me",
+      "fuit",
+      "\n\n",
+      "Jésus",
+      "!"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "J'ai peur \nJésus !",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "J'",
+      "ai",
+      "peur",
+      "\n",
+      "Jésus",
+      "!"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "De l'heure... \nQui me ramène \nA des songes emportés, \nA des mondes oubliés, oh \n\nJésus !",
+    "nombre de token": 24,
+    "Liste de tokens": [
+      "De",
+      "l'",
+      "heure",
+      "...",
+      "\n",
+      "Qui",
+      "me",
+      "ramène",
+      "\n",
+      "A",
+      "des",
+      "songes",
+      "emportés",
+      ",",
+      "\n",
+      "A",
+      "des",
+      "mondes",
+      "oubliés",
+      ",",
+      "oh",
+      "\n\n",
+      "Jésus",
+      "!"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "J'ai peur \nDe la douleur...",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "J'",
+      "ai",
+      "peur",
+      "\n",
+      "De",
+      "la",
+      "douleur",
+      "..."
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "\nDes nuits de veille \nMémoire inachevée, \nQui ne sait... où elle naît \n\nAvant que l'ombre, je sais \nNe s'abatte à mes pieds \nPour voir l'autre coté \nJe sais que... je sais que... j'ai aimé \nAvant que l'ombre... gênée \n",
+    "nombre de token": 58,
+    "Liste de tokens": [
+      "\n",
+      "Des",
+      "nuits",
+      "de",
+      "veille",
+      "\n",
+      "Mémoire",
+      "inachevée",
+      ",",
+      "\n",
+      "Qui",
+      "ne",
+      "sait",
+      "...",
+      "où",
+      "elle",
+      "naît",
+      "\n\n",
+      "Avant",
+      "que",
+      "l'",
+      "ombre",
+      ",",
+      "je",
+      "sais",
+      "\n",
+      "Ne",
+      "s'",
+      "abatte",
+      "à",
+      "mes",
+      "pieds",
+      "\n",
+      "Pour",
+      "voir",
+      "l'",
+      "autre",
+      "coté",
+      "\n",
+      "Je",
+      "sais",
+      "que",
+      "...",
+      "je",
+      "sais",
+      "que",
+      "...",
+      "j'",
+      "ai",
+      "aimé",
+      "\n",
+      "Avant",
+      "que",
+      "l'",
+      "ombre",
+      "...",
+      "gênée",
+      "\n"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "Ne s'abatte à mes pieds \nPour voir l'autre coté \nJe sais que j'aime, je sais que j'ai...",
+    "nombre de token": 25,
+    "Liste de tokens": [
+      "Ne",
+      "s'",
+      "abatte",
+      "à",
+      "mes",
+      "pieds",
+      "\n",
+      "Pour",
+      "voir",
+      "l'",
+      "autre",
+      "coté",
+      "\n",
+      "Je",
+      "sais",
+      "que",
+      "j'",
+      "aime",
+      ",",
+      "je",
+      "sais",
+      "que",
+      "j'",
+      "ai",
+      "..."
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "\n\nJésus !",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n\n",
+      "Jésus",
+      "!"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "J'ai peur \nOh !",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "J'",
+      "ai",
+      "peur",
+      "\n",
+      "Oh",
+      "!"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Jésus !",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Jésus",
+      "!"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Seigneur !",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Seigneur",
+      "!"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "\nSuis-je coupable ?",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "\n",
+      "Suis",
+      "-je",
+      "coupable",
+      "?"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "\nMoi qui croyais mon âme \nSanctuaire impénétrable \n\nJésus !",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "\n",
+      "Moi",
+      "qui",
+      "croyais",
+      "mon",
+      "âme",
+      "\n",
+      "Sanctuaire",
+      "impénétrable",
+      "\n\n",
+      "Jésus",
+      "!"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "J'ai peur \nJésus !",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "J'",
+      "ai",
+      "peur",
+      "\n",
+      "Jésus",
+      "!"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "Je meurs \nDe brûler l'empreinte \nMais laisser le passé redevenir le passé",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Je",
+      "meurs",
+      "\n",
+      "De",
+      "brûler",
+      "l'",
+      "empreinte",
+      "\n",
+      "Mais",
+      "laisser",
+      "le",
+      "passé",
+      "redevenir",
+      "le",
+      "passé"
+    ]
+  }
+}

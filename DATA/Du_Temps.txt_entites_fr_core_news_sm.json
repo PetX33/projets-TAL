@@ -1,0 +1,66 @@
+{
+  "entité_0": {
+    "Entité": "Du Temps",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Mylene Farmer\n\nDu temps du temps",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Du temps du temps \nDu temps",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Suppose",
+    "Label": "PER"
+  },
+  "entité_4": {
+    "Entité": "L'amour en est la cause \nQue nos chemins de vie \nParfois",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "J'men",
+    "Label": "PER"
+  },
+  "entité_6": {
+    "Entité": "Moi je veux",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "Aller",
+    "Label": "PER"
+  },
+  "entité_8": {
+    "Entité": "Que c'est beau \nMais pas du temps \nDu temps du temps \nQu'il te faut \nDu temps du temps \nDu temps non non non \n\nSuppose",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "Mes vous \nMon destin \nS'enroule \nAutour",
+    "Label": "MISC"
+  },
+  "entité_10": {
+    "Entité": "Amour je sens bien",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "Aller",
+    "Label": "PER"
+  },
+  "entité_12": {
+    "Entité": "Du temps du temps",
+    "Label": "MISC"
+  },
+  "entité_13": {
+    "Entité": "Du temps",
+    "Label": "PER"
+  },
+  "entité_14": {
+    "Entité": "Aller",
+    "Label": "PER"
+  },
+  "entité_15": {
+    "Entité": "Que c'est beau \nMais pas du temps \nDu temps du temps \nIl te faut \nDu temps du temps \nDu temps non non non",
+    "Label": "MISC"
+  }
+}

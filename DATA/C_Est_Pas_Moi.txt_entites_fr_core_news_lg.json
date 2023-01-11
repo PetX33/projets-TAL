@@ -1,0 +1,26 @@
+{
+  "entité_0": {
+    "Entité": "Pas Moi par Mylene Farmer\n\n",
+    "Label": "MISC"
+  },
+  "entité_1": {
+    "Entité": "mienne\n\nPas",
+    "Label": "LOC"
+  },
+  "entité_2": {
+    "Entité": "Et sans choix\n",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "mienne\n\nPas",
+    "Label": "LOC"
+  },
+  "entité_4": {
+    "Entité": "mienne\nPas",
+    "Label": "LOC"
+  },
+  "entité_5": {
+    "Entité": "mienne\nPas",
+    "Label": "LOC"
+  }
+}

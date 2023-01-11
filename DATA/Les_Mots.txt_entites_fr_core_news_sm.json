@@ -1,0 +1,126 @@
+{
+  "entité_0": {
+    "Entité": "Mots",
+    "Label": "MISC"
+  },
+  "entité_1": {
+    "Entité": "Mylene Farmer\n\n[Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Là, je donnerais ma vie",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "life for",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "that'",
+    "Label": "LOC"
+  },
+  "entité_5": {
+    "Entité": "I will say goodbye \nBut",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_7": {
+    "Entité": "L'univers",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "Seal]",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "We could kill",
+    "Label": "MISC"
+  },
+  "entité_10": {
+    "Entité": "with words \nSoul",
+    "Label": "PER"
+  },
+  "entité_11": {
+    "Entité": "how would",
+    "Label": "PER"
+  },
+  "entité_12": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_13": {
+    "Entité": "Words",
+    "Label": "MISC"
+  },
+  "entité_14": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_15": {
+    "Entité": "If I swept the world away",
+    "Label": "MISC"
+  },
+  "entité_16": {
+    "Entité": "you how the sun",
+    "Label": "MISC"
+  },
+  "entité_17": {
+    "Entité": "We could with",
+    "Label": "PER"
+  },
+  "entité_18": {
+    "Entité": "one",
+    "Label": "ORG"
+  },
+  "entité_19": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_20": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_21": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_22": {
+    "Entité": "L'univers",
+    "Label": "MISC"
+  },
+  "entité_23": {
+    "Entité": "Seal]",
+    "Label": "MISC"
+  },
+  "entité_24": {
+    "Entité": "We could kill",
+    "Label": "MISC"
+  },
+  "entité_25": {
+    "Entité": "with words \nSoul",
+    "Label": "PER"
+  },
+  "entité_26": {
+    "Entité": "how would",
+    "Label": "PER"
+  },
+  "entité_27": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_28": {
+    "Entité": "Words",
+    "Label": "MISC"
+  },
+  "entité_29": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_30": {
+    "Entité": "Mylène Farmer & Seal",
+    "Label": "PER"
+  }
+}

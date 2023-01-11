@@ -1,0 +1,78 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nShut up!",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Nulle",
+    "Label": "LOC"
+  },
+  "entité_2": {
+    "Entité": "toi\n",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "toi\nParce",
+    "Label": "LOC"
+  },
+  "entité_4": {
+    "Entité": "moi\nRegarde-moi\nNulle",
+    "Label": "ORG"
+  },
+  "entité_5": {
+    "Entité": "mienne\n\nAlors",
+    "Label": "LOC"
+  },
+  "entité_6": {
+    "Entité": "renie-moi là\nSimplement",
+    "Label": "LOC"
+  },
+  "entité_7": {
+    "Entité": "toi\nEt",
+    "Label": "LOC"
+  },
+  "entité_8": {
+    "Entité": "Nulle",
+    "Label": "LOC"
+  },
+  "entité_9": {
+    "Entité": "toi\nParce",
+    "Label": "PER"
+  },
+  "entité_10": {
+    "Entité": "toi\nParce",
+    "Label": "LOC"
+  },
+  "entité_11": {
+    "Entité": "moi\nRegarde-moi\nNulle",
+    "Label": "ORG"
+  },
+  "entité_12": {
+    "Entité": "toi\nQuand",
+    "Label": "LOC"
+  },
+  "entité_13": {
+    "Entité": "bonheur\nPeut-être toi\nPeut-être",
+    "Label": "PER"
+  },
+  "entité_14": {
+    "Entité": "Nulle",
+    "Label": "LOC"
+  },
+  "entité_15": {
+    "Entité": "toi\nParce",
+    "Label": "PER"
+  },
+  "entité_16": {
+    "Entité": "toi\nParce",
+    "Label": "LOC"
+  },
+  "entité_17": {
+    "Entité": "moi\nRegarde-moi\nNulle",
+    "Label": "ORG"
+  },
+  "entité_18": {
+    "Entité": "L'envie de toi\nComme",
+    "Label": "MISC"
+  }
+}

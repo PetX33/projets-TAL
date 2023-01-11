@@ -1,0 +1,26 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Mes moindres soupirs \n",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "enténèbre \nMoi sans la langue \nSans sexe je m'exsangue",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "Mes moindres soupirs \n",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Partager mes rires \nPlutôt plutoniques",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Mon sang bouillonne \n",
+    "Label": "MISC"
+  }
+}

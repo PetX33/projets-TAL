@@ -1,0 +1,541 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Maman a tort par Mylene",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Maman",
+      "a",
+      "tort",
+      "par",
+      "Mylene"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Farmer",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Farmer"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\n\nUn maman a tort \nDeux c'est beau l'amour \nTrois l'infirmière pleure \n",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "\n\n",
+      "Un",
+      "maman",
+      "a",
+      "tort",
+      "\n",
+      "Deux",
+      "c'",
+      "est",
+      "beau",
+      "l'",
+      "amour",
+      "\n",
+      "Trois",
+      "l'",
+      "infirmière",
+      "pleure",
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "Quatre je l'aime \nCinq il est d'mon droit",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "Quatre",
+      "je",
+      "l'",
+      "aime",
+      "\n",
+      "Cinq",
+      "il",
+      "est",
+      "d'",
+      "mon",
+      "droit"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "Six de tout toucher \nSept j'm'arrête pas là \nHuit j'm'amuse \n\nUn quoiqu'maman",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "Six",
+      "de",
+      "tout",
+      "toucher",
+      "\n",
+      "Sept",
+      "j'",
+      "m'",
+      "arrête",
+      "pas",
+      "là",
+      "\n",
+      "Huit",
+      "j'",
+      "m'",
+      "amuse",
+      "\n\n",
+      "Un",
+      "quoiqu'",
+      "maman"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "dise \nDeux elle m'oubliera \nTrois les yeux mouillés \n",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "dise",
+      "\n",
+      "Deux",
+      "elle",
+      "m'",
+      "oubliera",
+      "\n",
+      "Trois",
+      "les",
+      "yeux",
+      "mouillés",
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "Quatre j'ai mal \nCinq je dis c'que j'veux \nSix j'suis malheureuse \nSept j'pense pas souvent \nHuit et vous ?",
+    "nombre de token": 28,
+    "Liste de tokens": [
+      "Quatre",
+      "j'",
+      "ai",
+      "mal",
+      "\n",
+      "Cinq",
+      "je",
+      "dis",
+      "c'",
+      "que",
+      "j'",
+      "veux",
+      "\n",
+      "Six",
+      "j'",
+      "suis",
+      "malheureuse",
+      "\n",
+      "Sept",
+      "j'",
+      "pense",
+      "pas",
+      "souvent",
+      "\n",
+      "Huit",
+      "et",
+      "vous",
+      "?"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "\n\nJ'aime ce qu'on m'interdit \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "\n\n",
+      "J'",
+      "aime",
+      "ce",
+      "qu'",
+      "on",
+      "m'",
+      "interdit",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Les plaisirs impolis \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Les",
+      "plaisirs",
+      "impolis",
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "J'aime quand elle me sourit \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "J'",
+      "aime",
+      "quand",
+      "elle",
+      "me",
+      "sourit",
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "J'aime l'infirmière maman \n\n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "J'",
+      "aime",
+      "l'",
+      "infirmière",
+      "maman",
+      "\n\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Un j'suis très sereine \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Un",
+      "j'",
+      "suis",
+      "très",
+      "sereine",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Deux",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Deux"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "et j'ai bien fait \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "et",
+      "j'",
+      "ai",
+      "bien",
+      "fait",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Trois d'vous en parler \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Trois",
+      "d'",
+      "vous",
+      "en",
+      "parler",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Quatre j'm'amuse \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Quatre",
+      "j'",
+      "m'",
+      "amuse",
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Cinq quoiqu'maman dise \nSix elle était belle \nSept cette infirmière",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "Cinq",
+      "quoiqu'",
+      "maman",
+      "dise",
+      "\n",
+      "Six",
+      "elle",
+      "était",
+      "belle",
+      "\n",
+      "Sept",
+      "cette",
+      "infirmière"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "Huit je l'aime \n\nUn l'infirmière chante \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Huit",
+      "je",
+      "l'",
+      "aime",
+      "\n\n",
+      "Un",
+      "l'",
+      "infirmière",
+      "chante",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Deux",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Deux"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "ça m'fait des choses \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "ça",
+      "m'",
+      "fait",
+      "des",
+      "choses",
+      "\n"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "Trois comme l'alouette \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Trois",
+      "comme",
+      "l'",
+      "alouette",
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "Quatre j'ai peur \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Quatre",
+      "j'",
+      "ai",
+      "peur",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Cinq c'est dur la vie \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Cinq",
+      "c'",
+      "est",
+      "dur",
+      "la",
+      "vie",
+      "\n"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "Six",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Six"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "pour un sourire \nSept j'en pleure la nuit \nHuit et vous",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "pour",
+      "un",
+      "sourire",
+      "\n",
+      "Sept",
+      "j'",
+      "en",
+      "pleure",
+      "la",
+      "nuit",
+      "\n",
+      "Huit",
+      "et",
+      "vous"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "?",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "?"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "\n\nJ'aime ce qu'on m'interdit \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "\n\n",
+      "J'",
+      "aime",
+      "ce",
+      "qu'",
+      "on",
+      "m'",
+      "interdit",
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Les plaisirs impolis \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Les",
+      "plaisirs",
+      "impolis",
+      "\n"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "J'aime quand elle me sourit \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "J'",
+      "aime",
+      "quand",
+      "elle",
+      "me",
+      "sourit",
+      "\n"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "J'aime l'infirmière maman",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "J'",
+      "aime",
+      "l'",
+      "infirmière",
+      "maman"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "\n\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n\n"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "Un maman a tort",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Un",
+      "maman",
+      "a",
+      "tort"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "\nDeux c'est beau l'amour \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n",
+      "Deux",
+      "c'",
+      "est",
+      "beau",
+      "l'",
+      "amour",
+      "\n"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "Trois l'infirmière pleure \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Trois",
+      "l'",
+      "infirmière",
+      "pleure",
+      "\n"
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "Quatre je l'aime \nCinq maman a tort \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Quatre",
+      "je",
+      "l'",
+      "aime",
+      "\n",
+      "Cinq",
+      "maman",
+      "a",
+      "tort",
+      "\n"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "Six c'est beau l'amour \nSept à l'hôpital \n",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Six",
+      "c'",
+      "est",
+      "beau",
+      "l'",
+      "amour",
+      "\n",
+      "Sept",
+      "à",
+      "l'",
+      "hôpital",
+      "\n"
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "Huit j'ai mal",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Huit",
+      "j'",
+      "ai",
+      "mal"
+    ]
+  },
+  "Segment_39": {
+    "Phrase_0": "\n\nUn maman a tort \nDeux c'est beau l'amour...",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "\n\n",
+      "Un",
+      "maman",
+      "a",
+      "tort",
+      "\n",
+      "Deux",
+      "c'",
+      "est",
+      "beau",
+      "l'",
+      "amour",
+      "..."
+    ]
+  },
+  "Segment_40": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  }
+}

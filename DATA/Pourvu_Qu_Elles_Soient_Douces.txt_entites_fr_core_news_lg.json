@@ -1,0 +1,46 @@
+{
+  "entité_0": {
+    "Entité": "Douces",
+    "Label": "LOC"
+  },
+  "entité_1": {
+    "Entité": "Ton",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Ton Kamasutra \nA",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Mon Dieu",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Ah ! des Oh !",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Dénude",
+    "Label": "PER"
+  },
+  "entité_6": {
+    "Entité": "lune",
+    "Label": "LOC"
+  },
+  "entité_7": {
+    "Entité": "Mes petits fesses \n",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "Ah !",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "Oh !",
+    "Label": "MISC"
+  },
+  "entité_10": {
+    "Entité": "lune",
+    "Label": "LOC"
+  }
+}

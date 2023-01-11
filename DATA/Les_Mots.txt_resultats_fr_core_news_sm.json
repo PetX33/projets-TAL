@@ -1,0 +1,518 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Les Mots par Mylene Farmer\n\n[Mylène Farmer] \nFixement, le ciel se tord \nQuand la bouche engendre un mot \nLà, je donnerais ma vie pour t'entendre \nTe dire les mots les plus tendres \n\n[",
+    "nombre de token": 44,
+    "Liste de tokens": [
+      "Les",
+      "Mots",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "]",
+      "\n",
+      "Fixement",
+      ",",
+      "le",
+      "ciel",
+      "se",
+      "tord",
+      "\n",
+      "Quand",
+      "la",
+      "bouche",
+      "engendre",
+      "un",
+      "mot",
+      "\n",
+      "Là",
+      ",",
+      "je",
+      "donnerais",
+      "ma",
+      "vie",
+      "pour",
+      "t'",
+      "entendre",
+      "\n",
+      "Te",
+      "dire",
+      "les",
+      "mots",
+      "les",
+      "plus",
+      "tendres",
+      "\n\n",
+      "["
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Seal]",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Seal",
+      "]"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\nWhen all becomes all alone \nI'd break my life for",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "\n",
+      "When",
+      "all",
+      "becomes",
+      "all",
+      "alone",
+      "\n",
+      "I'",
+      "d",
+      "break",
+      "my",
+      "life",
+      "for"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "a song",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "a",
+      "song"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "\nAnd",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n",
+      "And"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "two lives",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "two",
+      "lives"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": ",",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      ","
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "that's to tomorrow's smile \nI know, I will say goodbye \nBut a fraction of this life \nI will give anything, anytime \n\n[Mylène Farmer]",
+    "nombre de token": 33,
+    "Liste de tokens": [
+      "that'",
+      "s",
+      "to",
+      "tomorrow'",
+      "s",
+      "smile",
+      "\n",
+      "I",
+      "know",
+      ",",
+      "I",
+      "will",
+      "say",
+      "goodbye",
+      "\n",
+      "But",
+      "a",
+      "fraction",
+      "of",
+      "this",
+      "life",
+      "\n",
+      "I",
+      "will",
+      "give",
+      "anything",
+      ",",
+      "anytime",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "]"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "\nL'univers a ses mystères \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "L'",
+      "univers",
+      "a",
+      "ses",
+      "mystères",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Les mots sont nos vies \n\n[",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Les",
+      "mots",
+      "sont",
+      "nos",
+      "vies",
+      "\n\n",
+      "["
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Seal]",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Seal",
+      "]"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "\nWe could kill a life with words \nSoul, how would it feel \n\n[Mylène Farmer]",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "\n",
+      "We",
+      "could",
+      "kill",
+      "a",
+      "life",
+      "with",
+      "words",
+      "\n",
+      "Soul",
+      ",",
+      "how",
+      "would",
+      "it",
+      "feel",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "]"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "\nSi nos vies sont si fragiles \n\n[Seal] \nWords are mysteries \n\n[Mylène Farmer]",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "\n",
+      "Si",
+      "nos",
+      "vies",
+      "sont",
+      "si",
+      "fragiles",
+      "\n\n",
+      "[",
+      "Seal",
+      "]",
+      "\n",
+      "Words",
+      "are",
+      "mysteries",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "]"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "\nLes mots, les sentiments \nLes mots d'amour, un temple \n\n[Seal]",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "\n",
+      "Les",
+      "mots",
+      ",",
+      "les",
+      "sentiments",
+      "\n",
+      "Les",
+      "mots",
+      "d'",
+      "amour",
+      ",",
+      "un",
+      "temple",
+      "\n\n",
+      "[",
+      "Seal",
+      "]"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "\nIf I swept the world away",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "If",
+      "I",
+      "swept",
+      "the",
+      "world",
+      "away"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "What",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "What"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "could touch the universe \nI",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "could",
+      "touch",
+      "the",
+      "universe",
+      "\n",
+      "I"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "would tell you how the sun rose high \nWe could with a word become one \n\n[Mylène Farmer] \nEt pour tous ces mots qui blessent \nIl y a ceux qui nous caressent \nQui illuminent, qui touchent l'infini \nMême si le néant existe \n\n[Mylène Farmer & Seal]",
+    "nombre de token": 58,
+    "Liste de tokens": [
+      "would",
+      "tell",
+      "you",
+      "how",
+      "the",
+      "sun",
+      "rose",
+      "high",
+      "\n",
+      "We",
+      "could",
+      "with",
+      "a",
+      "word",
+      "become",
+      "one",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "]",
+      "\n",
+      "Et",
+      "pour",
+      "tous",
+      "ces",
+      "mots",
+      "qui",
+      "blessent",
+      "\n",
+      "Il",
+      "y",
+      "a",
+      "ceux",
+      "qui",
+      "nous",
+      "caressent",
+      "\n",
+      "Qui",
+      "illuminent",
+      ",",
+      "qui",
+      "touchent",
+      "l'",
+      "infini",
+      "\n",
+      "Même",
+      "si",
+      "le",
+      "néant",
+      "existe",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "&",
+      "Seal",
+      "]"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "\nFor a fraction on this life \nI",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "\n",
+      "For",
+      "a",
+      "fraction",
+      "on",
+      "this",
+      "life",
+      "\n",
+      "I"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "will give anything, anytime \n\n[",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "will",
+      "give",
+      "anything",
+      ",",
+      "anytime",
+      "\n\n",
+      "["
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "Mylène Farmer]",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Mylène",
+      "Farmer",
+      "]"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\nL'univers a ses mystères \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "L'",
+      "univers",
+      "a",
+      "ses",
+      "mystères",
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "Les mots sont nos vies \n\n[",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Les",
+      "mots",
+      "sont",
+      "nos",
+      "vies",
+      "\n\n",
+      "["
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Seal]",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Seal",
+      "]"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "\nWe could kill a life with words \nSoul, how would it feel \n\n[Mylène Farmer]",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "\n",
+      "We",
+      "could",
+      "kill",
+      "a",
+      "life",
+      "with",
+      "words",
+      "\n",
+      "Soul",
+      ",",
+      "how",
+      "would",
+      "it",
+      "feel",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "]"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "\nSi nos vies sont si fragiles \n\n[Seal] \nWords are mysteries \n\n[Mylène Farmer]",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "\n",
+      "Si",
+      "nos",
+      "vies",
+      "sont",
+      "si",
+      "fragiles",
+      "\n\n",
+      "[",
+      "Seal",
+      "]",
+      "\n",
+      "Words",
+      "are",
+      "mysteries",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "]"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "\nLes mots, les sentiments \n\n[Mylène Farmer & Seal]",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "\n",
+      "Les",
+      "mots",
+      ",",
+      "les",
+      "sentiments",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "&",
+      "Seal",
+      "]"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "\nLes mots d'amour, un temple",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n",
+      "Les",
+      "mots",
+      "d'",
+      "amour",
+      ",",
+      "un",
+      "temple"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nOu oui ouou",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Oh Oh\nNe",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "toi\nRien",
+    "Label": "LOC"
+  },
+  "entité_3": {
+    "Entité": "Han han bon\nC'",
+    "Label": "PER"
+  },
+  "entité_4": {
+    "Entité": "tac\nChangeons d'époque\nOh oui!",
+    "Label": "LOC"
+  },
+  "entité_5": {
+    "Entité": "L'amour le loup\nEst",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "X\nDis-moi oui\nMais non\nNe",
+    "Label": "ORG"
+  },
+  "entité_7": {
+    "Entité": "non\nDieu",
+    "Label": "PER"
+  },
+  "entité_8": {
+    "Entité": "X\nCall",
+    "Label": "ORG"
+  },
+  "entité_9": {
+    "Entité": "now\n\nAllongée",
+    "Label": "LOC"
+  },
+  "entité_10": {
+    "Entité": "Ode",
+    "Label": "PER"
+  },
+  "entité_11": {
+    "Entité": "rougis\nL'aube",
+    "Label": "PER"
+  },
+  "entité_12": {
+    "Entité": "Oh Oh\nOh bateau ivre\nEt joie de vivre\n\nMe",
+    "Label": "MISC"
+  },
+  "entité_13": {
+    "Entité": "Han han bon\nC'",
+    "Label": "PER"
+  },
+  "entité_14": {
+    "Entité": "tac\nChangeons d'époque\nOh oui!",
+    "Label": "LOC"
+  },
+  "entité_15": {
+    "Entité": "L'amour le loup\nEst",
+    "Label": "MISC"
+  },
+  "entité_16": {
+    "Entité": "X\nDis-moi oui\nMais non\nNe",
+    "Label": "ORG"
+  },
+  "entité_17": {
+    "Entité": "non\nDieu",
+    "Label": "PER"
+  },
+  "entité_18": {
+    "Entité": "Mon corps",
+    "Label": "MISC"
+  },
+  "entité_19": {
+    "Entité": "X\nCall",
+    "Label": "ORG"
+  },
+  "entité_20": {
+    "Entité": "now\nAllongée",
+    "Label": "LOC"
+  },
+  "entité_21": {
+    "Entité": "L'amour le loup\nEst",
+    "Label": "MISC"
+  },
+  "entité_22": {
+    "Entité": "Dis-moi oui\nMais non\nNe",
+    "Label": "MISC"
+  },
+  "entité_23": {
+    "Entité": "X\nDis-moi oui\nMais non\nNe",
+    "Label": "ORG"
+  },
+  "entité_24": {
+    "Entité": "non\nDieu",
+    "Label": "PER"
+  },
+  "entité_25": {
+    "Entité": "Sans toi",
+    "Label": "MISC"
+  },
+  "entité_26": {
+    "Entité": "X\nCall",
+    "Label": "ORG"
+  },
+  "entité_27": {
+    "Entité": "now\nAllongée",
+    "Label": "LOC"
+  },
+  "entité_28": {
+    "Entité": "Ou oui ouou",
+    "Label": "MISC"
+  }
+}

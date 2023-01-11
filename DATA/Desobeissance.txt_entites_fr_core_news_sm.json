@@ -1,0 +1,34 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nJ'ai connu des\nPutains de ténèbres\nEt",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "lourd\nDétaché",
+    "Label": "LOC"
+  },
+  "entité_2": {
+    "Entité": "J'ai connu des\nDes vrais champs de blés\nJ'ai fermé les yeux\nEt la fièvre",
+    "Label": "LOC"
+  },
+  "entité_3": {
+    "Entité": "tombée\nJ'ai",
+    "Label": "PER"
+  },
+  "entité_4": {
+    "Entité": "dieu\n\nDésobéissance\nÀ",
+    "Label": "PER"
+  },
+  "entité_5": {
+    "Entité": "lourd\nDétaché",
+    "Label": "LOC"
+  },
+  "entité_6": {
+    "Entité": "lourd\nDétaché",
+    "Label": "LOC"
+  },
+  "entité_7": {
+    "Entité": "lourd\nDétaché",
+    "Label": "LOC"
+  }
+}

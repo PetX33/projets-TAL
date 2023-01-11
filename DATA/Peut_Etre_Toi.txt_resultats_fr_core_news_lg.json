@@ -1,0 +1,534 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Peut-Être Toi par Mylene Farmer\n\nShut up!",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "Peut",
+      "-",
+      "Être",
+      "Toi",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Shut",
+      "up",
+      "!"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "\nShut",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n",
+      "Shut"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "up",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "up"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "!",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "!"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "\nShut",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n",
+      "Shut"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "up",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "up"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "!",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "!"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "Peut-être toi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Peut",
+      "-",
+      "être",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Peut-être toi\nRegarde-moi\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Peut",
+      "-",
+      "être",
+      "toi",
+      "\n",
+      "Regarde",
+      "-moi",
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Nulle autre n'a\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Nulle",
+      "autre",
+      "n'",
+      "a",
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "L'envie de toi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "L'",
+      "envie",
+      "de",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Comme j'ai besoin de toi\n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Comme",
+      "j'",
+      "ai",
+      "besoin",
+      "de",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Parce que c'est toi\nParce que c'est moi\nRegarde-moi\n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Parce",
+      "que",
+      "c'",
+      "est",
+      "toi",
+      "\n",
+      "Parce",
+      "que",
+      "c'",
+      "est",
+      "moi",
+      "\n",
+      "Regarde",
+      "-moi",
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "Nulle autre n'a\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Nulle",
+      "autre",
+      "n'",
+      "a",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "L'envie de toi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "L'",
+      "envie",
+      "de",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Comme j'ai besoin de toi\nSi par mégarde la faute est mienne\n\nAlors, renie-moi là\nSimplement sache bien que saigne\n",
+    "nombre de token": 27,
+    "Liste de tokens": [
+      "Comme",
+      "j'",
+      "ai",
+      "besoin",
+      "de",
+      "toi",
+      "\n",
+      "Si",
+      "par",
+      "mégarde",
+      "la",
+      "faute",
+      "est",
+      "mienne",
+      "\n\n",
+      "Alors",
+      ",",
+      "renie",
+      "-moi",
+      "là",
+      "\n",
+      "Simplement",
+      "sache",
+      "bien",
+      "que",
+      "saigne",
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Ce cœur qui bat pour toi\nEt quand l'absence désincarne et hante l'univers\nJe n'avais plus qu'à trouver l'âme\nEt retrouver peut-être\n",
+    "nombre de token": 31,
+    "Liste de tokens": [
+      "Ce",
+      "cœur",
+      "qui",
+      "bat",
+      "pour",
+      "toi",
+      "\n",
+      "Et",
+      "quand",
+      "l'",
+      "absence",
+      "désincarne",
+      "et",
+      "hante",
+      "l'",
+      "univers",
+      "\n",
+      "Je",
+      "n'",
+      "avais",
+      "plus",
+      "qu'",
+      "à",
+      "trouver",
+      "l'",
+      "âme",
+      "\n",
+      "Et",
+      "retrouver",
+      "peut-être",
+      "\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "Peut-être toi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Peut",
+      "-",
+      "être",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "Peut-être toi\nRegarde-moi\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Peut",
+      "-",
+      "être",
+      "toi",
+      "\n",
+      "Regarde",
+      "-moi",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Nulle autre n'a\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Nulle",
+      "autre",
+      "n'",
+      "a",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "L'envie de toi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "L'",
+      "envie",
+      "de",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "Comme j'ai besoin de toi\n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Comme",
+      "j'",
+      "ai",
+      "besoin",
+      "de",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "Parce que c'est toi\nParce que c'est moi\nRegarde-moi\n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Parce",
+      "que",
+      "c'",
+      "est",
+      "toi",
+      "\n",
+      "Parce",
+      "que",
+      "c'",
+      "est",
+      "moi",
+      "\n",
+      "Regarde",
+      "-moi",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Nulle autre n'a\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Nulle",
+      "autre",
+      "n'",
+      "a",
+      "\n"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "L'envie de toi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "L'",
+      "envie",
+      "de",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "Comme j'ai besoin de toi\n\nSi nos matins semblent poussière\nAlors",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Comme",
+      "j'",
+      "ai",
+      "besoin",
+      "de",
+      "toi",
+      "\n\n",
+      "Si",
+      "nos",
+      "matins",
+      "semblent",
+      "poussière",
+      "\n",
+      "Alors"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": ", renie-moi là\nSimplement je n'aurais su taire\nLe bruit qui est en toi\nQuand la présence d'un vent calme entrouvre l'univers\nMon inquiétude d'amour cache\n",
+    "nombre de token": 36,
+    "Liste de tokens": [
+      ",",
+      "renie",
+      "-moi",
+      "là",
+      "\n",
+      "Simplement",
+      "je",
+      "n'",
+      "aurais",
+      "su",
+      "taire",
+      "\n",
+      "Le",
+      "bruit",
+      "qui",
+      "est",
+      "en",
+      "toi",
+      "\n",
+      "Quand",
+      "la",
+      "présence",
+      "d'",
+      "un",
+      "vent",
+      "calme",
+      "entrouvre",
+      "l'",
+      "univers",
+      "\n",
+      "Mon",
+      "inquiétude",
+      "d'",
+      "amour",
+      "cache",
+      "\n"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "Une envie de bonheur\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Une",
+      "envie",
+      "de",
+      "bonheur",
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Peut-être toi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Peut",
+      "-",
+      "être",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "Peut-être toi\nRegarde-moi\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Peut",
+      "-",
+      "être",
+      "toi",
+      "\n",
+      "Regarde",
+      "-moi",
+      "\n"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "Nulle autre n'a\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Nulle",
+      "autre",
+      "n'",
+      "a",
+      "\n"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "L'envie de toi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "L'",
+      "envie",
+      "de",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "Comme j'ai besoin de toi\n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Comme",
+      "j'",
+      "ai",
+      "besoin",
+      "de",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "Parce que c'est toi\nParce que c'est moi\nRegarde-moi\n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Parce",
+      "que",
+      "c'",
+      "est",
+      "toi",
+      "\n",
+      "Parce",
+      "que",
+      "c'",
+      "est",
+      "moi",
+      "\n",
+      "Regarde",
+      "-moi",
+      "\n"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "Nulle autre n'a\n\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Nulle",
+      "autre",
+      "n'",
+      "a",
+      "\n\n"
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "L'envie de toi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "L'",
+      "envie",
+      "de",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "Comme j'ai besoin de toi",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Comme",
+      "j'",
+      "ai",
+      "besoin",
+      "de",
+      "toi"
+    ]
+  }
+}

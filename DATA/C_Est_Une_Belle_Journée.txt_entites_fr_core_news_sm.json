@@ -1,0 +1,34 @@
+{
+  "entité_0": {
+    "Entité": "Une Belle Journée",
+    "Label": "MISC"
+  },
+  "entité_1": {
+    "Entité": "Mylene Farmer\n\nAllongé",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Le bonheur \nLui",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Moi j'ai",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Aussi \n\nC'",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Je vais me coucher \nUne si belle journée \nQui s'achève \nDonne l'envie d'aimer \nMais je vais me coucher \nMordre l'éternité \nA dents pleines \nC'est une belle journée \nJe vais me coucher \nUne si belle journée \nSouveraine \nDonne",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "Allongé",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "Belle \nLa vie",
+    "Label": "PER"
+  }
+}

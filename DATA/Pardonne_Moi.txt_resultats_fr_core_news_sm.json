@@ -1,0 +1,355 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Pardonne",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Pardonne"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "-",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "-"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "Moi",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Moi"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "par Mylene Farmer\n\n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Sonnerie Pardonne-moi",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Sonnerie",
+      "Pardonne",
+      "-moi"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "\nsi la douleur remue tout \nQu'elle me broie \nDe t'aimer comme un fou \nQue tu n'es pas \nPardonne-moi \nPardonne-moi \nLa profondeur de mon amour \nPour toi \nSi c'est du sang qui coule \nAu fond de moi \nPardonne-la \n\nPrince hongrois \nNos chaque jour : \n...",
+    "nombre de token": 66,
+    "Liste de tokens": [
+      "\n",
+      "si",
+      "la",
+      "douleur",
+      "remue",
+      "tout",
+      "\n",
+      "Qu'",
+      "elle",
+      "me",
+      "broie",
+      "\n",
+      "De",
+      "t'",
+      "aimer",
+      "comme",
+      "un",
+      "fou",
+      "\n",
+      "Que",
+      "tu",
+      "n'",
+      "es",
+      "pas",
+      "\n",
+      "Pardonne",
+      "-moi",
+      "\n",
+      "Pardonne",
+      "-moi",
+      "\n",
+      "La",
+      "profondeur",
+      "de",
+      "mon",
+      "amour",
+      "\n",
+      "Pour",
+      "toi",
+      "\n",
+      "Si",
+      "c'",
+      "est",
+      "du",
+      "sang",
+      "qui",
+      "coule",
+      "\n",
+      "Au",
+      "fond",
+      "de",
+      "moi",
+      "\n",
+      "Pardonne",
+      "-",
+      "la",
+      "\n\n",
+      "Prince",
+      "hongrois",
+      "\n",
+      "Nos",
+      "chaque",
+      "jour",
+      ":",
+      "\n",
+      "..."
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "Il était une fois \nDes vœux d'amour \nQuand il montait chez moi \nLa première fois...",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "Il",
+      "était",
+      "une",
+      "fois",
+      "\n",
+      "Des",
+      "vœux",
+      "d'",
+      "amour",
+      "\n",
+      "Quand",
+      "il",
+      "montait",
+      "chez",
+      "moi",
+      "\n",
+      "La",
+      "première",
+      "fois",
+      "..."
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "\n\nPrince hindou \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "\n\n",
+      "Prince",
+      "hindou",
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "Je l'imagine encore \nAu creux de moi \nJe veux plonger dans son cœur, \nEt sa voix \nMe dit tout bas...",
+    "nombre de token": 27,
+    "Liste de tokens": [
+      "Je",
+      "l'",
+      "imagine",
+      "encore",
+      "\n",
+      "Au",
+      "creux",
+      "de",
+      "moi",
+      "\n",
+      "Je",
+      "veux",
+      "plonger",
+      "dans",
+      "son",
+      "cœur",
+      ",",
+      "\n",
+      "Et",
+      "sa",
+      "voix",
+      "\n",
+      "Me",
+      "dit",
+      "tout",
+      "bas",
+      "..."
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "\n\nPrince arabe \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "\n\n",
+      "Prince",
+      "arabe",
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Tes",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Tes"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "silences",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "silences"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "effleuraient \nDu bout des doigts \nTous mes sens",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "effleuraient",
+      "\n",
+      "Du",
+      "bout",
+      "des",
+      "doigts",
+      "\n",
+      "Tous",
+      "mes",
+      "sens"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": ", aurons-nous \nUn autrefois ?",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      ",",
+      "aurons",
+      "-nous",
+      "\n",
+      "Un",
+      "autrefois",
+      "?"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "\nReste chez moi \n\nPrince",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "\n",
+      "Reste",
+      "chez",
+      "moi",
+      "\n\n",
+      "Prince"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Aurore",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Aurore"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "\nOù en est-tu \nDe ces pulsions de mort ?",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "\n",
+      "Où",
+      "en",
+      "est-tu",
+      "\n",
+      "De",
+      "ces",
+      "pulsions",
+      "de",
+      "mort",
+      "?"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "\nQu'avons nous fait de bien \naprès l'effort \nDeux corps, un sort \n\nPrince",
+    "nombre de token": 19,
+    "Liste de tokens": [
+      "\n",
+      "Qu'",
+      "avons",
+      "nous",
+      "fait",
+      "de",
+      "bien",
+      "\n",
+      "après",
+      "l'",
+      "effort",
+      "\n",
+      "Deux",
+      "corps",
+      ",",
+      "un",
+      "sort",
+      "\n\n",
+      "Prince"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "hongrois \nL'on descend de l'autre \nCoté du monde \nParcourir l'étoile \nA chaque seconde \nPartager l'ombre \n\nPrince noir \nDélivre-moi de mon sang, \nD'un espoir \nCar en moi guette un silence \nSans fard \nUn nulle part",
+    "nombre de token": 52,
+    "Liste de tokens": [
+      "hongrois",
+      "\n",
+      "L'",
+      "on",
+      "descend",
+      "de",
+      "l'",
+      "autre",
+      "\n",
+      "Coté",
+      "du",
+      "monde",
+      "\n",
+      "Parcourir",
+      "l'",
+      "étoile",
+      "\n",
+      "A",
+      "chaque",
+      "seconde",
+      "\n",
+      "Partager",
+      "l'",
+      "ombre",
+      "\n\n",
+      "Prince",
+      "noir",
+      "\n",
+      "Délivre",
+      "-moi",
+      "de",
+      "mon",
+      "sang",
+      ",",
+      "\n",
+      "D'",
+      "un",
+      "espoir",
+      "\n",
+      "Car",
+      "en",
+      "moi",
+      "guette",
+      "un",
+      "silence",
+      "\n",
+      "Sans",
+      "fard",
+      "\n",
+      "Un",
+      "nulle",
+      "part"
+    ]
+  }
+}

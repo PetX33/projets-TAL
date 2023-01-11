@@ -1,0 +1,317 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Tristana par Mylene Farmer\n\nTriste",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Tristana",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Triste"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "elle est prête à tout \nPour rien, pour tout \nDans la ronde des fous elle pleure tout doux \nL'amour a tué les mots qui la touchent, touchent \nContre ta bouche elle veut qu'on la couche \n\nTriste",
+    "nombre de token": 45,
+    "Liste de tokens": [
+      "elle",
+      "est",
+      "prête",
+      "à",
+      "tout",
+      "\n",
+      "Pour",
+      "rien",
+      ",",
+      "pour",
+      "tout",
+      "\n",
+      "Dans",
+      "la",
+      "ronde",
+      "des",
+      "fous",
+      "elle",
+      "pleure",
+      "tout",
+      "doux",
+      "\n",
+      "L'",
+      "amour",
+      "a",
+      "tué",
+      "les",
+      "mots",
+      "qui",
+      "la",
+      "touchent",
+      ",",
+      "touchent",
+      "\n",
+      "Contre",
+      "ta",
+      "bouche",
+      "elle",
+      "veut",
+      "qu'",
+      "on",
+      "la",
+      "couche",
+      "\n\n",
+      "Triste"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "elle fait la grimace, \nDevant sa glace \nD'un coup du cœur enlace l'ombre qui passe \nEt rien jamais n'effacera les traces, lâches \nDu sang qui coule des corps qui se cassent \n\nAdieu",
+    "nombre de token": 42,
+    "Liste de tokens": [
+      "elle",
+      "fait",
+      "la",
+      "grimace",
+      ",",
+      "\n",
+      "Devant",
+      "sa",
+      "glace",
+      "\n",
+      "D'",
+      "un",
+      "coup",
+      "du",
+      "cœur",
+      "enlace",
+      "l'",
+      "ombre",
+      "qui",
+      "passe",
+      "\n",
+      "Et",
+      "rien",
+      "jamais",
+      "n'",
+      "effacera",
+      "les",
+      "traces",
+      ",",
+      "lâches",
+      "\n",
+      "Du",
+      "sang",
+      "qui",
+      "coule",
+      "des",
+      "corps",
+      "qui",
+      "se",
+      "cassent",
+      "\n\n",
+      "Adieu"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "Tristana",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Tristana"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "Ton cœur a pris froid \nAdieu",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Ton",
+      "cœur",
+      "a",
+      "pris",
+      "froid",
+      "\n",
+      "Adieu"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "Tristana \nDieu",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Tristana",
+      "\n",
+      "Dieu"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "baisse les bras \nLaissez-la partir \nLaissez-la mourir \nNe le dites pas \nTristana, c'est moi !",
+    "nombre de token": 25,
+    "Liste de tokens": [
+      "baisse",
+      "les",
+      "bras",
+      "\n",
+      "Laissez",
+      "-",
+      "la",
+      "partir",
+      "\n",
+      "Laissez",
+      "-",
+      "la",
+      "mourir",
+      "\n",
+      "Ne",
+      "le",
+      "dites",
+      "pas",
+      "\n",
+      "Tristana",
+      ",",
+      "c'",
+      "est",
+      "moi",
+      "!"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "\n\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Triste",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Triste"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "sort Tristana \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "sort",
+      "Tristana",
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "Tu sais, crois-moi \nTrois petits tours, elle s'en va \nLa vie comme ça \nLes plus beaux jours s'achèvent dans la peine, haine \nPourquoi faut-il payer de ses veines \n\nAdieu",
+    "nombre de token": 41,
+    "Liste de tokens": [
+      "Tu",
+      "sais",
+      ",",
+      "crois",
+      "-moi",
+      "\n",
+      "Trois",
+      "petits",
+      "tours",
+      ",",
+      "elle",
+      "s'",
+      "en",
+      "va",
+      "\n",
+      "La",
+      "vie",
+      "comme",
+      "ça",
+      "\n",
+      "Les",
+      "plus",
+      "beaux",
+      "jours",
+      "s'",
+      "achèvent",
+      "dans",
+      "la",
+      "peine",
+      ",",
+      "haine",
+      "\n",
+      "Pourquoi",
+      "faut",
+      "-il",
+      "payer",
+      "de",
+      "ses",
+      "veines",
+      "\n\n",
+      "Adieu"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Tristana",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Tristana"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "Ton cœur a pris froid \nAdieu",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Ton",
+      "cœur",
+      "a",
+      "pris",
+      "froid",
+      "\n",
+      "Adieu"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Tristana \nDieu",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Tristana",
+      "\n",
+      "Dieu"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "baisse les bras \nLaissez-la partir \nLaissez-la mourir \nNe le dites pas \nTristana, c'est moi !",
+    "nombre de token": 25,
+    "Liste de tokens": [
+      "baisse",
+      "les",
+      "bras",
+      "\n",
+      "Laissez",
+      "-",
+      "la",
+      "partir",
+      "\n",
+      "Laissez",
+      "-",
+      "la",
+      "mourir",
+      "\n",
+      "Ne",
+      "le",
+      "dites",
+      "pas",
+      "\n",
+      "Tristana",
+      ",",
+      "c'",
+      "est",
+      "moi",
+      "!"
+    ]
+  }
+}

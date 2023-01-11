@@ -1,0 +1,26 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nBulle de chagrin \nBoule",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Nait",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Il \nAinsi moi je \nPrie",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Tu \n",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Il \nAinsi moi je \nPrie",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Tu \nFuies",
+    "Label": "MISC"
+  }
+}

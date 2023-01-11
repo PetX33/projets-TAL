@@ -1,0 +1,34 @@
+{
+  "entité_0": {
+    "Entité": "Lonely Lisa",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Aimer le ciel \n\nLonely Lisa",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "Lonely Lisa",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Gagner le ciel \n\nLonely Lisa !",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Lonely Lisa",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "fo",
+    "Label": "ORG"
+  },
+  "entité_6": {
+    "Entité": "Aimer le ciel \n\nLonely Lisa",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "Lonely Lisa",
+    "Label": "MISC"
+  }
+}

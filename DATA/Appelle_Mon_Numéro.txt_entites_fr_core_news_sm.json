@@ -1,0 +1,94 @@
+{
+  "entité_0": {
+    "Entité": "Appelle",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Mylene Farmer\n\nQui",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Mon plus beau geste \n\nJ'ai un pillow du soir \nUn pillow de star \nSans pillow",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Refais",
+    "Label": "LOC"
+  },
+  "entité_4": {
+    "Entité": "Appelle mon numéro \nJ'humeur",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "zéro \nAppelle",
+    "Label": "ORG"
+  },
+  "entité_6": {
+    "Entité": "Appelle mon numéro \nViens",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "Ni trop sage \n",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "Appelle mon numéro \nCompose ma vie \nAppelle mon numéro \nFais-moi l'hallali \nAppelle mon numéro \nDonne-moi",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "Velours d'un boudoir \nEt",
+    "Label": "MISC"
+  },
+  "entité_10": {
+    "Entité": "Appelle mon numéro \nJ'humeur",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "zéro \nAppelle",
+    "Label": "ORG"
+  },
+  "entité_12": {
+    "Entité": "Appelle mon numéro \nViens",
+    "Label": "MISC"
+  },
+  "entité_13": {
+    "Entité": "Ni trop sage \n",
+    "Label": "MISC"
+  },
+  "entité_14": {
+    "Entité": "Appelle mon numéro \nCompose ma vie \nAppelle mon numéro \nFais-moi l'hallali \nAppelle mon numéro \nDonne-moi",
+    "Label": "MISC"
+  },
+  "entité_15": {
+    "Entité": "Appelle mon numéro \nJ'humeur",
+    "Label": "MISC"
+  },
+  "entité_16": {
+    "Entité": "zéro \nAppelle",
+    "Label": "ORG"
+  },
+  "entité_17": {
+    "Entité": "Appelle mon numéro \nViens",
+    "Label": "MISC"
+  },
+  "entité_18": {
+    "Entité": "Ni trop sage \n",
+    "Label": "MISC"
+  },
+  "entité_19": {
+    "Entité": "Appelle mon numéro \nCompose ma vie \nAppelle mon numéro \nFais-moi l'hallali \nAppelle mon numéro \nDonne-moi",
+    "Label": "MISC"
+  },
+  "entité_20": {
+    "Entité": "Appelle mon numéro \nAppelle mon numéro \nJ'ai le sang si chaud",
+    "Label": "MISC"
+  },
+  "entité_21": {
+    "Entité": "Appelle mon numéro \nNi trop sage \nNi collage \nJuste",
+    "Label": "MISC"
+  },
+  "entité_22": {
+    "Entité": "Appelle mon numéro \nAppelle mon numéro \nAppelle mon numéro \nLalalala \nLalalala \nApelle-moi",
+    "Label": "MISC"
+  }
+}

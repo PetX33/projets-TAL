@@ -1,0 +1,46 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nQui",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Mon plus beau geste",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "Appelle",
+    "Label": "LOC"
+  },
+  "entité_3": {
+    "Entité": "Lalalala \n",
+    "Label": "PER"
+  },
+  "entité_4": {
+    "Entité": "Délit de l'émoi",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Appelle",
+    "Label": "LOC"
+  },
+  "entité_6": {
+    "Entité": "Lalalala \n",
+    "Label": "PER"
+  },
+  "entité_7": {
+    "Entité": "Appelle",
+    "Label": "LOC"
+  },
+  "entité_8": {
+    "Entité": "Lalalala \n",
+    "Label": "PER"
+  },
+  "entité_9": {
+    "Entité": "Appelle",
+    "Label": "LOC"
+  },
+  "entité_10": {
+    "Entité": "Lalalala \n",
+    "Label": "PER"
+  }
+}

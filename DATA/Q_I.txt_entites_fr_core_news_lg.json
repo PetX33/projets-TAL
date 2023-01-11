@@ -1,0 +1,50 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Complétement occise",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "Rodin",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "Ça",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Ça",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "quantas \nQuant",
+    "Label": "ORG"
+  },
+  "entité_6": {
+    "Entité": "Rodin",
+    "Label": "PER"
+  },
+  "entité_7": {
+    "Entité": "Ça",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "Ça",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "Rodin",
+    "Label": "PER"
+  },
+  "entité_10": {
+    "Entité": "Ça",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "Ça",
+    "Label": "MISC"
+  }
+}

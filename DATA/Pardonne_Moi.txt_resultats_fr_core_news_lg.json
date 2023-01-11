@@ -1,0 +1,457 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Pardonne",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Pardonne"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "-Moi par Mylene",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "-",
+      "Moi",
+      "par",
+      "Mylene"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "Farmer",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Farmer"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "\n\nSonnerie",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n\n",
+      "Sonnerie"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Pardonne-moi \nsi la douleur remue tout \nQu'elle me broie \nDe t'aimer comme un fou \nQue tu n'es pas \n",
+    "nombre de token": 27,
+    "Liste de tokens": [
+      "Pardonne",
+      "-moi",
+      "\n",
+      "si",
+      "la",
+      "douleur",
+      "remue",
+      "tout",
+      "\n",
+      "Qu'",
+      "elle",
+      "me",
+      "broie",
+      "\n",
+      "De",
+      "t'",
+      "aimer",
+      "comme",
+      "un",
+      "fou",
+      "\n",
+      "Que",
+      "tu",
+      "n'",
+      "es",
+      "pas",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "Pardonne-moi \nPardonne-moi \nLa profondeur de mon amour \nPour toi",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Pardonne",
+      "-moi",
+      "\n",
+      "Pardonne",
+      "-moi",
+      "\n",
+      "La",
+      "profondeur",
+      "de",
+      "mon",
+      "amour",
+      "\n",
+      "Pour",
+      "toi"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "Si c'est du sang qui coule \nAu fond de moi \n",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "Si",
+      "c'",
+      "est",
+      "du",
+      "sang",
+      "qui",
+      "coule",
+      "\n",
+      "Au",
+      "fond",
+      "de",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "Pardonne",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Pardonne"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "-la \n\nPrince hongrois \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "-",
+      "la",
+      "\n\n",
+      "Prince",
+      "hongrois",
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Nos chaque jour : \n...",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Nos",
+      "chaque",
+      "jour",
+      ":",
+      "\n",
+      "..."
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "Il était une fois \nDes vœux d'amour \nQuand il montait chez moi \n",
+    "nombre de token": 16,
+    "Liste de tokens": [
+      "Il",
+      "était",
+      "une",
+      "fois",
+      "\n",
+      "Des",
+      "vœux",
+      "d'",
+      "amour",
+      "\n",
+      "Quand",
+      "il",
+      "montait",
+      "chez",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "La première fois... \n\nPrince hindou \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "La",
+      "première",
+      "fois",
+      "...",
+      "\n\n",
+      "Prince",
+      "hindou",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Je l'imagine encore \nAu creux de moi",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Je",
+      "l'",
+      "imagine",
+      "encore",
+      "\n",
+      "Au",
+      "creux",
+      "de",
+      "moi"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "\nJe veux plonger dans son cœur, \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "\n",
+      "Je",
+      "veux",
+      "plonger",
+      "dans",
+      "son",
+      "cœur",
+      ",",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Et sa voix \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Et",
+      "sa",
+      "voix",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Me dit tout bas...",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Me",
+      "dit",
+      "tout",
+      "bas",
+      "..."
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "\n\nPrince arabe",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n\n",
+      "Prince",
+      "arabe"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "\nTes silences",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n",
+      "Tes",
+      "silences"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "effleuraient \nDu bout des doigts \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "effleuraient",
+      "\n",
+      "Du",
+      "bout",
+      "des",
+      "doigts",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Tous mes sens",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Tous",
+      "mes",
+      "sens"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": ", aurons-nous \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      ",",
+      "aurons",
+      "-nous",
+      "\n"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "Un autrefois ?",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Un",
+      "autrefois",
+      "?"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Reste chez moi",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Reste",
+      "chez",
+      "moi"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "\n\nPrince",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n\n",
+      "Prince"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "Aurore",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Aurore"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "Où en est-tu \nDe ces pulsions de mort ?",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Où",
+      "en",
+      "est-tu",
+      "\n",
+      "De",
+      "ces",
+      "pulsions",
+      "de",
+      "mort",
+      "?"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "\nQu'avons nous fait de bien \naprès l'effort \n",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "\n",
+      "Qu'",
+      "avons",
+      "nous",
+      "fait",
+      "de",
+      "bien",
+      "\n",
+      "après",
+      "l'",
+      "effort",
+      "\n"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "Deux corps, un sort \n\nPrince hongrois",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Deux",
+      "corps",
+      ",",
+      "un",
+      "sort",
+      "\n\n",
+      "Prince",
+      "hongrois"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "L'on descend de l'autre \nCoté du monde \nParcourir l'étoile \n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "L'",
+      "on",
+      "descend",
+      "de",
+      "l'",
+      "autre",
+      "\n",
+      "Coté",
+      "du",
+      "monde",
+      "\n",
+      "Parcourir",
+      "l'",
+      "étoile",
+      "\n"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "A chaque seconde \nPartager l'ombre \n\nPrince noir \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "A",
+      "chaque",
+      "seconde",
+      "\n",
+      "Partager",
+      "l'",
+      "ombre",
+      "\n\n",
+      "Prince",
+      "noir",
+      "\n"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "Délivre-moi de mon sang, \nD'un espoir \nCar en moi guette un silence \nSans fard \n",
+    "nombre de token": 21,
+    "Liste de tokens": [
+      "Délivre",
+      "-moi",
+      "de",
+      "mon",
+      "sang",
+      ",",
+      "\n",
+      "D'",
+      "un",
+      "espoir",
+      "\n",
+      "Car",
+      "en",
+      "moi",
+      "guette",
+      "un",
+      "silence",
+      "\n",
+      "Sans",
+      "fard",
+      "\n"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "Un nulle part",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Un",
+      "nulle",
+      "part"
+    ]
+  }
+}

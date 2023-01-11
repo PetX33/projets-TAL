@@ -1,0 +1,74 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nTout",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Oh démon",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "Souffle",
+    "Label": "LOC"
+  },
+  "entité_3": {
+    "Entité": "fuck you too \nÀ",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Requiem pour tout \nRecommencer \nPlus de sorry",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "sorry \nPlus",
+    "Label": "PER"
+  },
+  "entité_6": {
+    "Entité": "Retourne en enfer \n\n",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "Vois \nViolente",
+    "Label": "PER"
+  },
+  "entité_8": {
+    "Entité": "Qu'importe!",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "fuck you too \nÀ",
+    "Label": "MISC"
+  },
+  "entité_10": {
+    "Entité": "Requiem pour tout \nRecommencer \nPlus de sorry",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "sorry \nPlus",
+    "Label": "PER"
+  },
+  "entité_12": {
+    "Entité": "Retourne en enfer \n\nSentiment",
+    "Label": "MISC"
+  },
+  "entité_13": {
+    "Entité": "haut-le-cœur",
+    "Label": "LOC"
+  },
+  "entité_14": {
+    "Entité": "fuck you too \nÀ",
+    "Label": "MISC"
+  },
+  "entité_15": {
+    "Entité": "Requiem pour tout \nRecommencer \nPlus de sorry",
+    "Label": "MISC"
+  },
+  "entité_16": {
+    "Entité": "sorry \nPlus",
+    "Label": "PER"
+  },
+  "entité_17": {
+    "Entité": "Retourne en enfer",
+    "Label": "MISC"
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Dégénération par Mylene Farmer\n\nSexy coma",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Dégénération",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Sexy",
+      "coma"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "Sexy trauma \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Sexy",
+      "trauma",
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "Sexy coma",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Sexy",
+      "coma"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "Sexy trauma \nComa des sexes, des styxs, d'éstatique",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Sexy",
+      "trauma",
+      "\n",
+      "Coma",
+      "des",
+      "sexes",
+      ",",
+      "des",
+      "styxs",
+      ",",
+      "d'",
+      "éstatique"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\nComa des sexes, des styxs, extatique \nComa des sexes, des styxs, d'ésta-ta",
+    "nombre de token": 21,
+    "Liste de tokens": [
+      "\n",
+      "Coma",
+      "des",
+      "sexes",
+      ",",
+      "des",
+      "styxs",
+      ",",
+      "extatique",
+      "\n",
+      "Coma",
+      "des",
+      "sexes",
+      ",",
+      "des",
+      "styxs",
+      ",",
+      "d'",
+      "ésta",
+      "-",
+      "ta"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "-tique",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "-",
+      "tique"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "\nComa des sexes, des styxs, esthétiques",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "\n",
+      "Coma",
+      "des",
+      "sexes",
+      ",",
+      "des",
+      "styxs",
+      ",",
+      "esthétiques"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Ou",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Ou"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Dégénération \n",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Dégénération",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Où, où est, où, où est, où, où est \nMa génération ?",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "Où",
+      ",",
+      "où",
+      "est",
+      ",",
+      "où",
+      ",",
+      "où",
+      "est",
+      ",",
+      "où",
+      ",",
+      "où",
+      "est",
+      "\n",
+      "Ma",
+      "génération",
+      "?"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Sexy coma",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Sexy",
+      "coma"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Sexy trauma \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Sexy",
+      "trauma",
+      "\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "Sexy coma",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Sexy",
+      "coma"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Sexy trauma \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Sexy",
+      "trauma",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "J'suis dans mon lit faut qu'ça bouge \nJ'sais pas moi, il faut qu'ça bouge \nCe coma là, il faut que ça bouge \nJ'sais pas moi, il faut qu'ça bouge, faut qu'ça bouge \nSexy coma",
+    "nombre de token": 49,
+    "Liste de tokens": [
+      "J'",
+      "suis",
+      "dans",
+      "mon",
+      "lit",
+      "faut",
+      "qu'",
+      "ça",
+      "bouge",
+      "\n",
+      "J'",
+      "sais",
+      "pas",
+      "moi",
+      ",",
+      "il",
+      "faut",
+      "qu'",
+      "ça",
+      "bouge",
+      "\n",
+      "Ce",
+      "coma",
+      "là",
+      ",",
+      "il",
+      "faut",
+      "que",
+      "ça",
+      "bouge",
+      "\n",
+      "J'",
+      "sais",
+      "pas",
+      "moi",
+      ",",
+      "il",
+      "faut",
+      "qu'",
+      "ça",
+      "bouge",
+      ",",
+      "faut",
+      "qu'",
+      "ça",
+      "bouge",
+      "\n",
+      "Sexy",
+      "coma"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "Sexy trauma \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Sexy",
+      "trauma",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Sexy coma",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Sexy",
+      "coma"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "Sexy trauma \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Sexy",
+      "trauma",
+      "\n"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "Sexy, sexy, sexy \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Sexy",
+      ",",
+      "sexy",
+      ",",
+      "sexy",
+      "\n"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "Ou \n",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Ou",
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Dégénération \n",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Dégénération",
+      "\n"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "Où, où est, où, où est, où, où est \nMa génération ?",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "Où",
+      ",",
+      "où",
+      "est",
+      ",",
+      "où",
+      ",",
+      "où",
+      "est",
+      ",",
+      "où",
+      ",",
+      "où",
+      "est",
+      "\n",
+      "Ma",
+      "génération",
+      "?"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "\nComa des sexes, des styxs, d'éstatique \nComa des sexes, des styxs, extatique \nComa des sexes, des styxs, d'ésta-ta",
+    "nombre de token": 31,
+    "Liste de tokens": [
+      "\n",
+      "Coma",
+      "des",
+      "sexes",
+      ",",
+      "des",
+      "styxs",
+      ",",
+      "d'",
+      "éstatique",
+      "\n",
+      "Coma",
+      "des",
+      "sexes",
+      ",",
+      "des",
+      "styxs",
+      ",",
+      "extatique",
+      "\n",
+      "Coma",
+      "des",
+      "sexes",
+      ",",
+      "des",
+      "styxs",
+      ",",
+      "d'",
+      "ésta",
+      "-",
+      "ta"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "-tique",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "-",
+      "tique"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "\nComa des sexes, des styxs, esthétique",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "\n",
+      "Coma",
+      "des",
+      "sexes",
+      ",",
+      "des",
+      "styxs",
+      ",",
+      "esthétique"
+    ]
+  }
+}

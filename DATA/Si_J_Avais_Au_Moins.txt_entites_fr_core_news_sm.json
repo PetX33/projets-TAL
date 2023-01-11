@@ -1,0 +1,74 @@
+{
+  "entité_0": {
+    "Entité": "J'Avais",
+    "Label": "LOC"
+  },
+  "entité_1": {
+    "Entité": "Moins",
+    "Label": "LOC"
+  },
+  "entité_2": {
+    "Entité": "Mylene Farmer\n\nQui",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "L'omniprésente \nSouligne ton absence \nPartout \n\nQui",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Ni Dieu",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Haine",
+    "Label": "LOC"
+  },
+  "entité_6": {
+    "Entité": "Si",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "Revu",
+    "Label": "PER"
+  },
+  "entité_8": {
+    "Entité": "Entrevu",
+    "Label": "PER"
+  },
+  "entité_9": {
+    "Entité": "Qu'on somme",
+    "Label": "MISC"
+  },
+  "entité_10": {
+    "Entité": "Tous mes démons \nLes plus hostiles \nBrisent",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "Revu",
+    "Label": "PER"
+  },
+  "entité_12": {
+    "Entité": "Entrevu",
+    "Label": "PER"
+  },
+  "entité_13": {
+    "Entité": "Qu'on somme",
+    "Label": "MISC"
+  },
+  "entité_14": {
+    "Entité": "Si",
+    "Label": "MISC"
+  },
+  "entité_15": {
+    "Entité": "Revu",
+    "Label": "PER"
+  },
+  "entité_16": {
+    "Entité": "Entrevu",
+    "Label": "PER"
+  },
+  "entité_17": {
+    "Entité": "Qu'on somme",
+    "Label": "MISC"
+  }
+}

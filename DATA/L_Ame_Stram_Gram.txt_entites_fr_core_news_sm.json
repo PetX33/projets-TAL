@@ -1,0 +1,102 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nEn",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "gouverne\nDis-moi",
+    "Label": "LOC"
+  },
+  "entité_2": {
+    "Entité": "fois\n\nPartager",
+    "Label": "LOC"
+  },
+  "entité_3": {
+    "Entité": "Âme-stram-gram\n\n",
+    "Label": "LOC"
+  },
+  "entité_4": {
+    "Entité": "En moi, en moi",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "gouverne\nDis-moi",
+    "Label": "LOC"
+  },
+  "entité_6": {
+    "Entité": "En moi, en moi, toi",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "moi\n\nDes absents",
+    "Label": "LOC"
+  },
+  "entité_8": {
+    "Entité": "Bourdon",
+    "Label": "LOC"
+  },
+  "entité_9": {
+    "Entité": "Âme-stram-gram\n\nÂme-stram-gram",
+    "Label": "LOC"
+  },
+  "entité_10": {
+    "Entité": "colégram\nBourre",
+    "Label": "LOC"
+  },
+  "entité_11": {
+    "Entité": "bourre",
+    "Label": "LOC"
+  },
+  "entité_12": {
+    "Entité": "ratatam\nÂme-stram-gram",
+    "Label": "PER"
+  },
+  "entité_13": {
+    "Entité": "pique dames\nÂme-stram",
+    "Label": "ORG"
+  },
+  "entité_14": {
+    "Entité": "pique dames\n\n",
+    "Label": "PER"
+  },
+  "entité_15": {
+    "Entité": "En moi, en moi, toi",
+    "Label": "MISC"
+  },
+  "entité_16": {
+    "Entité": "gouverne\n",
+    "Label": "LOC"
+  },
+  "entité_17": {
+    "Entité": "En moi, en moi, toi",
+    "Label": "MISC"
+  },
+  "entité_18": {
+    "Entité": "moi\n\nEn moi, en moi, toi",
+    "Label": "LOC"
+  },
+  "entité_19": {
+    "Entité": "gouverne\n",
+    "Label": "LOC"
+  },
+  "entité_20": {
+    "Entité": "En moi, en moi, toi",
+    "Label": "MISC"
+  },
+  "entité_21": {
+    "Entité": "moi\n\nEn moi, en moi, toi",
+    "Label": "LOC"
+  },
+  "entité_22": {
+    "Entité": "gouverne\n",
+    "Label": "LOC"
+  },
+  "entité_23": {
+    "Entité": "En moi, en moi, toi",
+    "Label": "MISC"
+  },
+  "entité_24": {
+    "Entité": "moi\n\nEn moi, en moi, toi",
+    "Label": "LOC"
+  }
+}

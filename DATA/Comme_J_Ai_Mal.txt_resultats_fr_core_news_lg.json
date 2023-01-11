@@ -1,0 +1,376 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Comme J'ai Mal par Mylene",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Comme",
+      "J'",
+      "ai",
+      "Mal",
+      "par",
+      "Mylene"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Farmer",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Farmer"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\n\nJe bascule à l'horizontal \nDémissionne ma vie verticale \n",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "\n\n",
+      "Je",
+      "bascule",
+      "à",
+      "l'",
+      "horizontal",
+      "\n",
+      "Démissionne",
+      "ma",
+      "vie",
+      "verticale",
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "Ma pensée se fige animale \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Ma",
+      "pensée",
+      "se",
+      "fige",
+      "animale",
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Abandon du moi",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Abandon",
+      "du",
+      "moi"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "\nPlus d'émoi",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "\n",
+      "Plus",
+      "d'",
+      "émoi"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\nJe ressens ce qui nous sépare \nMe confie au gré du hasard",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "\n",
+      "Je",
+      "ressens",
+      "ce",
+      "qui",
+      "nous",
+      "sépare",
+      "\n",
+      "Me",
+      "confie",
+      "au",
+      "gré",
+      "du",
+      "hasard"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "Je vis hors de moi et je pars \nA mille saisons,",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "Je",
+      "vis",
+      "hors",
+      "de",
+      "moi",
+      "et",
+      "je",
+      "pars",
+      "\n",
+      "A",
+      "mille",
+      "saisons",
+      ","
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "mille étoiles",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "mille",
+      "étoiles"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "\n\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "Comme j'ai mal \nJe n'verrai plus comme j'ai mal \n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Comme",
+      "j'",
+      "ai",
+      "mal",
+      "\n",
+      "Je",
+      "n'",
+      "verrai",
+      "plus",
+      "comme",
+      "j'",
+      "ai",
+      "mal",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Je n'saurai plus comme j'ai mal \nJe serai l'eau des nuages \nJe te laisse parce que je t'aime \nJe m'abîme d'être moi-même \nAvant que le vent nous sème \nA tous vents, je prends un nouveau départ \n\nPlus de centre tout m'est égal \nJe m'éloigne du monde brutal \nMa mémoire se fond dans l'espace \nOde à la raison \nQui s'efface \n",
+    "nombre de token": 83,
+    "Liste de tokens": [
+      "Je",
+      "n'",
+      "saurai",
+      "plus",
+      "comme",
+      "j'",
+      "ai",
+      "mal",
+      "\n",
+      "Je",
+      "serai",
+      "l'",
+      "eau",
+      "des",
+      "nuages",
+      "\n",
+      "Je",
+      "te",
+      "laisse",
+      "parce",
+      "que",
+      "je",
+      "t'",
+      "aime",
+      "\n",
+      "Je",
+      "m'",
+      "abîme",
+      "d'",
+      "être",
+      "moi",
+      "-",
+      "même",
+      "\n",
+      "Avant",
+      "que",
+      "le",
+      "vent",
+      "nous",
+      "sème",
+      "\n",
+      "A",
+      "tous",
+      "vents",
+      ",",
+      "je",
+      "prends",
+      "un",
+      "nouveau",
+      "départ",
+      "\n\n",
+      "Plus",
+      "de",
+      "centre",
+      "tout",
+      "m'",
+      "est",
+      "égal",
+      "\n",
+      "Je",
+      "m'",
+      "éloigne",
+      "du",
+      "monde",
+      "brutal",
+      "\n",
+      "Ma",
+      "mémoire",
+      "se",
+      "fond",
+      "dans",
+      "l'",
+      "espace",
+      "\n",
+      "Ode",
+      "à",
+      "la",
+      "raison",
+      "\n",
+      "Qui",
+      "s'",
+      "efface",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Je ressens ce qui nous sépare \nMe confie au gré du hasard",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "Je",
+      "ressens",
+      "ce",
+      "qui",
+      "nous",
+      "sépare",
+      "\n",
+      "Me",
+      "confie",
+      "au",
+      "gré",
+      "du",
+      "hasard"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Je vis hors de moi et je pars \nA mille saisons,",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "Je",
+      "vis",
+      "hors",
+      "de",
+      "moi",
+      "et",
+      "je",
+      "pars",
+      "\n",
+      "A",
+      "mille",
+      "saisons",
+      ","
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "mille étoiles",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "mille",
+      "étoiles"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "\n\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "Comme j'ai mal \nJe n'verrai plus comme j'ai mal \n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Comme",
+      "j'",
+      "ai",
+      "mal",
+      "\n",
+      "Je",
+      "n'",
+      "verrai",
+      "plus",
+      "comme",
+      "j'",
+      "ai",
+      "mal",
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "Je n'saurai plus comme j'ai mal \nJe serai l'eau des nuages \nJe te laisse parce que je t'aime \nJe m'abîme d'être moi-même \nAvant que le vent nous sème \nA tous vents, je prends un nouveau départ",
+    "nombre de token": 50,
+    "Liste de tokens": [
+      "Je",
+      "n'",
+      "saurai",
+      "plus",
+      "comme",
+      "j'",
+      "ai",
+      "mal",
+      "\n",
+      "Je",
+      "serai",
+      "l'",
+      "eau",
+      "des",
+      "nuages",
+      "\n",
+      "Je",
+      "te",
+      "laisse",
+      "parce",
+      "que",
+      "je",
+      "t'",
+      "aime",
+      "\n",
+      "Je",
+      "m'",
+      "abîme",
+      "d'",
+      "être",
+      "moi",
+      "-",
+      "même",
+      "\n",
+      "Avant",
+      "que",
+      "le",
+      "vent",
+      "nous",
+      "sème",
+      "\n",
+      "A",
+      "tous",
+      "vents",
+      ",",
+      "je",
+      "prends",
+      "un",
+      "nouveau",
+      "départ"
+    ]
+  }
+}

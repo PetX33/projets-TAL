@@ -1,0 +1,962 @@
+{
+  "Segment_0": {
+    "Phrase_0": "N'oublie Pas par Mylene Farmer\n\n[Mylène & LP]\n",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "N'",
+      "oublie",
+      "Pas",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "[",
+      "Mylène",
+      "&",
+      "LP",
+      "]",
+      "\n"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Là dégoûtée de ce monde\nSous la lampe un dernier songe\nJ'entends ta voix malgré tout ça\nEt tes mots respecter l’autre\n'Cause in the world I've come upon\nI never saw another one\nThat sparkled like your diamond in the sun\nLa chambre même est sans pitié",
+    "nombre de token": 59,
+    "Liste de tokens": [
+      "Là",
+      "dégoûtée",
+      "de",
+      "ce",
+      "monde",
+      "\n",
+      "Sous",
+      "la",
+      "lampe",
+      "un",
+      "dernier",
+      "songe",
+      "\n",
+      "J'",
+      "entends",
+      "ta",
+      "voix",
+      "malgré",
+      "tout",
+      "ça",
+      "\n",
+      "Et",
+      "tes",
+      "mots",
+      "respecter",
+      "l’",
+      "autre",
+      "\n",
+      "'",
+      "Cause",
+      "in",
+      "the",
+      "world",
+      "I'",
+      "ve",
+      "come",
+      "upon",
+      "\n",
+      "I",
+      "never",
+      "saw",
+      "another",
+      "one",
+      "\n",
+      "That",
+      "sparkled",
+      "like",
+      "your",
+      "diamond",
+      "in",
+      "the",
+      "sun",
+      "\n",
+      "La",
+      "chambre",
+      "même",
+      "est",
+      "sans",
+      "pitié"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "Le paradis tombe à mes pieds\nPourtant (we know, we know)\nTa voix dit jamais\n\n[Mylène & LP]\nJamais n'oublie pas\nConduite par une étoile\nJamais n'oublie pas\nI promise",
+    "nombre de token": 44,
+    "Liste de tokens": [
+      "Le",
+      "paradis",
+      "tombe",
+      "à",
+      "mes",
+      "pieds",
+      "\n",
+      "Pourtant",
+      "(",
+      "we",
+      "know",
+      ",",
+      "we",
+      "know",
+      ")",
+      "\n",
+      "Ta",
+      "voix",
+      "dit",
+      "jamais",
+      "\n\n",
+      "[",
+      "Mylène",
+      "&",
+      "LP",
+      "]",
+      "\n",
+      "Jamais",
+      "n'",
+      "oublie",
+      "pas",
+      "\n",
+      "Conduite",
+      "par",
+      "une",
+      "étoile",
+      "\n",
+      "Jamais",
+      "n'",
+      "oublie",
+      "pas",
+      "\n",
+      "I",
+      "promise"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "where you are\n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "where",
+      "you",
+      "are",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "Un point dans l'univers\nIt's a love it's everywhere\n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Un",
+      "point",
+      "dans",
+      "l'",
+      "univers",
+      "\n",
+      "It'",
+      "s",
+      "a",
+      "love",
+      "it'",
+      "s",
+      "everywhere",
+      "\n"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "Jamais n'oublie pas, c'est moi\n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Jamais",
+      "n'",
+      "oublie",
+      "pas",
+      ",",
+      "c'",
+      "est",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "Oh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Oh"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "oh oh\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "oh",
+      "oh",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Ouh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Ouh"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "ouh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "ouh"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "ouh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "ouh"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "\nUn point dans l'univers\nIt's a love it's everywhere\n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "\n",
+      "Un",
+      "point",
+      "dans",
+      "l'",
+      "univers",
+      "\n",
+      "It'",
+      "s",
+      "a",
+      "love",
+      "it'",
+      "s",
+      "everywhere",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Jamais n'oublie pas\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Jamais",
+      "n'",
+      "oublie",
+      "pas",
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "No no\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "No",
+      "no",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Oh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Oh"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "oh oh\n\n[",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "oh",
+      "oh",
+      "\n\n",
+      "["
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Mylène & LP]\nSous terre",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Mylène",
+      "&",
+      "LP",
+      "]",
+      "\n",
+      "Sous",
+      "terre"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "il y a le silence\n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "il",
+      "y",
+      "a",
+      "le",
+      "silence",
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "Ma mémoire qui rentre tard\nJe pense à toi\nDon’t you think twice\nBeen lost, but now I finally know\n",
+    "nombre de token": 26,
+    "Liste de tokens": [
+      "Ma",
+      "mémoire",
+      "qui",
+      "rentre",
+      "tard",
+      "\n",
+      "Je",
+      "pense",
+      "à",
+      "toi",
+      "\n",
+      "Don’",
+      "t",
+      "you",
+      "think",
+      "twice",
+      "\n",
+      "Been",
+      "lost",
+      ",",
+      "but",
+      "now",
+      "I",
+      "finally",
+      "know",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Et tous ces signes",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Et",
+      "tous",
+      "ces",
+      "signes"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "que tu envoies\nQui me chavirent à chaque fois\nWith déjà vu we’ll rearrange the stars",
+    "nombre de token": 19,
+    "Liste de tokens": [
+      "que",
+      "tu",
+      "envoies",
+      "\n",
+      "Qui",
+      "me",
+      "chavirent",
+      "à",
+      "chaque",
+      "fois",
+      "\n",
+      "With",
+      "déjà",
+      "vu",
+      "we’",
+      "ll",
+      "rearrange",
+      "the",
+      "stars"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\nAnd even",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n",
+      "And",
+      "even"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "on the silent sea\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "on",
+      "the",
+      "silent",
+      "sea",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Your constellation carries me\nAlone you know\nMais l'horizon dit jamais\n\n[Mylène & LP]\nJamais n'oublie pas\n",
+    "nombre de token": 26,
+    "Liste de tokens": [
+      "Your",
+      "constellation",
+      "carries",
+      "me",
+      "\n",
+      "Alone",
+      "you",
+      "know",
+      "\n",
+      "Mais",
+      "l'",
+      "horizon",
+      "dit",
+      "jamais",
+      "\n\n",
+      "[",
+      "Mylène",
+      "&",
+      "LP",
+      "]",
+      "\n",
+      "Jamais",
+      "n'",
+      "oublie",
+      "pas",
+      "\n"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "Conduite par une étoile\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Conduite",
+      "par",
+      "une",
+      "étoile",
+      "\n"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "Jamais n'oublie pas\nI promise",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Jamais",
+      "n'",
+      "oublie",
+      "pas",
+      "\n",
+      "I",
+      "promise"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "where you are\n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "where",
+      "you",
+      "are",
+      "\n"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "Un point dans l'univers\nIt's a love it's everywhere\n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Un",
+      "point",
+      "dans",
+      "l'",
+      "univers",
+      "\n",
+      "It'",
+      "s",
+      "a",
+      "love",
+      "it'",
+      "s",
+      "everywhere",
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Jamais n'oublie pas, c'est moi\n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Jamais",
+      "n'",
+      "oublie",
+      "pas",
+      ",",
+      "c'",
+      "est",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "Oh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Oh"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "oh oh\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "oh",
+      "oh",
+      "\n"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "Ouh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Ouh"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "ouh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "ouh"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "ouh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "ouh"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "\nUn point dans l'univers\nIt's a love it's everywhere\n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "\n",
+      "Un",
+      "point",
+      "dans",
+      "l'",
+      "univers",
+      "\n",
+      "It'",
+      "s",
+      "a",
+      "love",
+      "it'",
+      "s",
+      "everywhere",
+      "\n"
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "Jamais n'oublie pas\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Jamais",
+      "n'",
+      "oublie",
+      "pas",
+      "\n"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "No no\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "No",
+      "no",
+      "\n"
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "Oh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Oh"
+    ]
+  },
+  "Segment_39": {
+    "Phrase_0": "oh oh\n\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "oh",
+      "oh",
+      "\n\n"
+    ]
+  },
+  "Segment_40": {
+    "Phrase_0": "[",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "["
+    ]
+  },
+  "Segment_41": {
+    "Phrase_0": "LP]\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "LP",
+      "]",
+      "\n"
+    ]
+  },
+  "Segment_42": {
+    "Phrase_0": "Oh oh oh oh\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Oh",
+      "oh",
+      "oh",
+      "oh",
+      "\n"
+    ]
+  },
+  "Segment_43": {
+    "Phrase_0": "We",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "We"
+    ]
+  },
+  "Segment_44": {
+    "Phrase_0": "feel",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "feel"
+    ]
+  },
+  "Segment_45": {
+    "Phrase_0": "it",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "it"
+    ]
+  },
+  "Segment_46": {
+    "Phrase_0": "in our bones\n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "in",
+      "our",
+      "bones",
+      "\n"
+    ]
+  },
+  "Segment_47": {
+    "Phrase_0": "Oh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Oh"
+    ]
+  },
+  "Segment_48": {
+    "Phrase_0": "oh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "oh"
+    ]
+  },
+  "Segment_49": {
+    "Phrase_0": "oh oh\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "oh",
+      "oh",
+      "\n"
+    ]
+  },
+  "Segment_50": {
+    "Phrase_0": "We",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "We"
+    ]
+  },
+  "Segment_51": {
+    "Phrase_0": "feel",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "feel"
+    ]
+  },
+  "Segment_52": {
+    "Phrase_0": "it",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "it"
+    ]
+  },
+  "Segment_53": {
+    "Phrase_0": "in our bones\n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "in",
+      "our",
+      "bones",
+      "\n"
+    ]
+  },
+  "Segment_54": {
+    "Phrase_0": "Oh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Oh"
+    ]
+  },
+  "Segment_55": {
+    "Phrase_0": "oh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "oh"
+    ]
+  },
+  "Segment_56": {
+    "Phrase_0": "oh oh\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "oh",
+      "oh",
+      "\n"
+    ]
+  },
+  "Segment_57": {
+    "Phrase_0": "We",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "We"
+    ]
+  },
+  "Segment_58": {
+    "Phrase_0": "feel",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "feel"
+    ]
+  },
+  "Segment_59": {
+    "Phrase_0": "it",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "it"
+    ]
+  },
+  "Segment_60": {
+    "Phrase_0": "in our bones\n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "in",
+      "our",
+      "bones",
+      "\n"
+    ]
+  },
+  "Segment_61": {
+    "Phrase_0": "Jamais n'oublie pas\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Jamais",
+      "n'",
+      "oublie",
+      "pas",
+      "\n"
+    ]
+  },
+  "Segment_62": {
+    "Phrase_0": "C'est moi\nYou know\n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "moi",
+      "\n",
+      "You",
+      "know",
+      "\n"
+    ]
+  },
+  "Segment_63": {
+    "Phrase_0": "Oh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Oh"
+    ]
+  },
+  "Segment_64": {
+    "Phrase_0": "oh\n\n",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "oh",
+      "\n\n"
+    ]
+  },
+  "Segment_65": {
+    "Phrase_0": "[Mylène & LP]\nN'oublie pas\n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "[",
+      "Mylène",
+      "&",
+      "LP",
+      "]",
+      "\n",
+      "N'",
+      "oublie",
+      "pas",
+      "\n"
+    ]
+  },
+  "Segment_66": {
+    "Phrase_0": "Conduite par une étoile\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Conduite",
+      "par",
+      "une",
+      "étoile",
+      "\n"
+    ]
+  },
+  "Segment_67": {
+    "Phrase_0": "Jamais n'oublie pas\nI promise",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Jamais",
+      "n'",
+      "oublie",
+      "pas",
+      "\n",
+      "I",
+      "promise"
+    ]
+  },
+  "Segment_68": {
+    "Phrase_0": "where you are\n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "where",
+      "you",
+      "are",
+      "\n"
+    ]
+  },
+  "Segment_69": {
+    "Phrase_0": "Un point dans l'univers\nIt's a love it's everywhere\n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Un",
+      "point",
+      "dans",
+      "l'",
+      "univers",
+      "\n",
+      "It'",
+      "s",
+      "a",
+      "love",
+      "it'",
+      "s",
+      "everywhere",
+      "\n"
+    ]
+  },
+  "Segment_70": {
+    "Phrase_0": "Jamais n'oublie pas c'est moi\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Jamais",
+      "n'",
+      "oublie",
+      "pas",
+      "c'",
+      "est",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_71": {
+    "Phrase_0": "Oh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Oh"
+    ]
+  },
+  "Segment_72": {
+    "Phrase_0": "oh oh\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "oh",
+      "oh",
+      "\n"
+    ]
+  },
+  "Segment_73": {
+    "Phrase_0": "Ouh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Ouh"
+    ]
+  },
+  "Segment_74": {
+    "Phrase_0": "ouh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "ouh"
+    ]
+  },
+  "Segment_75": {
+    "Phrase_0": "ouh",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "ouh"
+    ]
+  },
+  "Segment_76": {
+    "Phrase_0": "\nUn point dans l'univers\nIt's a love it's everywhere\n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "\n",
+      "Un",
+      "point",
+      "dans",
+      "l'",
+      "univers",
+      "\n",
+      "It'",
+      "s",
+      "a",
+      "love",
+      "it'",
+      "s",
+      "everywhere",
+      "\n"
+    ]
+  },
+  "Segment_77": {
+    "Phrase_0": "Jamais n'oublie pas\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Jamais",
+      "n'",
+      "oublie",
+      "pas",
+      "\n"
+    ]
+  },
+  "Segment_78": {
+    "Phrase_0": "No",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "No"
+    ]
+  },
+  "Segment_79": {
+    "Phrase_0": "no",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "no"
+    ]
+  }
+}

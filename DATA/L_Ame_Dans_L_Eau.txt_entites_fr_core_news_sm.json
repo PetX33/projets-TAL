@@ -1,0 +1,98 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nL’air",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "j’ai l’âme",
+    "Label": "LOC"
+  },
+  "entité_2": {
+    "Entité": "j’",
+    "Label": "LOC"
+  },
+  "entité_3": {
+    "Entité": "maison \nDoux",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "j’ai",
+    "Label": "LOC"
+  },
+  "entité_5": {
+    "Entité": "l’eau \n\nL’air",
+    "Label": "LOC"
+  },
+  "entité_6": {
+    "Entité": "J’ai l’âme",
+    "Label": "LOC"
+  },
+  "entité_7": {
+    "Entité": "l’eau \nJ’ai l’âme",
+    "Label": "PER"
+  },
+  "entité_8": {
+    "Entité": "l’eau \nJ’ai l’âme",
+    "Label": "PER"
+  },
+  "entité_9": {
+    "Entité": "l’eau \n\nJ’ai l’âme",
+    "Label": "LOC"
+  },
+  "entité_10": {
+    "Entité": "l’eau \nJ’ai l’âme",
+    "Label": "PER"
+  },
+  "entité_11": {
+    "Entité": "l’eau \nJ’ai l’âme",
+    "Label": "PER"
+  },
+  "entité_12": {
+    "Entité": "l’eau \nJ’ai l’âme",
+    "Label": "PER"
+  },
+  "entité_13": {
+    "Entité": "l’eau \n\nL’air",
+    "Label": "LOC"
+  },
+  "entité_14": {
+    "Entité": "Je vois l’aube",
+    "Label": "MISC"
+  },
+  "entité_15": {
+    "Entité": "J’ai l’âme",
+    "Label": "LOC"
+  },
+  "entité_16": {
+    "Entité": "l’eau \nMais",
+    "Label": "PER"
+  },
+  "entité_17": {
+    "Entité": "où",
+    "Label": "ORG"
+  },
+  "entité_18": {
+    "Entité": "présent m’emporte",
+    "Label": "MISC"
+  },
+  "entité_19": {
+    "Entité": "Béni",
+    "Label": "LOC"
+  },
+  "entité_20": {
+    "Entité": "J’ai l’âme",
+    "Label": "LOC"
+  },
+  "entité_21": {
+    "Entité": "l’eau \nJ’ai l’âme",
+    "Label": "PER"
+  },
+  "entité_22": {
+    "Entité": "l’eau \n\nL’air",
+    "Label": "LOC"
+  },
+  "entité_23": {
+    "Entité": "j’ai l’âme",
+    "Label": "LOC"
+  }
+}

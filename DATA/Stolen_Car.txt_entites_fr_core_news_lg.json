@@ -1,0 +1,82 @@
+{
+  "entité_0": {
+    "Entité": "Stolen",
+    "Label": "MISC"
+  },
+  "entité_1": {
+    "Entité": "Mylene Farmer",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "but this is my trade \n",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_4": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_5": {
+    "Entité": "Affole",
+    "Label": "PER"
+  },
+  "entité_6": {
+    "Entité": "director \n",
+    "Label": "ORG"
+  },
+  "entité_7": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_8": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_9": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_10": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_11": {
+    "Entité": "Sting",
+    "Label": "PER"
+  },
+  "entité_12": {
+    "Entité": "I've been all on my own \n",
+    "Label": "MISC"
+  },
+  "entité_13": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_14": {
+    "Entité": "Rome",
+    "Label": "LOC"
+  },
+  "entité_15": {
+    "Entité": "cologne",
+    "Label": "LOC"
+  },
+  "entité_16": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_17": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_18": {
+    "Entité": "Sting",
+    "Label": "PER"
+  },
+  "entité_19": {
+    "Entité": "I've been all on my own \n",
+    "Label": "MISC"
+  }
+}

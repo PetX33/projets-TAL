@@ -1,0 +1,74 @@
+{
+  "entité_0": {
+    "Entité": "Pas",
+    "Label": "LOC"
+  },
+  "entité_1": {
+    "Entité": "Mylene Farmer",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Mylène & LP",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Cause in the world I've come upon\nI never saw another one\nThat sparkled like your diamond in the sun\nLa chambre",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "we know,",
+    "Label": "LOC"
+  },
+  "entité_5": {
+    "Entité": "Mylène & LP",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "Jamais",
+    "Label": "LOC"
+  },
+  "entité_7": {
+    "Entité": "where you are\n",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "No no\n",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "we’ll rearrange the stars",
+    "Label": "PER"
+  },
+  "entité_10": {
+    "Entité": "Alone you know\nMais l'horizon dit jamais",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "Mylène & LP",
+    "Label": "MISC"
+  },
+  "entité_12": {
+    "Entité": "Jamais",
+    "Label": "LOC"
+  },
+  "entité_13": {
+    "Entité": "where you are\n",
+    "Label": "MISC"
+  },
+  "entité_14": {
+    "Entité": "No no\n",
+    "Label": "MISC"
+  },
+  "entité_15": {
+    "Entité": "Oh oh oh oh\n",
+    "Label": "MISC"
+  },
+  "entité_16": {
+    "Entité": "Jamais",
+    "Label": "LOC"
+  },
+  "entité_17": {
+    "Entité": "where you are\n",
+    "Label": "MISC"
+  }
+}

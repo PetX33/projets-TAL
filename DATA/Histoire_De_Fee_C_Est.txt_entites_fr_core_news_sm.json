@@ -1,0 +1,78 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nTrois",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Quand on veut",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "De ma vie disparaît \n\nFaire",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Mélusine",
+    "Label": "PER"
+  },
+  "entité_4": {
+    "Entité": "Vite dépêche-toi \n\nAvant",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "ah \nJeux de mains",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "jeux de",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "M \nEmoi \n\nTrois",
+    "Label": "PER"
+  },
+  "entité_8": {
+    "Entité": "Que le grand cric me croque \n\nFaire",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "Mélusine",
+    "Label": "PER"
+  },
+  "entité_10": {
+    "Entité": "Vite dépêche-toi \n\nAvant",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "ah \nJeux de mains",
+    "Label": "MISC"
+  },
+  "entité_12": {
+    "Entité": "jeux de",
+    "Label": "MISC"
+  },
+  "entité_13": {
+    "Entité": "M \nEmoi \n\nMonday",
+    "Label": "PER"
+  },
+  "entité_14": {
+    "Entité": "Saturday...",
+    "Label": "MISC"
+  },
+  "entité_15": {
+    "Entité": "ah \nJeux de mains",
+    "Label": "MISC"
+  },
+  "entité_16": {
+    "Entité": "jeux de M",
+    "Label": "MISC"
+  },
+  "entité_17": {
+    "Entité": "ah \nJeux de mains",
+    "Label": "MISC"
+  },
+  "entité_18": {
+    "Entité": "M",
+    "Label": "PER"
+  }
+}

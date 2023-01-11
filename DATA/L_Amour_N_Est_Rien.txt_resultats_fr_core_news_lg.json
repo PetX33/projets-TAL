@@ -1,0 +1,519 @@
+{
+  "Segment_0": {
+    "Phrase_0": "L'amour N'est Rien par Mylene Farmer",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "L'",
+      "amour",
+      "N'",
+      "est",
+      "Rien",
+      "par",
+      "Mylene",
+      "Farmer"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "\n\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n\n"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "Obsédée du pire",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Obsédée",
+      "du",
+      "pire"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Et pas très prolixe \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Et",
+      "pas",
+      "très",
+      "prolixe",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "Mes moindres soupirs \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Mes",
+      "moindres",
+      "soupirs",
+      "\n"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "Se métaphysiquent...",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Se",
+      "métaphysiquent",
+      "..."
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "\nJ'ai dans mon ciel \nDes tonnes de célestes \nM'accroche aux ailes...",
+    "nombre de token": 17,
+    "Liste de tokens": [
+      "\n",
+      "J'",
+      "ai",
+      "dans",
+      "mon",
+      "ciel",
+      "\n",
+      "Des",
+      "tonnes",
+      "de",
+      "célestes",
+      "\n",
+      "M'",
+      "accroche",
+      "aux",
+      "ailes",
+      "..."
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Et tombe l'ange Gabriel!",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Et",
+      "tombe",
+      "l'",
+      "ange",
+      "Gabriel",
+      "!"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "\n\nObsédée du pire \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "\n\n",
+      "Obsédée",
+      "du",
+      "pire",
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "Un peu trop physique...",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Un",
+      "peu",
+      "trop",
+      "physique",
+      "..."
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "L'envie de frémir \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "L'",
+      "envie",
+      "de",
+      "frémir",
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "Est pharaonique !",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Est",
+      "pharaonique",
+      "!"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "\n...",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n",
+      "..."
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Fi de l'ascèse !",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Fi",
+      "de",
+      "l'",
+      "ascèse",
+      "!"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "\nMa vie s'enténèbre \nMoi sans la langue \nSans sexe je m'exsangue !",
+    "nombre de token": 17,
+    "Liste de tokens": [
+      "\n",
+      "Ma",
+      "vie",
+      "s'",
+      "enténèbre",
+      "\n",
+      "Moi",
+      "sans",
+      "la",
+      "langue",
+      "\n",
+      "Sans",
+      "sexe",
+      "je",
+      "m'",
+      "exsangue",
+      "!"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "\n\nL'amour, c'est rien !",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n\n",
+      "L'",
+      "amour",
+      ",",
+      "c'",
+      "est",
+      "rien",
+      "!"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "\nQuand c'est politiquement correct \nOn s'aime bien \nOn n' sait même pas quand on se blesse \n",
+    "nombre de token": 23,
+    "Liste de tokens": [
+      "\n",
+      "Quand",
+      "c'",
+      "est",
+      "politiquement",
+      "correct",
+      "\n",
+      "On",
+      "s'",
+      "aime",
+      "bien",
+      "\n",
+      "On",
+      "n",
+      "'",
+      "sait",
+      "même",
+      "pas",
+      "quand",
+      "on",
+      "se",
+      "blesse",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "L'amour c'est rien \nQuand tout est sexuellement correct \n",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "L'",
+      "amour",
+      "c'",
+      "est",
+      "rien",
+      "\n",
+      "Quand",
+      "tout",
+      "est",
+      "sexuellement",
+      "correct",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "On s'ennuie bien \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "On",
+      "s'",
+      "ennuie",
+      "bien",
+      "\n"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "On crie avant pour qu' ça s'arrête \nLa vie n'est rien...",
+    "nombre de token": 16,
+    "Liste de tokens": [
+      "On",
+      "crie",
+      "avant",
+      "pour",
+      "qu",
+      "'",
+      "ça",
+      "s'",
+      "arrête",
+      "\n",
+      "La",
+      "vie",
+      "n'",
+      "est",
+      "rien",
+      "..."
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "\nQuand elle est tiède !",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "\n",
+      "Quand",
+      "elle",
+      "est",
+      "tiède",
+      "!"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "\nElle se consume et vous bascule \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n",
+      "Elle",
+      "se",
+      "consume",
+      "et",
+      "vous",
+      "bascule",
+      "\n"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "Le sang en cendres de cigarette \nLa vie est bien...",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Le",
+      "sang",
+      "en",
+      "cendres",
+      "de",
+      "cigarette",
+      "\n",
+      "La",
+      "vie",
+      "est",
+      "bien",
+      "..."
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "\nElle est de miel !",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "\n",
+      "Elle",
+      "est",
+      "de",
+      "miel",
+      "!"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "\nQuand elle s'acide de dynamite \nQui m'aime me suive!",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "\n",
+      "Quand",
+      "elle",
+      "s'",
+      "acide",
+      "de",
+      "dynamite",
+      "\n",
+      "Qui",
+      "m'",
+      "aime",
+      "me",
+      "suive",
+      "!"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "\n\nObsédée du pire \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "\n\n",
+      "Obsédée",
+      "du",
+      "pire",
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Et pas très prolixe \nMes moindres soupirs \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Et",
+      "pas",
+      "très",
+      "prolixe",
+      "\n",
+      "Mes",
+      "moindres",
+      "soupirs",
+      "\n"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "Se métaphysiquent...",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Se",
+      "métaphysiquent",
+      "..."
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "\nJ'ai dans la tête \nDes tonnes de pirouettes \nLe saut de l'ange \nN'a pour moi rien d'étrange",
+    "nombre de token": 25,
+    "Liste de tokens": [
+      "\n",
+      "J'",
+      "ai",
+      "dans",
+      "la",
+      "tête",
+      "\n",
+      "Des",
+      "tonnes",
+      "de",
+      "pirouettes",
+      "\n",
+      "Le",
+      "saut",
+      "de",
+      "l'",
+      "ange",
+      "\n",
+      "N'",
+      "a",
+      "pour",
+      "moi",
+      "rien",
+      "d'",
+      "étrange"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "\n\nObsédée du pire",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "\n\n",
+      "Obsédée",
+      "du",
+      "pire"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "Et pas très prolixe \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Et",
+      "pas",
+      "très",
+      "prolixe",
+      "\n"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "Partager mes rires \nPlutôt plutoniques",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Partager",
+      "mes",
+      "rires",
+      "\n",
+      "Plutôt",
+      "plutoniques"
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "\nJ'ai dans ma sphère \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "J'",
+      "ai",
+      "dans",
+      "ma",
+      "sphère",
+      "\n"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "Un effet de serre \nMon sang bouillonne \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Un",
+      "effet",
+      "de",
+      "serre",
+      "\n",
+      "Mon",
+      "sang",
+      "bouillonne",
+      "\n"
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "Je bous de tout, en somme",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Je",
+      "bous",
+      "de",
+      "tout",
+      ",",
+      "en",
+      "somme"
+    ]
+  }
+}

@@ -1,0 +1,1315 @@
+{
+  "Segment_0": {
+    "Phrase_0": "C'est dans l'Air par Mylene Farmer\n\nVanité c'est laid \n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "Air",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Vanité",
+      "c'",
+      "est",
+      "laid",
+      "\n"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Trahison c'est laid \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Trahison",
+      "c'",
+      "est",
+      "laid",
+      "\n"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "Lâcheté",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Lâcheté"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "c'est laid \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "c'",
+      "est",
+      "laid",
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Délation",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Délation"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "c'est laid \n\nLa cruauté c'est laid",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "c'",
+      "est",
+      "laid",
+      "\n\n",
+      "La",
+      "cruauté",
+      "c'",
+      "est",
+      "laid"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "La calomnie c'est laid \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "La",
+      "calomnie",
+      "c'",
+      "est",
+      "laid",
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "L'âpreté c'est laid \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "L'",
+      "âpreté",
+      "c'",
+      "est",
+      "laid",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "L'infamie c'est laid aussi (hahahaha !",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "L'",
+      "infamie",
+      "c'",
+      "est",
+      "laid",
+      "aussi",
+      "(",
+      "hahahaha",
+      "!"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": ") \n\nLes cabossés vous dérangent \nTous les fêlés sont des anges",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      ")",
+      "\n\n",
+      "Les",
+      "cabossés",
+      "vous",
+      "dérangent",
+      "\n",
+      "Tous",
+      "les",
+      "fêlés",
+      "sont",
+      "des",
+      "anges"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Les opprimés vous démangent \nLes mal-aimés, qui les venge ?",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Les",
+      "opprimés",
+      "vous",
+      "démangent",
+      "\n",
+      "Les",
+      "mal-aimés",
+      ",",
+      "qui",
+      "les",
+      "venge",
+      "?"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "\n\nLes calamités dérangent \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "\n\n",
+      "Les",
+      "calamités",
+      "dérangent",
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "Les chaotiques sont des anges (c'est dans l'air) \n",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "Les",
+      "chaotiques",
+      "sont",
+      "des",
+      "anges",
+      "(",
+      "c'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ")",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Pas comme les autres, démangent \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Pas",
+      "comme",
+      "les",
+      "autres",
+      ",",
+      "démangent",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Les bons apôtres j'les mange (c'est dans l'air) \n\n(Refrain) \n",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "Les",
+      "bons",
+      "apôtres",
+      "j'",
+      "les",
+      "mange",
+      "(",
+      "c'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ")",
+      "\n\n",
+      "(",
+      "Refrain",
+      ")",
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "C'est dans l'air, c'est nécessaire \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ",",
+      "c'",
+      "est",
+      "nécessaire",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Prendre l'air \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Prendre",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "Respirer",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Respirer"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\nParfois piquer la poupée \n\nC'est dans l'air",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "\n",
+      "Parfois",
+      "piquer",
+      "la",
+      "poupée",
+      "\n\n",
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "C'est dans l'air, c'est millénaire \nS'enivrer",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ",",
+      "c'",
+      "est",
+      "millénaire",
+      "\n",
+      "S'",
+      "enivrer"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "Coïter",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Coïter"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Quid de nos amours passés",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Quid",
+      "de",
+      "nos",
+      "amours",
+      "passés"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "\n\nC'est dans l'air \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n\n",
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "C'est dans l'air, c'est salutaire \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ",",
+      "c'",
+      "est",
+      "salutaire",
+      "\n"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "Sauf qui peut \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Sauf",
+      "qui",
+      "peut",
+      "\n"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "Sauve",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Sauve"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "c'est mieux !",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "c'",
+      "est",
+      "mieux",
+      "!"
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "Sauf qu'ici, loin sont les cieux \n\nC'est dans l'air \n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Sauf",
+      "qu'",
+      "ici",
+      ",",
+      "loin",
+      "sont",
+      "les",
+      "cieux",
+      "\n\n",
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_39": {
+    "Phrase_0": "C'est dans l'air, c'est nucléaire \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ",",
+      "c'",
+      "est",
+      "nucléaire",
+      "\n"
+    ]
+  },
+  "Segment_40": {
+    "Phrase_0": "On s'en fout \nOn est tout \nOn finira au fond du trou \n\nEt moi je chante \n",
+    "nombre de token": 21,
+    "Liste de tokens": [
+      "On",
+      "s'",
+      "en",
+      "fout",
+      "\n",
+      "On",
+      "est",
+      "tout",
+      "\n",
+      "On",
+      "finira",
+      "au",
+      "fond",
+      "du",
+      "trou",
+      "\n\n",
+      "Et",
+      "moi",
+      "je",
+      "chante",
+      "\n"
+    ]
+  },
+  "Segment_41": {
+    "Phrase_0": "Moi je m'invente une vie \n\n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Moi",
+      "je",
+      "m'",
+      "invente",
+      "une",
+      "vie",
+      "\n\n"
+    ]
+  },
+  "Segment_42": {
+    "Phrase_0": "Fatuité",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Fatuité"
+    ]
+  },
+  "Segment_43": {
+    "Phrase_0": "c'est laid \nLa tyrannie c'est laid \nLa félonie",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "c'",
+      "est",
+      "laid",
+      "\n",
+      "La",
+      "tyrannie",
+      "c'",
+      "est",
+      "laid",
+      "\n",
+      "La",
+      "félonie"
+    ]
+  },
+  "Segment_44": {
+    "Phrase_0": "c'est laid \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "c'",
+      "est",
+      "laid",
+      "\n"
+    ]
+  },
+  "Segment_45": {
+    "Phrase_0": "Mais la vie c'est ça aussi \n\nTous les rebuts vous dérangent \nPourtant les fous sont des anges (c'est dans l'air) \n",
+    "nombre de token": 28,
+    "Liste de tokens": [
+      "Mais",
+      "la",
+      "vie",
+      "c'",
+      "est",
+      "ça",
+      "aussi",
+      "\n\n",
+      "Tous",
+      "les",
+      "rebuts",
+      "vous",
+      "dérangent",
+      "\n",
+      "Pourtant",
+      "les",
+      "fous",
+      "sont",
+      "des",
+      "anges",
+      "(",
+      "c'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ")",
+      "\n"
+    ]
+  },
+  "Segment_46": {
+    "Phrase_0": "Les incompris vous démangent \nQue faire des ruses que fait le vent ? (C'est dans l'air) \n\n(Refrain) \n",
+    "nombre de token": 26,
+    "Liste de tokens": [
+      "Les",
+      "incompris",
+      "vous",
+      "démangent",
+      "\n",
+      "Que",
+      "faire",
+      "des",
+      "ruses",
+      "que",
+      "fait",
+      "le",
+      "vent",
+      "?",
+      "(",
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ")",
+      "\n\n",
+      "(",
+      "Refrain",
+      ")",
+      "\n"
+    ]
+  },
+  "Segment_47": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_48": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_49": {
+    "Phrase_0": "C'est dans l'air, c'est nécessaire \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ",",
+      "c'",
+      "est",
+      "nécessaire",
+      "\n"
+    ]
+  },
+  "Segment_50": {
+    "Phrase_0": "Prendre l'air \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Prendre",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_51": {
+    "Phrase_0": "Respirer",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Respirer"
+    ]
+  },
+  "Segment_52": {
+    "Phrase_0": "\nParfois piquer la poupée \n\nC'est dans l'air",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "\n",
+      "Parfois",
+      "piquer",
+      "la",
+      "poupée",
+      "\n\n",
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air"
+    ]
+  },
+  "Segment_53": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_54": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_55": {
+    "Phrase_0": "C'est dans l'air, c'est millénaire \nS'enivrer",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ",",
+      "c'",
+      "est",
+      "millénaire",
+      "\n",
+      "S'",
+      "enivrer"
+    ]
+  },
+  "Segment_56": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_57": {
+    "Phrase_0": "Coïter",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Coïter"
+    ]
+  },
+  "Segment_58": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_59": {
+    "Phrase_0": "Quid de nos amours passés",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Quid",
+      "de",
+      "nos",
+      "amours",
+      "passés"
+    ]
+  },
+  "Segment_60": {
+    "Phrase_0": "\n\nC'est dans l'air \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n\n",
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_61": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_62": {
+    "Phrase_0": "C'est dans l'air, c'est salutaire \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ",",
+      "c'",
+      "est",
+      "salutaire",
+      "\n"
+    ]
+  },
+  "Segment_63": {
+    "Phrase_0": "Sauf qui peut \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Sauf",
+      "qui",
+      "peut",
+      "\n"
+    ]
+  },
+  "Segment_64": {
+    "Phrase_0": "Sauve",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Sauve"
+    ]
+  },
+  "Segment_65": {
+    "Phrase_0": "c'est mieux !",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "c'",
+      "est",
+      "mieux",
+      "!"
+    ]
+  },
+  "Segment_66": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_67": {
+    "Phrase_0": "Sauf qu'ici, loin sont les cieux \n\nC'est dans l'air \n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Sauf",
+      "qu'",
+      "ici",
+      ",",
+      "loin",
+      "sont",
+      "les",
+      "cieux",
+      "\n\n",
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_68": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_69": {
+    "Phrase_0": "C'est dans l'air, c'est nucléaire \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ",",
+      "c'",
+      "est",
+      "nucléaire",
+      "\n"
+    ]
+  },
+  "Segment_70": {
+    "Phrase_0": "On s'en fout \nOn est tout \nOn finira au fond du trou \n\nEt moi je chante \n",
+    "nombre de token": 21,
+    "Liste de tokens": [
+      "On",
+      "s'",
+      "en",
+      "fout",
+      "\n",
+      "On",
+      "est",
+      "tout",
+      "\n",
+      "On",
+      "finira",
+      "au",
+      "fond",
+      "du",
+      "trou",
+      "\n\n",
+      "Et",
+      "moi",
+      "je",
+      "chante",
+      "\n"
+    ]
+  },
+  "Segment_71": {
+    "Phrase_0": "Moi je m'invente une vie (c'est dans l'air) \n\n(Refrain) \n",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "Moi",
+      "je",
+      "m'",
+      "invente",
+      "une",
+      "vie",
+      "(",
+      "c'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ")",
+      "\n\n",
+      "(",
+      "Refrain",
+      ")",
+      "\n"
+    ]
+  },
+  "Segment_72": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_73": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_74": {
+    "Phrase_0": "C'est dans l'air, c'est nécessaire \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ",",
+      "c'",
+      "est",
+      "nécessaire",
+      "\n"
+    ]
+  },
+  "Segment_75": {
+    "Phrase_0": "Prendre l'air \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Prendre",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_76": {
+    "Phrase_0": "Respirer",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Respirer"
+    ]
+  },
+  "Segment_77": {
+    "Phrase_0": "\nParfois piquer la poupée (c'est dans l'air)",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "\n",
+      "Parfois",
+      "piquer",
+      "la",
+      "poupée",
+      "(",
+      "c'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ")"
+    ]
+  },
+  "Segment_78": {
+    "Phrase_0": "\n\nC'est dans l'air \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n\n",
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_79": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_80": {
+    "Phrase_0": "C'est dans l'air, c'est millénaire \nS'enivrer",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ",",
+      "c'",
+      "est",
+      "millénaire",
+      "\n",
+      "S'",
+      "enivrer"
+    ]
+  },
+  "Segment_81": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_82": {
+    "Phrase_0": "Coïter",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Coïter"
+    ]
+  },
+  "Segment_83": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_84": {
+    "Phrase_0": "Quid de nos amours passés (",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Quid",
+      "de",
+      "nos",
+      "amours",
+      "passés",
+      "("
+    ]
+  },
+  "Segment_85": {
+    "Phrase_0": "c'est dans l'air)",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "c'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ")"
+    ]
+  },
+  "Segment_86": {
+    "Phrase_0": "\n\nC'est dans l'air \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n\n",
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_87": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_88": {
+    "Phrase_0": "C'est dans l'air, c'est salutaire \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ",",
+      "c'",
+      "est",
+      "salutaire",
+      "\n"
+    ]
+  },
+  "Segment_89": {
+    "Phrase_0": "Sauf qui peut \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Sauf",
+      "qui",
+      "peut",
+      "\n"
+    ]
+  },
+  "Segment_90": {
+    "Phrase_0": "Sauve",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Sauve"
+    ]
+  },
+  "Segment_91": {
+    "Phrase_0": "c'est mieux !",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "c'",
+      "est",
+      "mieux",
+      "!"
+    ]
+  },
+  "Segment_92": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_93": {
+    "Phrase_0": "Sauf qu'ici, loin sont les cieux (c'est dans l'air)",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Sauf",
+      "qu'",
+      "ici",
+      ",",
+      "loin",
+      "sont",
+      "les",
+      "cieux",
+      "(",
+      "c'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ")"
+    ]
+  },
+  "Segment_94": {
+    "Phrase_0": "\n\nC'est dans l'air \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n\n",
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_95": {
+    "Phrase_0": "C'est dans l'air \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      "\n"
+    ]
+  },
+  "Segment_96": {
+    "Phrase_0": "C'est dans l'air, c'est nucléaire \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ",",
+      "c'",
+      "est",
+      "nucléaire",
+      "\n"
+    ]
+  },
+  "Segment_97": {
+    "Phrase_0": "On s'en fout \nOn est tout \nOn finira au fond du trou (c'est dans l'air) \n\nEt moi je chante (c'est dans l'air)",
+    "nombre de token": 34,
+    "Liste de tokens": [
+      "On",
+      "s'",
+      "en",
+      "fout",
+      "\n",
+      "On",
+      "est",
+      "tout",
+      "\n",
+      "On",
+      "finira",
+      "au",
+      "fond",
+      "du",
+      "trou",
+      "(",
+      "c'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ")",
+      "\n\n",
+      "Et",
+      "moi",
+      "je",
+      "chante",
+      "(",
+      "c'",
+      "est",
+      "dans",
+      "l'",
+      "air",
+      ")"
+    ]
+  },
+  "Segment_98": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_99": {
+    "Phrase_0": "Moi je m'invente une vie.",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Moi",
+      "je",
+      "m'",
+      "invente",
+      "une",
+      "vie",
+      "."
+    ]
+  }
+}

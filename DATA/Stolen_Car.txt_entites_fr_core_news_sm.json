@@ -1,0 +1,142 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\n[",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "and empty street \nThere'",
+    "Label": "ORG"
+  },
+  "entité_2": {
+    "Entité": "don't",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "I",
+    "Label": "LOC"
+  },
+  "entité_4": {
+    "Entité": "I'm just",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "boy in",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "man'",
+    "Label": "LOC"
+  },
+  "entité_7": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_8": {
+    "Entité": "And we drive into the night",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_10": {
+    "Entité": "Affole ton imagination \nJe te vois",
+    "Label": "ORG"
+  },
+  "entité_11": {
+    "Entité": "company director \nUne vie de famille",
+    "Label": "ORG"
+  },
+  "entité_12": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_13": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_14": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_15": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_16": {
+    "Entité": "Sting",
+    "Label": "PER"
+  },
+  "entité_17": {
+    "Entité": "Please take me dancing tonight",
+    "Label": "MISC"
+  },
+  "entité_18": {
+    "Entité": "I've been all",
+    "Label": "MISC"
+  },
+  "entité_19": {
+    "Entité": "please take",
+    "Label": "PER"
+  },
+  "entité_20": {
+    "Entité": "Please take me dancing tonight",
+    "Label": "MISC"
+  },
+  "entité_21": {
+    "Entité": "Please take me dancing tonight",
+    "Label": "MISC"
+  },
+  "entité_22": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_23": {
+    "Entité": "Rome",
+    "Label": "LOC"
+  },
+  "entité_24": {
+    "Entité": "Sting]",
+    "Label": "MISC"
+  },
+  "entité_25": {
+    "Entité": "cologne",
+    "Label": "LOC"
+  },
+  "entité_26": {
+    "Entité": "Mylène Farmer",
+    "Label": "PER"
+  },
+  "entité_27": {
+    "Entité": "Sting]",
+    "Label": "MISC"
+  },
+  "entité_28": {
+    "Entité": "traffic light \nAnd she drives into the night",
+    "Label": "ORG"
+  },
+  "entité_29": {
+    "Entité": "Sting",
+    "Label": "PER"
+  },
+  "entité_30": {
+    "Entité": "Please take me dancing tonight",
+    "Label": "MISC"
+  },
+  "entité_31": {
+    "Entité": "I've been all",
+    "Label": "MISC"
+  },
+  "entité_32": {
+    "Entité": "please take",
+    "Label": "PER"
+  },
+  "entité_33": {
+    "Entité": "Please take me dancing tonight",
+    "Label": "MISC"
+  },
+  "entité_34": {
+    "Entité": "Please take me dancing tonight",
+    "Label": "MISC"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nBulle",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "M'endormir",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "Je sais bien que je mens \nJe sais bien",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Bulle de chagrin \nBoule",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Je \nAinsi sois",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Il \nAinsi moi je \nPrie",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "Tu \nFuies",
+    "Label": "ORG"
+  },
+  "entité_7": {
+    "Entité": "Pourrais",
+    "Label": "LOC"
+  },
+  "entité_8": {
+    "Entité": "Quand tout est noir?",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "Je \nAinsi sois",
+    "Label": "MISC"
+  },
+  "entité_10": {
+    "Entité": "Bulle de chagrin \nBoule",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "Je voudrais mon hiver \nM'endormir",
+    "Label": "MISC"
+  },
+  "entité_12": {
+    "Entité": "Je \nAinsi sois",
+    "Label": "MISC"
+  },
+  "entité_13": {
+    "Entité": "Il \nAinsi moi je \nPrie",
+    "Label": "MISC"
+  },
+  "entité_14": {
+    "Entité": "Tu \nFuies",
+    "Label": "ORG"
+  },
+  "entité_15": {
+    "Entité": "Pourrais",
+    "Label": "LOC"
+  },
+  "entité_16": {
+    "Entité": "Quand tout est noir?",
+    "Label": "MISC"
+  },
+  "entité_17": {
+    "Entité": "Je \nAinsi sois",
+    "Label": "MISC"
+  }
+}

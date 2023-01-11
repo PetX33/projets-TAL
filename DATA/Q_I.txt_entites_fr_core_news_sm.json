@@ -1,0 +1,78 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nMême",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Q.I",
+    "Label": "LOC"
+  },
+  "entité_2": {
+    "Entité": "Q.I",
+    "Label": "LOC"
+  },
+  "entité_3": {
+    "Entité": "Sa bouche est sanctuaire \nLa plus sacrée des prières \nS'alanguir",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Rodin",
+    "Label": "PER"
+  },
+  "entité_5": {
+    "Entité": "Ça",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "Ça",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "Sémantiques \nMême",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "Langue",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "Q.I",
+    "Label": "LOC"
+  },
+  "entité_10": {
+    "Entité": "Rodin",
+    "Label": "PER"
+  },
+  "entité_11": {
+    "Entité": "Ça",
+    "Label": "MISC"
+  },
+  "entité_12": {
+    "Entité": "Ça",
+    "Label": "MISC"
+  },
+  "entité_13": {
+    "Entité": "Sémantiques \nQu'il",
+    "Label": "MISC"
+  },
+  "entité_14": {
+    "Entité": "Rodin",
+    "Label": "PER"
+  },
+  "entité_15": {
+    "Entité": "Ça",
+    "Label": "MISC"
+  },
+  "entité_16": {
+    "Entité": "Ça",
+    "Label": "MISC"
+  },
+  "entité_17": {
+    "Entité": "Sémantiques \nTon Q.I \nMon",
+    "Label": "MISC"
+  },
+  "entité_18": {
+    "Entité": "Ton Q.I \nC.Q.F.D \nTon Q.I",
+    "Label": "MISC"
+  }
+}

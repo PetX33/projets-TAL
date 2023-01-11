@@ -1,0 +1,98 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\n'Je me fous",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Je fais fi de tes",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "Papa",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "Petit bouton de rose",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_5": {
+    "Entité": "Optimistique-moi",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_7": {
+    "Entité": "reviens-moi",
+    "Label": "PER"
+  },
+  "entité_8": {
+    "Entité": "Fais",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "Papa",
+    "Label": "PER"
+  },
+  "entité_10": {
+    "Entité": "Petit bouton de rose",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_12": {
+    "Entité": "Optimistique-moi",
+    "Label": "MISC"
+  },
+  "entité_13": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_14": {
+    "Entité": "reviens-moi",
+    "Label": "PER"
+  },
+  "entité_15": {
+    "Entité": "Petit bouton de rose",
+    "Label": "MISC"
+  },
+  "entité_16": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_17": {
+    "Entité": "Optimistique-moi",
+    "Label": "MISC"
+  },
+  "entité_18": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_19": {
+    "Entité": "reviens-moi",
+    "Label": "PER"
+  },
+  "entité_20": {
+    "Entité": "Petit bouton de rose",
+    "Label": "MISC"
+  },
+  "entité_21": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  },
+  "entité_22": {
+    "Entité": "Optimistique-moi",
+    "Label": "MISC"
+  },
+  "entité_23": {
+    "Entité": "Papa \nOptimistique-moi",
+    "Label": "PER"
+  }
+}

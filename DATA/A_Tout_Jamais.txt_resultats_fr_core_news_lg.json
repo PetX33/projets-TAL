@@ -1,0 +1,405 @@
+{
+  "Segment_0": {
+    "Phrase_0": "À tout jamais par Mylene Farmer\n\nTout n'est qu'un jeu de masques \nPoussière d'anthrax \nQui s'insinue dans nos blessures \n",
+    "nombre de token": 27,
+    "Liste de tokens": [
+      "À",
+      "tout",
+      "jamais",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Tout",
+      "n'",
+      "est",
+      "qu'",
+      "un",
+      "jeu",
+      "de",
+      "masques",
+      "\n",
+      "Poussière",
+      "d'",
+      "anthrax",
+      "\n",
+      "Qui",
+      "s'",
+      "insinue",
+      "dans",
+      "nos",
+      "blessures",
+      "\n"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Oh démon lui qui \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Oh",
+      "démon",
+      "lui",
+      "qui",
+      "\n"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "Consume nos vies",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Consume",
+      "nos",
+      "vies"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Souffle le chaud, le froid \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Souffle",
+      "le",
+      "chaud",
+      ",",
+      "le",
+      "froid",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "Qui d'autre que moi le voit?",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Qui",
+      "d'",
+      "autre",
+      "que",
+      "moi",
+      "le",
+      "voit",
+      "?"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\n\nLui dire fuck you too \nÀ tout jamais \nRequiem pour tout \nRecommencer \nPlus de sorry, sorry \nPlus dans ma chair \n",
+    "nombre de token": 28,
+    "Liste de tokens": [
+      "\n\n",
+      "Lui",
+      "dire",
+      "fuck",
+      "you",
+      "too",
+      "\n",
+      "À",
+      "tout",
+      "jamais",
+      "\n",
+      "Requiem",
+      "pour",
+      "tout",
+      "\n",
+      "Recommencer",
+      "\n",
+      "Plus",
+      "de",
+      "sorry",
+      ",",
+      "sorry",
+      "\n",
+      "Plus",
+      "dans",
+      "ma",
+      "chair",
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "Toi et ton double ami \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Toi",
+      "et",
+      "ton",
+      "double",
+      "ami",
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "Retourne en enfer \n\nVois \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Retourne",
+      "en",
+      "enfer",
+      "\n\n",
+      "Vois",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Violente",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Violente"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "est l'emprise \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "est",
+      "l'",
+      "emprise",
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "Et pas de limite \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Et",
+      "pas",
+      "de",
+      "limite",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "L'âme sœur dénuée d'un cœur \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "L'",
+      "âme",
+      "sœur",
+      "dénuée",
+      "d'",
+      "un",
+      "cœur",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Quand tout est mensonges",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Quand",
+      "tout",
+      "est",
+      "mensonges"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "\nQui blessent et me rongent \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "Qui",
+      "blessent",
+      "et",
+      "me",
+      "rongent",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Là \n",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Là",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Je doute et je saigne \nQu'importe!",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Je",
+      "doute",
+      "et",
+      "je",
+      "saigne",
+      "\n",
+      "Qu'",
+      "importe",
+      "!"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "\nLa vie m'enseigne… \n\nLui dire fuck you too \n",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "\n",
+      "La",
+      "vie",
+      "m'",
+      "enseigne",
+      "…",
+      "\n\n",
+      "Lui",
+      "dire",
+      "fuck",
+      "you",
+      "too",
+      "\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "À tout jamais \nRequiem pour tout \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "À",
+      "tout",
+      "jamais",
+      "\n",
+      "Requiem",
+      "pour",
+      "tout",
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "Recommencer \nPlus de sorry, sorry \nPlus dans ma chair \n",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "Recommencer",
+      "\n",
+      "Plus",
+      "de",
+      "sorry",
+      ",",
+      "sorry",
+      "\n",
+      "Plus",
+      "dans",
+      "ma",
+      "chair",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Toi et ton double ami \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Toi",
+      "et",
+      "ton",
+      "double",
+      "ami",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "Retourne en enfer \n\nSentiment d'être seule au monde",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Retourne",
+      "en",
+      "enfer",
+      "\n\n",
+      "Sentiment",
+      "d'",
+      "être",
+      "seule",
+      "au",
+      "monde"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "Il sait atteindre votre cœur \nTout bascule en quelques secondes \n",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Il",
+      "sait",
+      "atteindre",
+      "votre",
+      "cœur",
+      "\n",
+      "Tout",
+      "bascule",
+      "en",
+      "quelques",
+      "secondes",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "J'n'ai plus peur, seul reste un haut-le-cœur \n\nLui dire fuck you too \nÀ tout jamais \nRequiem pour tout \nRecommencer \nPlus de sorry, sorry \nPlus dans ma chair \n",
+    "nombre de token": 38,
+    "Liste de tokens": [
+      "J'",
+      "n'",
+      "ai",
+      "plus",
+      "peur",
+      ",",
+      "seul",
+      "reste",
+      "un",
+      "haut-le-cœur",
+      "\n\n",
+      "Lui",
+      "dire",
+      "fuck",
+      "you",
+      "too",
+      "\n",
+      "À",
+      "tout",
+      "jamais",
+      "\n",
+      "Requiem",
+      "pour",
+      "tout",
+      "\n",
+      "Recommencer",
+      "\n",
+      "Plus",
+      "de",
+      "sorry",
+      ",",
+      "sorry",
+      "\n",
+      "Plus",
+      "dans",
+      "ma",
+      "chair",
+      "\n"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "Toi et ton double ami \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Toi",
+      "et",
+      "ton",
+      "double",
+      "ami",
+      "\n"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "Retourne en enfer",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Retourne",
+      "en",
+      "enfer"
+    ]
+  }
+}

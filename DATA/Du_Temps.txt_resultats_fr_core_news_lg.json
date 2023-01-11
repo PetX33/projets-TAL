@@ -1,0 +1,395 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Du Temps par Mylene Farmer\n\nDu temps du temps \nDu temps il te faut \nDu temps du temps \nDu temps non non non \n\nSuppose que je te dise \nL'amour en est la cause \nQue nos chemins de vie \nParfois nous superposent \n\nC'est le mien \nJ'men fous \nmon chagrin",
+    "nombre de token": 62,
+    "Liste de tokens": [
+      "Du",
+      "Temps",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Du",
+      "temps",
+      "du",
+      "temps",
+      "\n",
+      "Du",
+      "temps",
+      "il",
+      "te",
+      "faut",
+      "\n",
+      "Du",
+      "temps",
+      "du",
+      "temps",
+      "\n",
+      "Du",
+      "temps",
+      "non",
+      "non",
+      "non",
+      "\n\n",
+      "Suppose",
+      "que",
+      "je",
+      "te",
+      "dise",
+      "\n",
+      "L'",
+      "amour",
+      "en",
+      "est",
+      "la",
+      "cause",
+      "\n",
+      "Que",
+      "nos",
+      "chemins",
+      "de",
+      "vie",
+      "\n",
+      "Parfois",
+      "nous",
+      "superposent",
+      "\n\n",
+      "C'",
+      "est",
+      "le",
+      "mien",
+      "\n",
+      "J'",
+      "men",
+      "fous",
+      "\n",
+      "mon",
+      "chagrin"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "c'est tout \nL'antidote au pire \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "c'",
+      "est",
+      "tout",
+      "\n",
+      "L'",
+      "antidote",
+      "au",
+      "pire",
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "L'anti pas mourir \n\nMoi je veux vivre \nAller haut \n",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "L'",
+      "anti",
+      "pas",
+      "mourir",
+      "\n\n",
+      "Moi",
+      "je",
+      "veux",
+      "vivre",
+      "\n",
+      "Aller",
+      "haut",
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Pouvoir me dire \nQue c'est beau \nMais pas du temps \nDu temps du temps \nQu'il te faut",
+    "nombre de token": 23,
+    "Liste de tokens": [
+      "Pouvoir",
+      "me",
+      "dire",
+      "\n",
+      "Que",
+      "c'",
+      "est",
+      "beau",
+      "\n",
+      "Mais",
+      "pas",
+      "du",
+      "temps",
+      "\n",
+      "Du",
+      "temps",
+      "du",
+      "temps",
+      "\n",
+      "Qu'",
+      "il",
+      "te",
+      "faut"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "Du temps du temps \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Du",
+      "temps",
+      "du",
+      "temps",
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "Du temps non non non",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Du",
+      "temps",
+      "non",
+      "non",
+      "non"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "\n\nSuppose que je te dise \nQu'au fond de moi sommeille \nUn continent de vie \nDe démons et merveilles",
+    "nombre de token": 23,
+    "Liste de tokens": [
+      "\n\n",
+      "Suppose",
+      "que",
+      "je",
+      "te",
+      "dise",
+      "\n",
+      "Qu'",
+      "au",
+      "fond",
+      "de",
+      "moi",
+      "sommeille",
+      "\n",
+      "Un",
+      "continent",
+      "de",
+      "vie",
+      "\n",
+      "De",
+      "démons",
+      "et",
+      "merveilles"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "\n\nC'est le mien \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "\n\n",
+      "C'",
+      "est",
+      "le",
+      "mien",
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Mes vous \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Mes",
+      "vous",
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "Mon destin \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Mon",
+      "destin",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "S'enroule \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "S'",
+      "enroule",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Autour de tes reins",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Autour",
+      "de",
+      "tes",
+      "reins"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "\nAmour je sens bien \n\nMoi je veux vivre \nAller haut \n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "\n",
+      "Amour",
+      "je",
+      "sens",
+      "bien",
+      "\n\n",
+      "Moi",
+      "je",
+      "veux",
+      "vivre",
+      "\n",
+      "Aller",
+      "haut",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Pouvoir me dire \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Pouvoir",
+      "me",
+      "dire",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "que c'est beau \nmais pas du temps \nDu temps du temps \n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "que",
+      "c'",
+      "est",
+      "beau",
+      "\n",
+      "mais",
+      "pas",
+      "du",
+      "temps",
+      "\n",
+      "Du",
+      "temps",
+      "du",
+      "temps",
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Il te faut \nDu temps , du temps \nDu temps non non non \n\nDu temps (x4) \n\nNon non non \n\nMoi je veux vivre \n",
+    "nombre de token": 31,
+    "Liste de tokens": [
+      "Il",
+      "te",
+      "faut",
+      "\n",
+      "Du",
+      "temps",
+      ",",
+      "du",
+      "temps",
+      "\n",
+      "Du",
+      "temps",
+      "non",
+      "non",
+      "non",
+      "\n\n",
+      "Du",
+      "temps",
+      "(",
+      "x4",
+      ")",
+      "\n\n",
+      "Non",
+      "non",
+      "non",
+      "\n\n",
+      "Moi",
+      "je",
+      "veux",
+      "vivre",
+      "\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "Aller haut \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Aller",
+      "haut",
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "Pouvoir me dire \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Pouvoir",
+      "me",
+      "dire",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Que c'est beau \nMais pas du temps \nDu temps du temps \n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Que",
+      "c'",
+      "est",
+      "beau",
+      "\n",
+      "Mais",
+      "pas",
+      "du",
+      "temps",
+      "\n",
+      "Du",
+      "temps",
+      "du",
+      "temps",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "Il te faut \nDu temps du temps \nDu temps non non non",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Il",
+      "te",
+      "faut",
+      "\n",
+      "Du",
+      "temps",
+      "du",
+      "temps",
+      "\n",
+      "Du",
+      "temps",
+      "non",
+      "non",
+      "non"
+    ]
+  }
+}

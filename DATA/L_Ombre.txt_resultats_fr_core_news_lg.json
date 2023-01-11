@@ -1,0 +1,506 @@
+{
+  "Segment_0": {
+    "Phrase_0": "L'ombre par Mylene Farmer\n\n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "L'",
+      "ombre",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "L'onde est si calme \nUn présage d'automne \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "L'",
+      "onde",
+      "est",
+      "si",
+      "calme",
+      "\n",
+      "Un",
+      "présage",
+      "d'",
+      "automne",
+      "\n"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "La, la peur s'engage \nSur mon visage \nLe doute frissonne \n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "La",
+      ",",
+      "la",
+      "peur",
+      "s'",
+      "engage",
+      "\n",
+      "Sur",
+      "mon",
+      "visage",
+      "\n",
+      "Le",
+      "doute",
+      "frissonne",
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "Suis-je faite pour les rêves ?",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Suis",
+      "-je",
+      "faite",
+      "pour",
+      "les",
+      "rêves",
+      "?"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "\nD'une voix faible, \nDis moi de ne plus être \n\nA l'ombre \nRisquer de n'être personne \n",
+    "nombre de token": 24,
+    "Liste de tokens": [
+      "\n",
+      "D'",
+      "une",
+      "voix",
+      "faible",
+      ",",
+      "\n",
+      "Dis",
+      "moi",
+      "de",
+      "ne",
+      "plus",
+      "être",
+      "\n\n",
+      "A",
+      "l'",
+      "ombre",
+      "\n",
+      "Risquer",
+      "de",
+      "n'",
+      "être",
+      "personne",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "On se cache et l'on se cogne \nA l'ombre \n",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "On",
+      "se",
+      "cache",
+      "et",
+      "l'",
+      "on",
+      "se",
+      "cogne",
+      "\n",
+      "A",
+      "l'",
+      "ombre",
+      "\n"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "On se coupe de soi même \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "On",
+      "se",
+      "coupe",
+      "de",
+      "soi",
+      "même",
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "On s'arrache un signe au ciel \nA l'ombre",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "On",
+      "s'",
+      "arrache",
+      "un",
+      "signe",
+      "au",
+      "ciel",
+      "\n",
+      "A",
+      "l'",
+      "ombre"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Et sans dire que l'on se lâche \nQue rien ni personne ne sache \nQuand la nuit tombe \nLas de cette vie trop brève \nOn devient l'ombre de soi même \n\n",
+    "nombre de token": 36,
+    "Liste de tokens": [
+      "Et",
+      "sans",
+      "dire",
+      "que",
+      "l'",
+      "on",
+      "se",
+      "lâche",
+      "\n",
+      "Que",
+      "rien",
+      "ni",
+      "personne",
+      "ne",
+      "sache",
+      "\n",
+      "Quand",
+      "la",
+      "nuit",
+      "tombe",
+      "\n",
+      "Las",
+      "de",
+      "cette",
+      "vie",
+      "trop",
+      "brève",
+      "\n",
+      "On",
+      "devient",
+      "l'",
+      "ombre",
+      "de",
+      "soi",
+      "même",
+      "\n\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "L'âme est la lumière \nMais l'âme erre \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "L'",
+      "âme",
+      "est",
+      "la",
+      "lumière",
+      "\n",
+      "Mais",
+      "l'",
+      "âme",
+      "erre",
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "Sur tous les chemins \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Sur",
+      "tous",
+      "les",
+      "chemins",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Mon cœur se ferme \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Mon",
+      "cœur",
+      "se",
+      "ferme",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Le diable harcèle \nNos lendemains",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Le",
+      "diable",
+      "harcèle",
+      "\n",
+      "Nos",
+      "lendemains"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Et là sous les érables \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Et",
+      "là",
+      "sous",
+      "les",
+      "érables",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Le froid se cabre \nMais toi, dis moi \nDe ne pas être \nA l'ombre \nRisquer de n'être personne",
+    "nombre de token": 25,
+    "Liste de tokens": [
+      "Le",
+      "froid",
+      "se",
+      "cabre",
+      "\n",
+      "Mais",
+      "toi",
+      ",",
+      "dis",
+      "moi",
+      "\n",
+      "De",
+      "ne",
+      "pas",
+      "être",
+      "\n",
+      "A",
+      "l'",
+      "ombre",
+      "\n",
+      "Risquer",
+      "de",
+      "n'",
+      "être",
+      "personne"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "On se cache et l'on se cogne \nA l'ombre \n",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "On",
+      "se",
+      "cache",
+      "et",
+      "l'",
+      "on",
+      "se",
+      "cogne",
+      "\n",
+      "A",
+      "l'",
+      "ombre",
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "On se coupe de soi même \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "On",
+      "se",
+      "coupe",
+      "de",
+      "soi",
+      "même",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "On s'arrache un signe au ciel \nA l'ombre",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "On",
+      "s'",
+      "arrache",
+      "un",
+      "signe",
+      "au",
+      "ciel",
+      "\n",
+      "A",
+      "l'",
+      "ombre"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "Et sans dire que l'on se lâche \nQue rien ni personne ne sache \nQuand la nuit tombe \nLas de cette vie trop brève \nOn devient l'ombre de soi même \n\nA l'ombre \nRisquer de n'être personne \n",
+    "nombre de token": 46,
+    "Liste de tokens": [
+      "Et",
+      "sans",
+      "dire",
+      "que",
+      "l'",
+      "on",
+      "se",
+      "lâche",
+      "\n",
+      "Que",
+      "rien",
+      "ni",
+      "personne",
+      "ne",
+      "sache",
+      "\n",
+      "Quand",
+      "la",
+      "nuit",
+      "tombe",
+      "\n",
+      "Las",
+      "de",
+      "cette",
+      "vie",
+      "trop",
+      "brève",
+      "\n",
+      "On",
+      "devient",
+      "l'",
+      "ombre",
+      "de",
+      "soi",
+      "même",
+      "\n\n",
+      "A",
+      "l'",
+      "ombre",
+      "\n",
+      "Risquer",
+      "de",
+      "n'",
+      "être",
+      "personne",
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "On se cache et l'on se cogne \nA l'ombre \n",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "On",
+      "se",
+      "cache",
+      "et",
+      "l'",
+      "on",
+      "se",
+      "cogne",
+      "\n",
+      "A",
+      "l'",
+      "ombre",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "On se coupe de soi même \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "On",
+      "se",
+      "coupe",
+      "de",
+      "soi",
+      "même",
+      "\n"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "On s'arrache un signe au ciel \nA l'ombre",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "On",
+      "s'",
+      "arrache",
+      "un",
+      "signe",
+      "au",
+      "ciel",
+      "\n",
+      "A",
+      "l'",
+      "ombre"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "Et sans dire que l'on se lâche \nQue rien ni personne ne sache \nQuand la nuit tombe \nLas de cette vie trop brève \nOn devient l'ombre de soi même",
+    "nombre de token": 35,
+    "Liste de tokens": [
+      "Et",
+      "sans",
+      "dire",
+      "que",
+      "l'",
+      "on",
+      "se",
+      "lâche",
+      "\n",
+      "Que",
+      "rien",
+      "ni",
+      "personne",
+      "ne",
+      "sache",
+      "\n",
+      "Quand",
+      "la",
+      "nuit",
+      "tombe",
+      "\n",
+      "Las",
+      "de",
+      "cette",
+      "vie",
+      "trop",
+      "brève",
+      "\n",
+      "On",
+      "devient",
+      "l'",
+      "ombre",
+      "de",
+      "soi",
+      "même"
+    ]
+  }
+}

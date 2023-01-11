@@ -1,0 +1,805 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Histoire De Fée",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Histoire",
+      "De",
+      "Fée"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "C'est... par Mylene Farmer\n\nTrois p'tits tours et silence !",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "...",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Trois",
+      "p'",
+      "tits",
+      "tours",
+      "et",
+      "silence",
+      "!"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "C'est ça qui m'affecte \nQuand on m'aime, je danse \nQuand on veut, j'apparais...",
+    "nombre de token": 22,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "ça",
+      "qui",
+      "m'",
+      "affecte",
+      "\n",
+      "Quand",
+      "on",
+      "m'",
+      "aime",
+      ",",
+      "je",
+      "danse",
+      "\n",
+      "Quand",
+      "on",
+      "veut",
+      ",",
+      "j'",
+      "apparais",
+      "..."
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "\nTrois p'tits tours et silence !",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n",
+      "Trois",
+      "p'",
+      "tits",
+      "tours",
+      "et",
+      "silence",
+      "!"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "J'suis pas en latex \nQuand on m'oublie, le sens \nDe ma vie disparaît \n\nFaire un vœu ou bien deux \nEt puis fermer les yeux \n(Je suis là) \nPour celui, et pour ceux \nQui n'ont pas froid aux yeux \n(Qui croient en moi) \n",
+    "nombre de token": 60,
+    "Liste de tokens": [
+      "J'",
+      "suis",
+      "pas",
+      "en",
+      "latex",
+      "\n",
+      "Quand",
+      "on",
+      "m'",
+      "oublie",
+      ",",
+      "le",
+      "sens",
+      "\n",
+      "De",
+      "ma",
+      "vie",
+      "disparaît",
+      "\n\n",
+      "Faire",
+      "un",
+      "vœu",
+      "ou",
+      "bien",
+      "deux",
+      "\n",
+      "Et",
+      "puis",
+      "fermer",
+      "les",
+      "yeux",
+      "\n",
+      "(",
+      "Je",
+      "suis",
+      "là",
+      ")",
+      "\n",
+      "Pour",
+      "celui",
+      ",",
+      "et",
+      "pour",
+      "ceux",
+      "\n",
+      "Qui",
+      "n'",
+      "ont",
+      "pas",
+      "froid",
+      "aux",
+      "yeux",
+      "\n",
+      "(",
+      "Qui",
+      "croient",
+      "en",
+      "moi",
+      ")",
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "Faire un souhait pour de vrai \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Faire",
+      "un",
+      "souhait",
+      "pour",
+      "de",
+      "vrai",
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "Et puis croire au mystère \n(Tout est là) \n",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Et",
+      "puis",
+      "croire",
+      "au",
+      "mystère",
+      "\n",
+      "(",
+      "Tout",
+      "est",
+      "là",
+      ")",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "C'est un style, c'est facile \nQuand on est Mélusine / Oh, Vite dépêche",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "un",
+      "style",
+      ",",
+      "c'",
+      "est",
+      "facile",
+      "\n",
+      "Quand",
+      "on",
+      "est",
+      "Mélusine",
+      "/",
+      "Oh",
+      ",",
+      "Vite",
+      "dépêche"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "-toi \n\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "-",
+      "toi",
+      "\n\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "Avant que tout s'éveille \nAttrapez-moi hi ah hi ah \nMais pas le bout des ailes \n",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "Avant",
+      "que",
+      "tout",
+      "s'",
+      "éveille",
+      "\n",
+      "Attrapez",
+      "-moi",
+      "hi",
+      "ah",
+      "hi",
+      "ah",
+      "\n",
+      "Mais",
+      "pas",
+      "le",
+      "bout",
+      "des",
+      "ailes",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Une fée c'est fragile parfois \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Une",
+      "fée",
+      "c'",
+      "est",
+      "fragile",
+      "parfois",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Avant que minuit vienne \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Avant",
+      "que",
+      "minuit",
+      "vienne",
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "Attrapez-moi hi ah hi ah \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Attrapez",
+      "-moi",
+      "hi",
+      "ah",
+      "hi",
+      "ah",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Jeux de mains, jeux de M \nEmoi",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Jeux",
+      "de",
+      "mains",
+      ",",
+      "jeux",
+      "de",
+      "M",
+      "\n",
+      "Emoi"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "\n\nTrois p'tits tours et silence",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n\n",
+      "Trois",
+      "p'",
+      "tits",
+      "tours",
+      "et",
+      "silence"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "!",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "!"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "C'est ça qui me choque \nQuand ma peine est immense \nJe change l'or en toc \n",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "ça",
+      "qui",
+      "me",
+      "choque",
+      "\n",
+      "Quand",
+      "ma",
+      "peine",
+      "est",
+      "immense",
+      "\n",
+      "Je",
+      "change",
+      "l'",
+      "or",
+      "en",
+      "toc",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Trois p'tits tours de passe-passe \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Trois",
+      "p'",
+      "tits",
+      "tours",
+      "de",
+      "passe-passe",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "Moi j'en ai des stocks...",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Moi",
+      "j'",
+      "en",
+      "ai",
+      "des",
+      "stocks",
+      "..."
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\nSi ma baguette casse \nQue le grand cric me croque \n\nFaire un vœu ou bien deux \n",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "\n",
+      "Si",
+      "ma",
+      "baguette",
+      "casse",
+      "\n",
+      "Que",
+      "le",
+      "grand",
+      "cric",
+      "me",
+      "croque",
+      "\n\n",
+      "Faire",
+      "un",
+      "vœu",
+      "ou",
+      "bien",
+      "deux",
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "Et puis fermer les yeux \n(",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Et",
+      "puis",
+      "fermer",
+      "les",
+      "yeux",
+      "\n",
+      "("
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Je suis là) \nPour celui, et pour ceux \nQui n'ont pas froid aux yeux \n(Qui croient en moi) \n",
+    "nombre de token": 27,
+    "Liste de tokens": [
+      "Je",
+      "suis",
+      "là",
+      ")",
+      "\n",
+      "Pour",
+      "celui",
+      ",",
+      "et",
+      "pour",
+      "ceux",
+      "\n",
+      "Qui",
+      "n'",
+      "ont",
+      "pas",
+      "froid",
+      "aux",
+      "yeux",
+      "\n",
+      "(",
+      "Qui",
+      "croient",
+      "en",
+      "moi",
+      ")",
+      "\n"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "Faire un souhait pour de vrai \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Faire",
+      "un",
+      "souhait",
+      "pour",
+      "de",
+      "vrai",
+      "\n"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "Et puis croire au mystère \n(Tout est là) \n",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Et",
+      "puis",
+      "croire",
+      "au",
+      "mystère",
+      "\n",
+      "(",
+      "Tout",
+      "est",
+      "là",
+      ")",
+      "\n"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "C'est un style, c'est facile \nQuand on est Mélusine / Oh, Vite dépêche",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "un",
+      "style",
+      ",",
+      "c'",
+      "est",
+      "facile",
+      "\n",
+      "Quand",
+      "on",
+      "est",
+      "Mélusine",
+      "/",
+      "Oh",
+      ",",
+      "Vite",
+      "dépêche"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "-toi \n\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "-",
+      "toi",
+      "\n\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Avant que tout s'éveille \nAttrapez-moi hi ah hi ah \nMais pas le bout des ailes \n",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "Avant",
+      "que",
+      "tout",
+      "s'",
+      "éveille",
+      "\n",
+      "Attrapez",
+      "-moi",
+      "hi",
+      "ah",
+      "hi",
+      "ah",
+      "\n",
+      "Mais",
+      "pas",
+      "le",
+      "bout",
+      "des",
+      "ailes",
+      "\n"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "Une fée c'est fragile parfois \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Une",
+      "fée",
+      "c'",
+      "est",
+      "fragile",
+      "parfois",
+      "\n"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "Avant que minuit vienne \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Avant",
+      "que",
+      "minuit",
+      "vienne",
+      "\n"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "Attrapez-moi hi ah hi ah \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Attrapez",
+      "-moi",
+      "hi",
+      "ah",
+      "hi",
+      "ah",
+      "\n"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "Jeux de mains, jeux de M \nEmoi",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Jeux",
+      "de",
+      "mains",
+      ",",
+      "jeux",
+      "de",
+      "M",
+      "\n",
+      "Emoi"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "\n\nMonday",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n\n",
+      "Monday"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "...",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "..."
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "Tuesday... Wednesday...",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Tuesday",
+      "...",
+      "Wednesday",
+      "..."
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "\nThursday...",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n",
+      "Thursday",
+      "..."
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "Friday... Saturday...",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Friday",
+      "...",
+      "Saturday",
+      "..."
+    ]
+  },
+  "Segment_39": {
+    "Phrase_0": "Sunday...",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Sunday",
+      "..."
+    ]
+  },
+  "Segment_40": {
+    "Phrase_0": "\n\nAvant que tout s'éveille \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n\n",
+      "Avant",
+      "que",
+      "tout",
+      "s'",
+      "éveille",
+      "\n"
+    ]
+  },
+  "Segment_41": {
+    "Phrase_0": "Attrapez-moi hi ah hi ah \nMais pas le bout des ailes \n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Attrapez",
+      "-moi",
+      "hi",
+      "ah",
+      "hi",
+      "ah",
+      "\n",
+      "Mais",
+      "pas",
+      "le",
+      "bout",
+      "des",
+      "ailes",
+      "\n"
+    ]
+  },
+  "Segment_42": {
+    "Phrase_0": "Une fée c'est fragile parfois \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Une",
+      "fée",
+      "c'",
+      "est",
+      "fragile",
+      "parfois",
+      "\n"
+    ]
+  },
+  "Segment_43": {
+    "Phrase_0": "Avant que minuit vienne \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Avant",
+      "que",
+      "minuit",
+      "vienne",
+      "\n"
+    ]
+  },
+  "Segment_44": {
+    "Phrase_0": "Attrapez-moi hi ah hi ah \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Attrapez",
+      "-moi",
+      "hi",
+      "ah",
+      "hi",
+      "ah",
+      "\n"
+    ]
+  },
+  "Segment_45": {
+    "Phrase_0": "Jeux de mains, jeux de M \n\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Jeux",
+      "de",
+      "mains",
+      ",",
+      "jeux",
+      "de",
+      "M",
+      "\n\n"
+    ]
+  },
+  "Segment_46": {
+    "Phrase_0": "Avant que tout s'éveille \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Avant",
+      "que",
+      "tout",
+      "s'",
+      "éveille",
+      "\n"
+    ]
+  },
+  "Segment_47": {
+    "Phrase_0": "Attrapez-moi hi ah hi ah \nEt voir mes étincelles \n",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Attrapez",
+      "-moi",
+      "hi",
+      "ah",
+      "hi",
+      "ah",
+      "\n",
+      "Et",
+      "voir",
+      "mes",
+      "étincelles",
+      "\n"
+    ]
+  },
+  "Segment_48": {
+    "Phrase_0": "Une fée c'est magique en soi \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Une",
+      "fée",
+      "c'",
+      "est",
+      "magique",
+      "en",
+      "soi",
+      "\n"
+    ]
+  },
+  "Segment_49": {
+    "Phrase_0": "Avant que minuit vienne \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Avant",
+      "que",
+      "minuit",
+      "vienne",
+      "\n"
+    ]
+  },
+  "Segment_50": {
+    "Phrase_0": "Attrapez-moi hi ah hi ah \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Attrapez",
+      "-moi",
+      "hi",
+      "ah",
+      "hi",
+      "ah",
+      "\n"
+    ]
+  },
+  "Segment_51": {
+    "Phrase_0": "Jeux de mains, jeux de M",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Jeux",
+      "de",
+      "mains",
+      ",",
+      "jeux",
+      "de",
+      "M"
+    ]
+  }
+}

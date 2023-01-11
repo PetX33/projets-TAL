@@ -1,0 +1,38 @@
+{
+  "entité_0": {
+    "Entité": "J'Avais au Moins",
+    "Label": "MISC"
+  },
+  "entité_1": {
+    "Entité": "Mylene Farmer\n\nQui",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Ni Dieu",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Haine",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Entrevu",
+    "Label": "PER"
+  },
+  "entité_5": {
+    "Entité": "Brisent",
+    "Label": "LOC"
+  },
+  "entité_6": {
+    "Entité": "Fiancée à l'enténèbrement...",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "Entrevu",
+    "Label": "PER"
+  },
+  "entité_8": {
+    "Entité": "Entrevu",
+    "Label": "PER"
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "Segment_0": {
+    "Phrase_0": "C'est Une Belle Journée par Mylene Farmer\n\nAllongé le corps est mort \nPour des milliers \n",
+    "nombre de token": 19,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "Une",
+      "Belle",
+      "Journée",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Allongé",
+      "le",
+      "corps",
+      "est",
+      "mort",
+      "\n",
+      "Pour",
+      "des",
+      "milliers",
+      "\n"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "C'est un homme qui dort...",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "un",
+      "homme",
+      "qui",
+      "dort",
+      "..."
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\nA moitié pleine est l'amphore \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n",
+      "A",
+      "moitié",
+      "pleine",
+      "est",
+      "l'",
+      "amphore",
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "C'est à moitié vide \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "à",
+      "moitié",
+      "vide",
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Qu'on la voit sans effort \nVoir la vie, son côté pile \n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Qu'",
+      "on",
+      "la",
+      "voit",
+      "sans",
+      "effort",
+      "\n",
+      "Voir",
+      "la",
+      "vie",
+      ",",
+      "son",
+      "côté",
+      "pile",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "Oh philosophie",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Oh",
+      "philosophie"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "Dis-moi des élégies",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Dis",
+      "-moi",
+      "des",
+      "élégies"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Le bonheur \nLui me fait peur \nD'avoir tant d'envies \n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Le",
+      "bonheur",
+      "\n",
+      "Lui",
+      "me",
+      "fait",
+      "peur",
+      "\n",
+      "D'",
+      "avoir",
+      "tant",
+      "d'",
+      "envies",
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Moi j'ai un souffle à cœur \nAussi",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Moi",
+      "j'",
+      "ai",
+      "un",
+      "souffle",
+      "à",
+      "cœur",
+      "\n",
+      "Aussi"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "\n\nC'est une belle journée \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n\n",
+      "C'",
+      "est",
+      "une",
+      "belle",
+      "journée",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Je vais me coucher \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Je",
+      "vais",
+      "me",
+      "coucher",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Une si belle journée \nQui s'achève \nDonne l'envie d'aimer \nMais je vais me coucher \nMordre l'éternité \nA dents pleines \n",
+    "nombre de token": 29,
+    "Liste de tokens": [
+      "Une",
+      "si",
+      "belle",
+      "journée",
+      "\n",
+      "Qui",
+      "s'",
+      "achève",
+      "\n",
+      "Donne",
+      "l'",
+      "envie",
+      "d'",
+      "aimer",
+      "\n",
+      "Mais",
+      "je",
+      "vais",
+      "me",
+      "coucher",
+      "\n",
+      "Mordre",
+      "l'",
+      "éternité",
+      "\n",
+      "A",
+      "dents",
+      "pleines",
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "C'est une belle journée \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "une",
+      "belle",
+      "journée",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Je vais me coucher \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Je",
+      "vais",
+      "me",
+      "coucher",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Une si belle journée \nSouveraine",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Une",
+      "si",
+      "belle",
+      "journée",
+      "\n",
+      "Souveraine"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "Donne l'envie de paix",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Donne",
+      "l'",
+      "envie",
+      "de",
+      "paix"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Voir des anges à mes pieds",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Voir",
+      "des",
+      "anges",
+      "à",
+      "mes",
+      "pieds"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "\nM'faire la belle \n\nAllongé le corps est mort \nPour des milliers \n",
+    "nombre de token": 16,
+    "Liste de tokens": [
+      "\n",
+      "M'",
+      "faire",
+      "la",
+      "belle",
+      "\n\n",
+      "Allongé",
+      "le",
+      "corps",
+      "est",
+      "mort",
+      "\n",
+      "Pour",
+      "des",
+      "milliers",
+      "\n"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "C'est un homme qui dort...",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "un",
+      "homme",
+      "qui",
+      "dort",
+      "..."
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "\nA moitié pleine est l'amphore \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n",
+      "A",
+      "moitié",
+      "pleine",
+      "est",
+      "l'",
+      "amphore",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "C'est à moitié vide \nQue je la vois encore \nTout est dit puisqu'en amour \n",
+    "nombre de token": 19,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "à",
+      "moitié",
+      "vide",
+      "\n",
+      "Que",
+      "je",
+      "la",
+      "vois",
+      "encore",
+      "\n",
+      "Tout",
+      "est",
+      "dit",
+      "puisqu'",
+      "en",
+      "amour",
+      "\n"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "Si c'est du lourd \nLe cœur est léger \nDes élégies toujours \nLes plaisirs, les longs, les courts \nVois",
+    "nombre de token": 25,
+    "Liste de tokens": [
+      "Si",
+      "c'",
+      "est",
+      "du",
+      "lourd",
+      "\n",
+      "Le",
+      "cœur",
+      "est",
+      "léger",
+      "\n",
+      "Des",
+      "élégies",
+      "toujours",
+      "\n",
+      "Les",
+      "plaisirs",
+      ",",
+      "les",
+      "longs",
+      ",",
+      "les",
+      "courts",
+      "\n",
+      "Vois"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "-tu en amour",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "-",
+      "tu",
+      "en",
+      "amour"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "\nMoi",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n",
+      "Moi"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": ", j'ai le souffle court \nVois",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      ",",
+      "j'",
+      "ai",
+      "le",
+      "souffle",
+      "court",
+      "\n",
+      "Vois"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "-",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "-"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "tu",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "tu"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "\n\nBelle \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n\n",
+      "Belle",
+      "\n"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "La vie est belle \nComme une aile",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "La",
+      "vie",
+      "est",
+      "belle",
+      "\n",
+      "Comme",
+      "une",
+      "aile"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "Qu'on ne doit froisser \nBelle",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Qu'",
+      "on",
+      "ne",
+      "doit",
+      "froisser",
+      "\n",
+      "Belle"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "La vie est belle \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "La",
+      "vie",
+      "est",
+      "belle",
+      "\n"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "Et je vais là \nBelle",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Et",
+      "je",
+      "vais",
+      "là",
+      "\n",
+      "Belle"
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_39": {
+    "Phrase_0": "La vie est belle \nMais la mienne \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "La",
+      "vie",
+      "est",
+      "belle",
+      "\n",
+      "Mais",
+      "la",
+      "mienne",
+      "\n"
+    ]
+  },
+  "Segment_40": {
+    "Phrase_0": "Un monde emporté \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Un",
+      "monde",
+      "emporté",
+      "\n"
+    ]
+  },
+  "Segment_41": {
+    "Phrase_0": "Elle, j'entre en elle \nEt mortelle, va.",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Elle",
+      ",",
+      "j'",
+      "entre",
+      "en",
+      "elle",
+      "\n",
+      "Et",
+      "mortelle",
+      ",",
+      "va",
+      "."
+    ]
+  }
+}

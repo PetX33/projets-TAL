@@ -1,0 +1,38 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "A",
+    "Label": "LOC"
+  },
+  "entité_2": {
+    "Entité": "Sans contrefaçon \nJe",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Je n'en fais",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Un mouchoir au creux du pantalon \nJe suis chevalier d'Eon",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "A",
+    "Label": "LOC"
+  },
+  "entité_6": {
+    "Entité": "Sans contrefaçon \nJe",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "Tour à tour on me",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "Mes résolutions \nJe me fous bien des qu'en dira-t-on \nJe",
+    "Label": "MISC"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "entité_0": {
+    "Entité": "Libertine",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Cendre de Lune",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "Mylene Farmer\n\nCendre de lune",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "libertine \nJe",
+    "Label": "PER"
+  },
+  "entité_4": {
+    "Entité": "grenadine \nAimer",
+    "Label": "PER"
+  },
+  "entité_5": {
+    "Entité": "Je je, suis libertine \nJe",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "Je m'évapore",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "Cendre",
+    "Label": "LOC"
+  },
+  "entité_8": {
+    "Entité": "Je je, suis libertine \nJe",
+    "Label": "MISC"
+  }
+}

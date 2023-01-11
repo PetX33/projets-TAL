@@ -1,0 +1,18 @@
+{
+  "entité_0": {
+    "Entité": "Âme-stram-gram\n\nEn moi, en moi, toi que j'aime\nDis-moi",
+    "Label": "MISC"
+  },
+  "entité_1": {
+    "Entité": "Bourdon",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Âme-stram-gram\n\nÂme",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "ratatam\n",
+    "Label": "PER"
+  }
+}

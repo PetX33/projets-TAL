@@ -1,0 +1,54 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\n",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Requiem",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "sorry",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "sorry \nPlus",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Retourne",
+    "Label": "PER"
+  },
+  "entité_5": {
+    "Entité": "Requiem",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "sorry",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "sorry \nPlus",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "Retourne",
+    "Label": "PER"
+  },
+  "entité_9": {
+    "Entité": "Requiem",
+    "Label": "MISC"
+  },
+  "entité_10": {
+    "Entité": "sorry",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "sorry \nPlus",
+    "Label": "MISC"
+  },
+  "entité_12": {
+    "Entité": "Retourne",
+    "Label": "PER"
+  }
+}

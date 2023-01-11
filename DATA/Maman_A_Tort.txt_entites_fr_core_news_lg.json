@@ -1,0 +1,14 @@
+{
+  "entité_0": {
+    "Entité": "Maman",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Mylene",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "hôpital \n",
+    "Label": "LOC"
+  }
+}

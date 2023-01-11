@@ -1,0 +1,38 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nBloody",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "X \nQu'on attend",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "tilt \nMais",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "Everest",
+    "Label": "LOC"
+  },
+  "entité_4": {
+    "Entité": "X \nQu'on attend",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Papa Noël",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "Papa Noël",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "Papa Noël",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "Papa Noël",
+    "Label": "MISC"
+  }
+}

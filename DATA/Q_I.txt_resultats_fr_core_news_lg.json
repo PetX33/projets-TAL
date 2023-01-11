@@ -1,0 +1,882 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Q.i.",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Q.i",
+      "."
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "par Mylene Farmer",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "par",
+      "Mylene",
+      "Farmer"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\n\nMême si j'en ai vu des culs \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "\n\n",
+      "Même",
+      "si",
+      "j'",
+      "en",
+      "ai",
+      "vu",
+      "des",
+      "culs",
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "C'est son Q.I qui m'a plu \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "son",
+      "Q.I",
+      "qui",
+      "m'",
+      "a",
+      "plu",
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Je vis le choc de culture \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Je",
+      "vis",
+      "le",
+      "choc",
+      "de",
+      "culture",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "La belle aventure \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "La",
+      "belle",
+      "aventure",
+      "\n"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "Même si je suis dans son lit \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Même",
+      "si",
+      "je",
+      "suis",
+      "dans",
+      "son",
+      "lit",
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "C'est son Q.I qui me lie \nÀ lui pour la vie entière \nBien que solitaire \nEt moi j'en ai vu des culs \nMais c'est son \"Q.I\" qui eut \nLe dernier mot pour m'avoir \nLà, sur le plongeoir \nBien sûr j'en ai vu des cons \nMais son Q.I me rend \nComplétement occise de désir \nQuitte à en mourir \n\nSa bouche est sanctuaire \n",
+    "nombre de token": 81,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "son",
+      "Q.I",
+      "qui",
+      "me",
+      "lie",
+      "\n",
+      "À",
+      "lui",
+      "pour",
+      "la",
+      "vie",
+      "entière",
+      "\n",
+      "Bien",
+      "que",
+      "solitaire",
+      "\n",
+      "Et",
+      "moi",
+      "j'",
+      "en",
+      "ai",
+      "vu",
+      "des",
+      "culs",
+      "\n",
+      "Mais",
+      "c'",
+      "est",
+      "son",
+      "\"",
+      "Q.I",
+      "\"",
+      "qui",
+      "eut",
+      "\n",
+      "Le",
+      "dernier",
+      "mot",
+      "pour",
+      "m'",
+      "avoir",
+      "\n",
+      "Là",
+      ",",
+      "sur",
+      "le",
+      "plongeoir",
+      "\n",
+      "Bien",
+      "sûr",
+      "j'",
+      "en",
+      "ai",
+      "vu",
+      "des",
+      "cons",
+      "\n",
+      "Mais",
+      "son",
+      "Q.I",
+      "me",
+      "rend",
+      "\n",
+      "Complétement",
+      "occise",
+      "de",
+      "désir",
+      "\n",
+      "Quitte",
+      "à",
+      "en",
+      "mourir",
+      "\n\n",
+      "Sa",
+      "bouche",
+      "est",
+      "sanctuaire",
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "La plus sacrée des prières",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "La",
+      "plus",
+      "sacrée",
+      "des",
+      "prières"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "S'alanguir",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "S'",
+      "alanguir"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "est pour moi \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "est",
+      "pour",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Le pire des effrois, c'est froid \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Le",
+      "pire",
+      "des",
+      "effrois",
+      ",",
+      "c'",
+      "est",
+      "froid",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Sa bouche est sanctuaire \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Sa",
+      "bouche",
+      "est",
+      "sanctuaire",
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "Le plus sacré",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Le",
+      "plus",
+      "sacré"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "des mystères \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "des",
+      "mystères",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Il est l'ange pour moi \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Il",
+      "est",
+      "l'",
+      "ange",
+      "pour",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Je lui dis tout bas \nQu'il a les rondeurs d'un \"Rodin\" \nJ'aime!",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "Je",
+      "lui",
+      "dis",
+      "tout",
+      "bas",
+      "\n",
+      "Qu'",
+      "il",
+      "a",
+      "les",
+      "rondeurs",
+      "d'",
+      "un",
+      "\"",
+      "Rodin",
+      "\"",
+      "\n",
+      "J'",
+      "aime",
+      "!"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "Ça m'incite à \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Ça",
+      "m'",
+      "incite",
+      "à",
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "Il sait la douceur de mes reins \nQui oscillent \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "Il",
+      "sait",
+      "la",
+      "douceur",
+      "de",
+      "mes",
+      "reins",
+      "\n",
+      "Qui",
+      "oscillent",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Il sent la tiédeur de mes mains \nJ'aime!",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "Il",
+      "sent",
+      "la",
+      "tiédeur",
+      "de",
+      "mes",
+      "mains",
+      "\n",
+      "J'",
+      "aime",
+      "!"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "Ça l'incite à \nLongue est la route de nos plaisirs \nSémantiques",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Ça",
+      "l'",
+      "incite",
+      "à",
+      "\n",
+      "Longue",
+      "est",
+      "la",
+      "route",
+      "de",
+      "nos",
+      "plaisirs",
+      "\n",
+      "Sémantiques"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "Même si j'en ai vu des cas \nSon Q.I moi, me rend coi \n\nDevant telle érudition \n",
+    "nombre de token": 21,
+    "Liste de tokens": [
+      "Même",
+      "si",
+      "j'",
+      "en",
+      "ai",
+      "vu",
+      "des",
+      "cas",
+      "\n",
+      "Son",
+      "Q.I",
+      "moi",
+      ",",
+      "me",
+      "rend",
+      "coi",
+      "\n\n",
+      "Devant",
+      "telle",
+      "érudition",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Langue",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Langue"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "morte, oh non \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "morte",
+      ",",
+      "oh",
+      "non",
+      "\n"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "Et quand je suis dans son lit \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Et",
+      "quand",
+      "je",
+      "suis",
+      "dans",
+      "son",
+      "lit",
+      "\n"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "C'est son Q.I qui me lit \nLa physique des quantas \nQuant à moi, je crois que \nSa bouche est sanctuaire \nLa plus sacrée des prières",
+    "nombre de token": 31,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "son",
+      "Q.I",
+      "qui",
+      "me",
+      "lit",
+      "\n",
+      "La",
+      "physique",
+      "des",
+      "quantas",
+      "\n",
+      "Quant",
+      "à",
+      "moi",
+      ",",
+      "je",
+      "crois",
+      "que",
+      "\n",
+      "Sa",
+      "bouche",
+      "est",
+      "sanctuaire",
+      "\n",
+      "La",
+      "plus",
+      "sacrée",
+      "des",
+      "prières"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "S'alanguir",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "S'",
+      "alanguir"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "est pour moi \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "est",
+      "pour",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "Le pire des effrois, c'est froid \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Le",
+      "pire",
+      "des",
+      "effrois",
+      ",",
+      "c'",
+      "est",
+      "froid",
+      "\n"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "Sa bouche est sanctuaire \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Sa",
+      "bouche",
+      "est",
+      "sanctuaire",
+      "\n"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "Le plus sacré",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Le",
+      "plus",
+      "sacré"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "des mystères \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "des",
+      "mystères",
+      "\n"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "Il est l'ange pour moi \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Il",
+      "est",
+      "l'",
+      "ange",
+      "pour",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "Je lui dis tout bas \nQu'il a les rondeurs d'un \"Rodin\" \nJ'aime!",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "Je",
+      "lui",
+      "dis",
+      "tout",
+      "bas",
+      "\n",
+      "Qu'",
+      "il",
+      "a",
+      "les",
+      "rondeurs",
+      "d'",
+      "un",
+      "\"",
+      "Rodin",
+      "\"",
+      "\n",
+      "J'",
+      "aime",
+      "!"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "Ça m'incite à \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Ça",
+      "m'",
+      "incite",
+      "à",
+      "\n"
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "Il sait la douceur de mes reins \nQui oscillent \n\nIl sent la tiédeur de mes mains \nJ'aime!",
+    "nombre de token": 22,
+    "Liste de tokens": [
+      "Il",
+      "sait",
+      "la",
+      "douceur",
+      "de",
+      "mes",
+      "reins",
+      "\n",
+      "Qui",
+      "oscillent",
+      "\n\n",
+      "Il",
+      "sent",
+      "la",
+      "tiédeur",
+      "de",
+      "mes",
+      "mains",
+      "\n",
+      "J'",
+      "aime",
+      "!"
+    ]
+  },
+  "Segment_39": {
+    "Phrase_0": "Ça l'incite à \nLongue est la route de nos plaisirs \nSémantiques",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Ça",
+      "l'",
+      "incite",
+      "à",
+      "\n",
+      "Longue",
+      "est",
+      "la",
+      "route",
+      "de",
+      "nos",
+      "plaisirs",
+      "\n",
+      "Sémantiques"
+    ]
+  },
+  "Segment_40": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_41": {
+    "Phrase_0": "Qu'il a les rondeurs d'un \"Rodin\" \nJ'aime!",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Qu'",
+      "il",
+      "a",
+      "les",
+      "rondeurs",
+      "d'",
+      "un",
+      "\"",
+      "Rodin",
+      "\"",
+      "\n",
+      "J'",
+      "aime",
+      "!"
+    ]
+  },
+  "Segment_42": {
+    "Phrase_0": "Ça m'incite à \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Ça",
+      "m'",
+      "incite",
+      "à",
+      "\n"
+    ]
+  },
+  "Segment_43": {
+    "Phrase_0": "Il sait la douceur de mes reins \nQui oscillent \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "Il",
+      "sait",
+      "la",
+      "douceur",
+      "de",
+      "mes",
+      "reins",
+      "\n",
+      "Qui",
+      "oscillent",
+      "\n"
+    ]
+  },
+  "Segment_44": {
+    "Phrase_0": "Il sent la tiédeur de mes mains \nJ'aime!",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "Il",
+      "sent",
+      "la",
+      "tiédeur",
+      "de",
+      "mes",
+      "mains",
+      "\n",
+      "J'",
+      "aime",
+      "!"
+    ]
+  },
+  "Segment_45": {
+    "Phrase_0": "Ça l'incite à \nLongue est la route de nos plaisirs \nSémantiques",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Ça",
+      "l'",
+      "incite",
+      "à",
+      "\n",
+      "Longue",
+      "est",
+      "la",
+      "route",
+      "de",
+      "nos",
+      "plaisirs",
+      "\n",
+      "Sémantiques"
+    ]
+  },
+  "Segment_46": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_47": {
+    "Phrase_0": "Ton Q.I \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ton",
+      "Q.I",
+      "\n"
+    ]
+  },
+  "Segment_48": {
+    "Phrase_0": "Mon cul est \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Mon",
+      "cul",
+      "est",
+      "\n"
+    ]
+  },
+  "Segment_49": {
+    "Phrase_0": "Ton Q.I \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ton",
+      "Q.I",
+      "\n"
+    ]
+  },
+  "Segment_50": {
+    "Phrase_0": "C.Q.F.D.",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "C.Q.F.D."
+    ]
+  },
+  "Segment_51": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_52": {
+    "Phrase_0": "Ton Q.I \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ton",
+      "Q.I",
+      "\n"
+    ]
+  },
+  "Segment_53": {
+    "Phrase_0": "Mon cul est \n\nTon Q.I \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Mon",
+      "cul",
+      "est",
+      "\n\n",
+      "Ton",
+      "Q.I",
+      "\n"
+    ]
+  },
+  "Segment_54": {
+    "Phrase_0": "C.Q.F.D",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "C.Q.F.D"
+    ]
+  },
+  "Segment_55": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_56": {
+    "Phrase_0": "Ton Q.I \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ton",
+      "Q.I",
+      "\n"
+    ]
+  },
+  "Segment_57": {
+    "Phrase_0": "Mon cul est \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Mon",
+      "cul",
+      "est",
+      "\n"
+    ]
+  },
+  "Segment_58": {
+    "Phrase_0": "Ton Q.I \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ton",
+      "Q.I",
+      "\n"
+    ]
+  },
+  "Segment_59": {
+    "Phrase_0": "C.Q.F.D",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "C.Q.F.D"
+    ]
+  },
+  "Segment_60": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_61": {
+    "Phrase_0": "Ton Q.I \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ton",
+      "Q.I",
+      "\n"
+    ]
+  },
+  "Segment_62": {
+    "Phrase_0": "Mon cul est \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Mon",
+      "cul",
+      "est",
+      "\n"
+    ]
+  },
+  "Segment_63": {
+    "Phrase_0": "Ton Q.I \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ton",
+      "Q.I",
+      "\n"
+    ]
+  },
+  "Segment_64": {
+    "Phrase_0": "C.Q.F.D",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "C.Q.F.D"
+    ]
+  }
+}

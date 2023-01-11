@@ -1,0 +1,42 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\n",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Je te dédie ma mort \nEt je saigne, saigne encore \nMais...",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "Disperse",
+    "Label": "LOC"
+  },
+  "entité_3": {
+    "Entité": "Mon amour \n\nL'on peut",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Je tombe en défaillance \nVienne ma délivrance \nMe",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Survit",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "Disperse",
+    "Label": "LOC"
+  },
+  "entité_7": {
+    "Entité": "Mon amour \n\nmais la bataille",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "Disperse",
+    "Label": "LOC"
+  },
+  "entité_9": {
+    "Entité": "Mon amour",
+    "Label": "MISC"
+  }
+}

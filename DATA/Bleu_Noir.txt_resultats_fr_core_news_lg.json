@@ -1,0 +1,337 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Bleu",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Bleu"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Noir par Mylene",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Noir",
+      "par",
+      "Mylene"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "Farmer\n\nJe marche vers les ténèbres \nVers l'horizon funeste \nMais la vie qui m'entoure et me baigne \n",
+    "nombre de token": 23,
+    "Liste de tokens": [
+      "Farmer",
+      "\n\n",
+      "Je",
+      "marche",
+      "vers",
+      "les",
+      "ténèbres",
+      "\n",
+      "Vers",
+      "l'",
+      "horizon",
+      "funeste",
+      "\n",
+      "Mais",
+      "la",
+      "vie",
+      "qui",
+      "m'",
+      "entoure",
+      "et",
+      "me",
+      "baigne",
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "Me dit quand même ça vaut la peine \n\nEt qui peut se mouvoir \nDans ce convoi de larmes \nJe te dédie ma mort \nEt je saigne, saigne encore \nMais...",
+    "nombre de token": 36,
+    "Liste de tokens": [
+      "Me",
+      "dit",
+      "quand",
+      "même",
+      "ça",
+      "vaut",
+      "la",
+      "peine",
+      "\n\n",
+      "Et",
+      "qui",
+      "peut",
+      "se",
+      "mouvoir",
+      "\n",
+      "Dans",
+      "ce",
+      "convoi",
+      "de",
+      "larmes",
+      "\n",
+      "Je",
+      "te",
+      "dédie",
+      "ma",
+      "mort",
+      "\n",
+      "Et",
+      "je",
+      "saigne",
+      ",",
+      "saigne",
+      "encore",
+      "\n",
+      "Mais",
+      "..."
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "\n\nLa bataille est belle \nCelle de l'amour \nDisperse tout \n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "\n\n",
+      "La",
+      "bataille",
+      "est",
+      "belle",
+      "\n",
+      "Celle",
+      "de",
+      "l'",
+      "amour",
+      "\n",
+      "Disperse",
+      "tout",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "La bataille est celle \nDe longs, longs jours \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "La",
+      "bataille",
+      "est",
+      "celle",
+      "\n",
+      "De",
+      "longs",
+      ",",
+      "longs",
+      "jours",
+      "\n"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "Mon amour",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Mon",
+      "amour"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "\n\nL'on peut se retourner \nMais le ruisseau ressemble à l'eau \nQuand tu pars \n",
+    "nombre de token": 19,
+    "Liste de tokens": [
+      "\n\n",
+      "L'",
+      "on",
+      "peut",
+      "se",
+      "retourner",
+      "\n",
+      "Mais",
+      "le",
+      "ruisseau",
+      "ressemble",
+      "à",
+      "l'",
+      "eau",
+      "\n",
+      "Quand",
+      "tu",
+      "pars",
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "Il n'en reste qu'un bleu noir \n\nJe tombe en défaillance \nVienne",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Il",
+      "n'",
+      "en",
+      "reste",
+      "qu'",
+      "un",
+      "bleu",
+      "noir",
+      "\n\n",
+      "Je",
+      "tombe",
+      "en",
+      "défaillance",
+      "\n",
+      "Vienne"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "ma délivrance \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "ma",
+      "délivrance",
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Me dit quand même qu'au fond de ma peine \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "Me",
+      "dit",
+      "quand",
+      "même",
+      "qu'",
+      "au",
+      "fond",
+      "de",
+      "ma",
+      "peine",
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "Survit un cœur couleur vermeille \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Survit",
+      "un",
+      "cœur",
+      "couleur",
+      "vermeille",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Qui bat... car \n\nLa bataille est belle \nCelle de l'amour \n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Qui",
+      "bat",
+      "...",
+      "car",
+      "\n\n",
+      "La",
+      "bataille",
+      "est",
+      "belle",
+      "\n",
+      "Celle",
+      "de",
+      "l'",
+      "amour",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Disperse tout \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Disperse",
+      "tout",
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "La bataille est celle \nDe longs, longs jours \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "La",
+      "bataille",
+      "est",
+      "celle",
+      "\n",
+      "De",
+      "longs",
+      ",",
+      "longs",
+      "jours",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Mon amour \n\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Mon",
+      "amour",
+      "\n\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "mais la bataille est belle \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "mais",
+      "la",
+      "bataille",
+      "est",
+      "belle",
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Celle de l'amour",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Celle",
+      "de",
+      "l'",
+      "amour"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "Disperse tout \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Disperse",
+      "tout",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "La bataille est celle \nDe longs, longs jours \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "La",
+      "bataille",
+      "est",
+      "celle",
+      "\n",
+      "De",
+      "longs",
+      ",",
+      "longs",
+      "jours",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "Mon amour",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Mon",
+      "amour"
+    ]
+  }
+}

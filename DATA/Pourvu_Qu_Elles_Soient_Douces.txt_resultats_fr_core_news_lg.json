@@ -1,0 +1,575 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Pourvu Qu'elles Soient Douces par Mylene",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Pourvu",
+      "Qu'",
+      "elles",
+      "Soient",
+      "Douces",
+      "par",
+      "Mylene"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Farmer",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Farmer"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\n\nTon regard oblique \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "\n\n",
+      "Ton",
+      "regard",
+      "oblique",
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "En rien n'est lubrique \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "En",
+      "rien",
+      "n'",
+      "est",
+      "lubrique",
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Ta maman t'a trop fessé",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Ta",
+      "maman",
+      "t'",
+      "a",
+      "trop",
+      "fessé"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "Ton goût du revers",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Ton",
+      "goût",
+      "du",
+      "revers"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "\nN'",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n",
+      "N'"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "a rien de pervers \nEt ton bébé n'est pas fâché \n\nTon Kamasutra \nA bien cent ans d'âge \nMon Dieu que c'est démodé \n",
+    "nombre de token": 30,
+    "Liste de tokens": [
+      "a",
+      "rien",
+      "de",
+      "pervers",
+      "\n",
+      "Et",
+      "ton",
+      "bébé",
+      "n'",
+      "est",
+      "pas",
+      "fâché",
+      "\n\n",
+      "Ton",
+      "Kamasutra",
+      "\n",
+      "A",
+      "bien",
+      "cent",
+      "ans",
+      "d'",
+      "âge",
+      "\n",
+      "Mon",
+      "Dieu",
+      "que",
+      "c'",
+      "est",
+      "démodé",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Le nec plus ultra \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Le",
+      "nec",
+      "plus",
+      "ultra",
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "En ce paysage \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "En",
+      "ce",
+      "paysage",
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "C'est d'aimer les deux cotés \n\nTa majesté \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "d'",
+      "aimer",
+      "les",
+      "deux",
+      "cotés",
+      "\n\n",
+      "Ta",
+      "majesté",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Jamais ne te déplaces !",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Jamais",
+      "ne",
+      "te",
+      "déplaces",
+      "!"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "\nSans ton petit oreiller",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "\n",
+      "Sans",
+      "ton",
+      "petit",
+      "oreiller"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "A jamais je suis \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "A",
+      "jamais",
+      "je",
+      "suis",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Ton unique classe \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Ton",
+      "unique",
+      "classe",
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Tout n'est que prix à payer \n\nTu fais des Ah ! des Oh !",
+    "nombre de token": 16,
+    "Liste de tokens": [
+      "Tout",
+      "n'",
+      "est",
+      "que",
+      "prix",
+      "à",
+      "payer",
+      "\n\n",
+      "Tu",
+      "fais",
+      "des",
+      "Ah",
+      "!",
+      "des",
+      "Oh",
+      "!"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "\nDerrière ton ouvrage \nQuand mon petit pantalon \nDebout et de dos \nSans perdre courage \nDénude tes obsessions",
+    "nombre de token": 22,
+    "Liste de tokens": [
+      "\n",
+      "Derrière",
+      "ton",
+      "ouvrage",
+      "\n",
+      "Quand",
+      "mon",
+      "petit",
+      "pantalon",
+      "\n",
+      "Debout",
+      "et",
+      "de",
+      "dos",
+      "\n",
+      "Sans",
+      "perdre",
+      "courage",
+      "\n",
+      "Dénude",
+      "tes",
+      "obsessions"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "\n\nTu t'entêtes à te foutre de tout \nMais pourvu qu'elles soient douces \nD'un poète tu n'as que la lune en tête \n",
+    "nombre de token": 29,
+    "Liste de tokens": [
+      "\n\n",
+      "Tu",
+      "t'",
+      "entêtes",
+      "à",
+      "te",
+      "foutre",
+      "de",
+      "tout",
+      "\n",
+      "Mais",
+      "pourvu",
+      "qu'",
+      "elles",
+      "soient",
+      "douces",
+      "\n",
+      "D'",
+      "un",
+      "poète",
+      "tu",
+      "n'",
+      "as",
+      "que",
+      "la",
+      "lune",
+      "en",
+      "tête",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Des mes rondeurs tu es K.O. !",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Des",
+      "mes",
+      "rondeurs",
+      "tu",
+      "es",
+      "K.O.",
+      "!"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "\nTu t'entêtes à te foutre de tout \nMais pourvu qu'elles soient douces \nD'un esthète tu n'as gardé qu'un \"air bête\"...",
+    "nombre de token": 31,
+    "Liste de tokens": [
+      "\n",
+      "Tu",
+      "t'",
+      "entêtes",
+      "à",
+      "te",
+      "foutre",
+      "de",
+      "tout",
+      "\n",
+      "Mais",
+      "pourvu",
+      "qu'",
+      "elles",
+      "soient",
+      "douces",
+      "\n",
+      "D'",
+      "un",
+      "esthète",
+      "tu",
+      "n'",
+      "as",
+      "gardé",
+      "qu'",
+      "un",
+      "\"",
+      "air",
+      "bête",
+      "\"",
+      "..."
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\nTout est beau si c'est \"Vue de dos\" !",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "\n",
+      "Tout",
+      "est",
+      "beau",
+      "si",
+      "c'",
+      "est",
+      "\"",
+      "Vue",
+      "de",
+      "dos",
+      "\"",
+      "!"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "\n\nOK !",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n\n",
+      "OK",
+      "!"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "Prose ou poésie",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Prose",
+      "ou",
+      "poésie"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "Tout n'est que prétexte \nPas la peine de t'excuser \nMuse ou égérie \n",
+    "nombre de token": 17,
+    "Liste de tokens": [
+      "Tout",
+      "n'",
+      "est",
+      "que",
+      "prétexte",
+      "\n",
+      "Pas",
+      "la",
+      "peine",
+      "de",
+      "t'",
+      "excuser",
+      "\n",
+      "Muse",
+      "ou",
+      "égérie",
+      "\n"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "Mes petits fesses \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Mes",
+      "petits",
+      "fesses",
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Ne cessent de t'inspirer \n\nJe fais de Ah !",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "Ne",
+      "cessent",
+      "de",
+      "t'",
+      "inspirer",
+      "\n\n",
+      "Je",
+      "fais",
+      "de",
+      "Ah",
+      "!"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "des Oh !",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "des",
+      "Oh",
+      "!"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "\nJamais ne me lasse \nPar amour pour un toqué \nNe faut-il pas que \nJeunesse se passe \nA quoi bon se bousculer ?",
+    "nombre de token": 28,
+    "Liste de tokens": [
+      "\n",
+      "Jamais",
+      "ne",
+      "me",
+      "lasse",
+      "\n",
+      "Par",
+      "amour",
+      "pour",
+      "un",
+      "toqué",
+      "\n",
+      "Ne",
+      "faut",
+      "-il",
+      "pas",
+      "que",
+      "\n",
+      "Jeunesse",
+      "se",
+      "passe",
+      "\n",
+      "A",
+      "quoi",
+      "bon",
+      "se",
+      "bousculer",
+      "?"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "\n\nTu t'entêtes à te foutre de tout \nMais pourvu qu'elles soient douces \nD'un poète tu n'as que la lune en tête \nDes mes rondeurs tu es K.O. !",
+    "nombre de token": 36,
+    "Liste de tokens": [
+      "\n\n",
+      "Tu",
+      "t'",
+      "entêtes",
+      "à",
+      "te",
+      "foutre",
+      "de",
+      "tout",
+      "\n",
+      "Mais",
+      "pourvu",
+      "qu'",
+      "elles",
+      "soient",
+      "douces",
+      "\n",
+      "D'",
+      "un",
+      "poète",
+      "tu",
+      "n'",
+      "as",
+      "que",
+      "la",
+      "lune",
+      "en",
+      "tête",
+      "\n",
+      "Des",
+      "mes",
+      "rondeurs",
+      "tu",
+      "es",
+      "K.O.",
+      "!"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "\nTu t'entêtes à te foutre de tout \nMais pourvu qu'elles soient douces \nD'un esthète tu n'as gardé qu'un \"air bête\" \nTout est beau si c'est \"Vue de dos\"",
+    "nombre de token": 42,
+    "Liste de tokens": [
+      "\n",
+      "Tu",
+      "t'",
+      "entêtes",
+      "à",
+      "te",
+      "foutre",
+      "de",
+      "tout",
+      "\n",
+      "Mais",
+      "pourvu",
+      "qu'",
+      "elles",
+      "soient",
+      "douces",
+      "\n",
+      "D'",
+      "un",
+      "esthète",
+      "tu",
+      "n'",
+      "as",
+      "gardé",
+      "qu'",
+      "un",
+      "\"",
+      "air",
+      "bête",
+      "\"",
+      "\n",
+      "Tout",
+      "est",
+      "beau",
+      "si",
+      "c'",
+      "est",
+      "\"",
+      "Vue",
+      "de",
+      "dos",
+      "\""
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\n",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Ignorant ma vie",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "Toi",
+    "Label": "LOC"
+  },
+  "entité_3": {
+    "Entité": "Filament de lune \nQui",
+    "Label": "MISC"
+  }
+}

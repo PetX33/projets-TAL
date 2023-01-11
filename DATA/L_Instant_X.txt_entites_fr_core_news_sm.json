@@ -1,0 +1,66 @@
+{
+  "entité_0": {
+    "Entité": "X",
+    "Label": "MISC"
+  },
+  "entité_1": {
+    "Entité": "Mylene Farmer\n\nBloody",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "X \nQu'on",
+    "Label": "ORG"
+  },
+  "entité_3": {
+    "Entité": "messie \nComme",
+    "Label": "LOC"
+  },
+  "entité_4": {
+    "Entité": "Humeur killer \nC'",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Fatal",
+    "Label": "LOC"
+  },
+  "entité_6": {
+    "Entité": "Everest",
+    "Label": "LOC"
+  },
+  "entité_7": {
+    "Entité": "X \nQu'on",
+    "Label": "ORG"
+  },
+  "entité_8": {
+    "Entité": "messie \nComme",
+    "Label": "LOC"
+  },
+  "entité_9": {
+    "Entité": "hécatombe \nVernis",
+    "Label": "LOC"
+  },
+  "entité_10": {
+    "Entité": "Papa Noël",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "Papa Noël",
+    "Label": "MISC"
+  },
+  "entité_12": {
+    "Entité": "L'an 2000",
+    "Label": "MISC"
+  },
+  "entité_13": {
+    "Entité": "Papa Noël",
+    "Label": "MISC"
+  },
+  "entité_14": {
+    "Entité": "Papa Noël",
+    "Label": "MISC"
+  },
+  "entité_15": {
+    "Entité": "Papa Noël",
+    "Label": "MISC"
+  }
+}

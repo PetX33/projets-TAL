@@ -1,0 +1,22 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nEt",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Mon âme sœur c'est mon bain de foule",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "Baudelaire",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "Toulouse",
+    "Label": "LOC"
+  },
+  "entité_4": {
+    "Entité": "Baudelaire",
+    "Label": "PER"
+  }
+}

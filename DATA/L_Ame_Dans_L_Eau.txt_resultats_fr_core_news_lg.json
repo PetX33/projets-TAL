@@ -1,0 +1,532 @@
+{
+  "Segment_0": {
+    "Phrase_0": "L'âme dans l'eau par Mylene Farmer\n\n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "L'",
+      "âme",
+      "dans",
+      "l'",
+      "eau",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "L’air est lourd de ton absence",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "L’",
+      "air",
+      "est",
+      "lourd",
+      "de",
+      "ton",
+      "absence"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "L’air est sourd à nos sentiments \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "L’",
+      "air",
+      "est",
+      "sourd",
+      "à",
+      "nos",
+      "sentiments",
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "L’air est court et mon manque de toi \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "L’",
+      "air",
+      "est",
+      "court",
+      "et",
+      "mon",
+      "manque",
+      "de",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "Toi mon autre moi",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Toi",
+      "mon",
+      "autre",
+      "moi"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "Tu vois, j’ai l’âme dans l’eau \n\nSi les songes ont des portes \nQu’ils me mènent là à tes côtés \n",
+    "nombre de token": 27,
+    "Liste de tokens": [
+      "Tu",
+      "vois",
+      ",",
+      "j’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n\n",
+      "Si",
+      "les",
+      "songes",
+      "ont",
+      "des",
+      "portes",
+      "\n",
+      "Qu’",
+      "ils",
+      "me",
+      "mènent",
+      "là",
+      "à",
+      "tes",
+      "côtés",
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "L’onde noire que j’ai du traverser \nAux douleurs car nul ne sait \nJ’ai l’âme dans l’eau \n\nBéni soit mon refuge \nBéni soit l’or de ma maison \nDoux le souffle, nos mains qui s’effleurent \n",
+    "nombre de token": 47,
+    "Liste de tokens": [
+      "L’",
+      "onde",
+      "noire",
+      "que",
+      "j’",
+      "ai",
+      "du",
+      "traverser",
+      "\n",
+      "Aux",
+      "douleurs",
+      "car",
+      "nul",
+      "ne",
+      "sait",
+      "\n",
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n\n",
+      "Béni",
+      "soit",
+      "mon",
+      "refuge",
+      "\n",
+      "Béni",
+      "soit",
+      "l’",
+      "or",
+      "de",
+      "ma",
+      "maison",
+      "\n",
+      "Doux",
+      "le",
+      "souffle",
+      ",",
+      "nos",
+      "mains",
+      "qui",
+      "s’",
+      "effleurent",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "J’ai l’âme dans l’eau, j’ai l’âme dans l’eau \n\nL’air est lourd de ton absence",
+    "nombre de token": 23,
+    "Liste de tokens": [
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      ",",
+      "j’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n\n",
+      "L’",
+      "air",
+      "est",
+      "lourd",
+      "de",
+      "ton",
+      "absence"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "L’air est sourd à mes sentiments \nL’ange au ciel murmure un je t’aime \nDans un ultime essentiel",
+    "nombre de token": 22,
+    "Liste de tokens": [
+      "L’",
+      "air",
+      "est",
+      "sourd",
+      "à",
+      "mes",
+      "sentiments",
+      "\n",
+      "L’",
+      "ange",
+      "au",
+      "ciel",
+      "murmure",
+      "un",
+      "je",
+      "t’",
+      "aime",
+      "\n",
+      "Dans",
+      "un",
+      "ultime",
+      "essentiel"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "J’ai l’âme dans l’eau \nJ’ai l’âme dans l’eau \nJ’ai l’âme dans l’eau \n\nJ’ai l’âme dans l’eau \nJ’ai l’âme dans l’eau \nJ’ai l’âme dans l’eau \nJ’ai l’âme dans l’eau \n\nL’air est lourd de ton absence",
+    "nombre de token": 63,
+    "Liste de tokens": [
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n",
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n",
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n\n",
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n",
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n",
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n",
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n\n",
+      "L’",
+      "air",
+      "est",
+      "lourd",
+      "de",
+      "ton",
+      "absence"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "L’air est sourd à nos sentiments \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "L’",
+      "air",
+      "est",
+      "sourd",
+      "à",
+      "nos",
+      "sentiments",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "L’air amour nous manque parfois \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "L’",
+      "air",
+      "amour",
+      "nous",
+      "manque",
+      "parfois",
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Je vois l’aube qui se noie \nJ’ai l’âme dans l’eau \nMais les songes ont des portes \nQui me mènent la où j’avais pied \nDésespoir, le présent m’emporte, \nFaut il croire que je suis morte ?",
+    "nombre de token": 48,
+    "Liste de tokens": [
+      "Je",
+      "vois",
+      "l’",
+      "aube",
+      "qui",
+      "se",
+      "noie",
+      "\n",
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n",
+      "Mais",
+      "les",
+      "songes",
+      "ont",
+      "des",
+      "portes",
+      "\n",
+      "Qui",
+      "me",
+      "mènent",
+      "la",
+      "où",
+      "j’",
+      "avais",
+      "pied",
+      "\n",
+      "Désespoir",
+      ",",
+      "le",
+      "présent",
+      "m’",
+      "emporte",
+      ",",
+      "\n",
+      "Faut",
+      "il",
+      "croire",
+      "que",
+      "je",
+      "suis",
+      "morte",
+      "?"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "\nJ’ai l’âme dans l’eau \n\nBéni soit ta présence \nBéni soit l’or de tous les mondes \nJ’ai l’âme dans l’eau",
+    "nombre de token": 30,
+    "Liste de tokens": [
+      "\n",
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n\n",
+      "Béni",
+      "soit",
+      "ta",
+      "présence",
+      "\n",
+      "Béni",
+      "soit",
+      "l’",
+      "or",
+      "de",
+      "tous",
+      "les",
+      "mondes",
+      "\n",
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "J’ai l’âme dans l’eau \n\nL’air est lourd de ton absence",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "J’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau",
+      "\n\n",
+      "L’",
+      "air",
+      "est",
+      "lourd",
+      "de",
+      "ton",
+      "absence"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "L’air est sourd à nos sentiments \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "L’",
+      "air",
+      "est",
+      "sourd",
+      "à",
+      "nos",
+      "sentiments",
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "L’air est court et mon manque de toi \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "L’",
+      "air",
+      "est",
+      "court",
+      "et",
+      "mon",
+      "manque",
+      "de",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Toi mon autre moi",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Toi",
+      "mon",
+      "autre",
+      "moi"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "Tu vois, j’ai l’âme dans l’eau",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Tu",
+      "vois",
+      ",",
+      "j’",
+      "ai",
+      "l’",
+      "âme",
+      "dans",
+      "l’",
+      "eau"
+    ]
+  }
+}

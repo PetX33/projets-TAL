@@ -1,0 +1,34 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nL'onde",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "A",
+    "Label": "LOC"
+  },
+  "entité_2": {
+    "Entité": "Risquer",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "Nos lendemains \nEt",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "A",
+    "Label": "LOC"
+  },
+  "entité_5": {
+    "Entité": "Risquer",
+    "Label": "PER"
+  },
+  "entité_6": {
+    "Entité": "A",
+    "Label": "LOC"
+  },
+  "entité_7": {
+    "Entité": "Risquer",
+    "Label": "PER"
+  }
+}

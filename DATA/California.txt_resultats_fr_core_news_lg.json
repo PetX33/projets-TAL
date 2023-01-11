@@ -1,0 +1,425 @@
+{
+  "Segment_0": {
+    "Phrase_0": "California par Mylene",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "California",
+      "par",
+      "Mylene"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Farmer",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Farmer"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\n\nAéroport, aérogare \nMais pour tout l'or m'en aller \nC'est le blues, l'coup d'cafard \n",
+    "nombre de token": 24,
+    "Liste de tokens": [
+      "\n\n",
+      "Aéroport",
+      ",",
+      "aérogare",
+      "\n",
+      "Mais",
+      "pour",
+      "tout",
+      "l'",
+      "or",
+      "m'",
+      "en",
+      "aller",
+      "\n",
+      "C'",
+      "est",
+      "le",
+      "blues",
+      ",",
+      "l'",
+      "coup",
+      "d'",
+      "cafard",
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "Le check out assuré \nVienne",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Le",
+      "check",
+      "out",
+      "assuré",
+      "\n",
+      "Vienne"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "la nuit",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "la",
+      "nuit"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "et sonne l'heure \nEt moi je meurs \nEntre apathie et pesanteur",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "et",
+      "sonne",
+      "l'",
+      "heure",
+      "\n",
+      "Et",
+      "moi",
+      "je",
+      "meurs",
+      "\n",
+      "Entre",
+      "apathie",
+      "et",
+      "pesanteur"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\nOù je demeure \nChanger d'optique, \nPrendre l'exit \nEt m'envoyer en Amérique \nSex",
+    "nombre de token": 21,
+    "Liste de tokens": [
+      "\n",
+      "Où",
+      "je",
+      "demeure",
+      "\n",
+      "Changer",
+      "d'",
+      "optique",
+      ",",
+      "\n",
+      "Prendre",
+      "l'",
+      "exit",
+      "\n",
+      "Et",
+      "m'",
+      "envoyer",
+      "en",
+      "Amérique",
+      "\n",
+      "Sex"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "appeal",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "appeal"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": ", c'est Sunset \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      ",",
+      "c'",
+      "est",
+      "Sunset",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "C'est Marlboro qui me sourit \nMon amour, mon moi, \n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "Marlboro",
+      "qui",
+      "me",
+      "sourit",
+      "\n",
+      "Mon",
+      "amour",
+      ",",
+      "mon",
+      "moi",
+      ",",
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Je sais qu'il existe \nLa chaleur de l'abandon \nC'est comme une symphonie \n\nC'est sexy le ciel de Californie \nSous ma peau j'ai L.A. en overdose \n",
+    "nombre de token": 35,
+    "Liste de tokens": [
+      "Je",
+      "sais",
+      "qu'",
+      "il",
+      "existe",
+      "\n",
+      "La",
+      "chaleur",
+      "de",
+      "l'",
+      "abandon",
+      "\n",
+      "C'",
+      "est",
+      "comme",
+      "une",
+      "symphonie",
+      "\n\n",
+      "C'",
+      "est",
+      "sexy",
+      "le",
+      "ciel",
+      "de",
+      "Californie",
+      "\n",
+      "Sous",
+      "ma",
+      "peau",
+      "j'",
+      "ai",
+      "L.A.",
+      "en",
+      "overdose",
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "So",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "So"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "sexy le spleen d'un road movie \nDans l'rétro ma vie qui s'anamorphose",
+    "nombre de token": 16,
+    "Liste de tokens": [
+      "sexy",
+      "le",
+      "spleen",
+      "d'",
+      "un",
+      "road",
+      "movie",
+      "\n",
+      "Dans",
+      "l'",
+      "rétro",
+      "ma",
+      "vie",
+      "qui",
+      "s'",
+      "anamorphose"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "\n\nJ'ai plus d'I.D., mais bien l'idée \nDe me payer le freeway \nC'est l'osmose, on the road \nDe l'asphalte sous les pieds \nVienne",
+    "nombre de token": 35,
+    "Liste de tokens": [
+      "\n\n",
+      "J'",
+      "ai",
+      "plus",
+      "d'",
+      "I.D.",
+      ",",
+      "mais",
+      "bien",
+      "l'",
+      "idée",
+      "\n",
+      "De",
+      "me",
+      "payer",
+      "le",
+      "freeway",
+      "\n",
+      "C'",
+      "est",
+      "l'",
+      "osmose",
+      ",",
+      "on",
+      "the",
+      "road",
+      "\n",
+      "De",
+      "l'",
+      "asphalte",
+      "sous",
+      "les",
+      "pieds",
+      "\n",
+      "Vienne"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "la nuit, \nC'est le jet lag qui me décale \nL.A.P.D. me donne un blâme \nC'est pas le drame \nSe faire un trip, \nS'offrir un streap \nSous le soleil en plein midi \nSix a.m.",
+    "nombre de token": 46,
+    "Liste de tokens": [
+      "la",
+      "nuit",
+      ",",
+      "\n",
+      "C'",
+      "est",
+      "le",
+      "jet",
+      "lag",
+      "qui",
+      "me",
+      "décale",
+      "\n",
+      "L.A.P.D.",
+      "me",
+      "donne",
+      "un",
+      "blâme",
+      "\n",
+      "C'",
+      "est",
+      "pas",
+      "le",
+      "drame",
+      "\n",
+      "Se",
+      "faire",
+      "un",
+      "trip",
+      ",",
+      "\n",
+      "S'",
+      "offrir",
+      "un",
+      "streap",
+      "\n",
+      "Sous",
+      "le",
+      "soleil",
+      "en",
+      "plein",
+      "midi",
+      "\n",
+      "Six",
+      "a.m",
+      "."
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": ", j'suis offset \nJ'suis l'ice dans l'eau, \nJ'suis mélo, dis \nMon amour mon Wesson \n",
+    "nombre de token": 25,
+    "Liste de tokens": [
+      ",",
+      "j'",
+      "suis",
+      "offset",
+      "\n",
+      "J'",
+      "suis",
+      "l'",
+      "ice",
+      "dans",
+      "l'",
+      "eau",
+      ",",
+      "\n",
+      "J'",
+      "suis",
+      "mélo",
+      ",",
+      "dis",
+      "\n",
+      "Mon",
+      "amour",
+      "mon",
+      "Wesson",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Mon artifice \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Mon",
+      "artifice",
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "La chaleur du canon \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "La",
+      "chaleur",
+      "du",
+      "canon",
+      "\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "C'est comme une symphonie \n\nC'est sexy le ciel de Californie \nSous ma peau j'ai L.A. en overdose \n",
+    "nombre de token": 23,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "comme",
+      "une",
+      "symphonie",
+      "\n\n",
+      "C'",
+      "est",
+      "sexy",
+      "le",
+      "ciel",
+      "de",
+      "Californie",
+      "\n",
+      "Sous",
+      "ma",
+      "peau",
+      "j'",
+      "ai",
+      "L.A.",
+      "en",
+      "overdose",
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "So",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "So"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "sexy le spleen d'un road movie \nDans l'rétro ma vie qui s'anamorphose",
+    "nombre de token": 16,
+    "Liste de tokens": [
+      "sexy",
+      "le",
+      "spleen",
+      "d'",
+      "un",
+      "road",
+      "movie",
+      "\n",
+      "Dans",
+      "l'",
+      "rétro",
+      "ma",
+      "vie",
+      "qui",
+      "s'",
+      "anamorphose"
+    ]
+  }
+}

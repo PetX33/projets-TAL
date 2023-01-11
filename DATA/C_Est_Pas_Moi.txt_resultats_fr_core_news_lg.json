@@ -1,0 +1,556 @@
+{
+  "Segment_0": {
+    "Phrase_0": "C'est Pas Moi par Mylene Farmer\n\nComme un crayon sans mine\n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "Pas",
+      "Moi",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Comme",
+      "un",
+      "crayon",
+      "sans",
+      "mine",
+      "\n"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Un bout de bois\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Un",
+      "bout",
+      "de",
+      "bois",
+      "\n"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "Qui demande l'asile\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Qui",
+      "demande",
+      "l'",
+      "asile",
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "Un peu plus de toi, toi, toi\nIndicible famine\n",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "Un",
+      "peu",
+      "plus",
+      "de",
+      "toi",
+      ",",
+      "toi",
+      ",",
+      "toi",
+      "\n",
+      "Indicible",
+      "famine",
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Manque de toi\n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Manque",
+      "de",
+      "toi",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "J'ose, le songe est digne\nDéposer des baisers\nLà ou là\nAinsi la ritournelle\n",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "J'",
+      "ose",
+      ",",
+      "le",
+      "songe",
+      "est",
+      "digne",
+      "\n",
+      "Déposer",
+      "des",
+      "baisers",
+      "\n",
+      "Là",
+      "ou",
+      "là",
+      "\n",
+      "Ainsi",
+      "la",
+      "ritournelle",
+      "\n"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "La vie",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "La",
+      "vie"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "sans son sans sel\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "sans",
+      "son",
+      "sans",
+      "sel",
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "Pas là, pas dans la mienne\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Pas",
+      "là",
+      ",",
+      "pas",
+      "dans",
+      "la",
+      "mienne",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "C'est pas moi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "pas",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Danser sur une grève\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Danser",
+      "sur",
+      "une",
+      "grève",
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "La vie sans pont, sans sève\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "La",
+      "vie",
+      "sans",
+      "pont",
+      ",",
+      "sans",
+      "sève",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Pas là, pas dans la mienne\n\nPas comme ça\nTous les sanglants du ciel\n",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "Pas",
+      "là",
+      ",",
+      "pas",
+      "dans",
+      "la",
+      "mienne",
+      "\n\n",
+      "Pas",
+      "comme",
+      "ça",
+      "\n",
+      "Tous",
+      "les",
+      "sanglants",
+      "du",
+      "ciel",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Eclairez-moi!",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Eclairez",
+      "-moi",
+      "!"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "\nLa vie, mais que vaut-elle\nSans danger sans sexe\nEt sans choix\n",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "\n",
+      "La",
+      "vie",
+      ",",
+      "mais",
+      "que",
+      "vaut",
+      "-elle",
+      "\n",
+      "Sans",
+      "danger",
+      "sans",
+      "sexe",
+      "\n",
+      "Et",
+      "sans",
+      "choix",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Marcher sa vie entière à\nCôté de soi\nTant d'âmes se méprènnent\n",
+    "nombre de token": 16,
+    "Liste de tokens": [
+      "Marcher",
+      "sa",
+      "vie",
+      "entière",
+      "à",
+      "\n",
+      "Côté",
+      "de",
+      "soi",
+      "\n",
+      "Tant",
+      "d'",
+      "âmes",
+      "se",
+      "méprènnent",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Un oui, un non\n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Un",
+      "oui",
+      ",",
+      "un",
+      "non",
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Une ligne droite\nAinsi la ritournelle\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Une",
+      "ligne",
+      "droite",
+      "\n",
+      "Ainsi",
+      "la",
+      "ritournelle",
+      "\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "La vie",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "La",
+      "vie"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "sans son sans sel\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "sans",
+      "son",
+      "sans",
+      "sel",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Pas là, pas dans la mienne\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Pas",
+      "là",
+      ",",
+      "pas",
+      "dans",
+      "la",
+      "mienne",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "C'est pas moi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "pas",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "Danser sur une grève\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Danser",
+      "sur",
+      "une",
+      "grève",
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "La vie sans pont, sans sève\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "La",
+      "vie",
+      "sans",
+      "pont",
+      ",",
+      "sans",
+      "sève",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Pas là, pas dans la mienne\n\nPas comme ça\nAinsi la ritournelle\n",
+    "nombre de token": 16,
+    "Liste de tokens": [
+      "Pas",
+      "là",
+      ",",
+      "pas",
+      "dans",
+      "la",
+      "mienne",
+      "\n\n",
+      "Pas",
+      "comme",
+      "ça",
+      "\n",
+      "Ainsi",
+      "la",
+      "ritournelle",
+      "\n"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "La vie",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "La",
+      "vie"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "sans son sans sel\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "sans",
+      "son",
+      "sans",
+      "sel",
+      "\n"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "Pas là, pas dans la mienne\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Pas",
+      "là",
+      ",",
+      "pas",
+      "dans",
+      "la",
+      "mienne",
+      "\n"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "C'est pas moi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "pas",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Danser sur une grève\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Danser",
+      "sur",
+      "une",
+      "grève",
+      "\n"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "La vie sans pont, sans sève\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "La",
+      "vie",
+      "sans",
+      "pont",
+      ",",
+      "sans",
+      "sève",
+      "\n"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "Pas là, pas dans la mienne\nPas comme ça\nAinsi la ritournelle\n",
+    "nombre de token": 16,
+    "Liste de tokens": [
+      "Pas",
+      "là",
+      ",",
+      "pas",
+      "dans",
+      "la",
+      "mienne",
+      "\n",
+      "Pas",
+      "comme",
+      "ça",
+      "\n",
+      "Ainsi",
+      "la",
+      "ritournelle",
+      "\n"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "La vie",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "La",
+      "vie"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "sans son sans sel\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "sans",
+      "son",
+      "sans",
+      "sel",
+      "\n"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "Pas là, pas dans la mienne\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Pas",
+      "là",
+      ",",
+      "pas",
+      "dans",
+      "la",
+      "mienne",
+      "\n"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "C'est pas moi\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "pas",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "Danser sur une grève\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Danser",
+      "sur",
+      "une",
+      "grève",
+      "\n"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "La vie sans pont, sans sève\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "La",
+      "vie",
+      "sans",
+      "pont",
+      ",",
+      "sans",
+      "sève",
+      "\n"
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "Pas là, pas dans la mienne\nPas comme ça\n",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Pas",
+      "là",
+      ",",
+      "pas",
+      "dans",
+      "la",
+      "mienne",
+      "\n",
+      "Pas",
+      "comme",
+      "ça",
+      "\n"
+    ]
+  },
+  "Segment_39": {
+    "Phrase_0": "C'est pas moi\n\nPas comme ça",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "pas",
+      "moi",
+      "\n\n",
+      "Pas",
+      "comme",
+      "ça"
+    ]
+  }
+}

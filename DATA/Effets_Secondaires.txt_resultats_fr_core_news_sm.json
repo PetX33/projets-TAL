@@ -1,0 +1,664 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Effets Secondaires par Mylene Farmer\n\n1 heure, 2 heure,",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Effets",
+      "Secondaires",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "1",
+      "heure",
+      ",",
+      "2",
+      "heure",
+      ","
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Pas dormir ...",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Pas",
+      "dormir",
+      "..."
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\nIl n'faut pas dormir...",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "Il",
+      "n'",
+      "faut",
+      "pas",
+      "dormir",
+      "..."
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "\n\n3 heure, point ... dormir...",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n\n",
+      "3",
+      "heure",
+      ",",
+      "point",
+      "...",
+      "dormir",
+      "..."
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "\n4 heure, pour vivre heureux vivons cachés... \n\n5 heure, vivons cachés...",
+    "nombre de token": 17,
+    "Liste de tokens": [
+      "\n",
+      "4",
+      "heure",
+      ",",
+      "pour",
+      "vivre",
+      "heureux",
+      "vivons",
+      "cachés",
+      "...",
+      "\n\n",
+      "5",
+      "heure",
+      ",",
+      "vivons",
+      "cachés",
+      "..."
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "\n6 heure, effets non souhaités et gênants...",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "\n",
+      "6",
+      "heure",
+      ",",
+      "effets",
+      "non",
+      "souhaités",
+      "et",
+      "gênants",
+      "..."
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\n\n7 heure, gare à l'ataxie !",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "\n\n",
+      "7",
+      "heure",
+      ",",
+      "gare",
+      "à",
+      "l'",
+      "ataxie",
+      "!"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "Ah bon ?",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ah",
+      "bon",
+      "?"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "\n8 heure, il n'y a pas d'ataxie \n\n9 heure, il n'y a pas d'ataxie, il n'y a pas d'ataxie \n10 heure, il n'y a pas d'ataxie, il n'y a pas d'ataxie \n11 heure, il n'y a pas..., il n'y a pas...",
+    "nombre de token": 66,
+    "Liste de tokens": [
+      "\n",
+      "8",
+      "heure",
+      ",",
+      "il",
+      "n'",
+      "y",
+      "a",
+      "pas",
+      "d'",
+      "ataxie",
+      "\n\n",
+      "9",
+      "heure",
+      ",",
+      "il",
+      "n'",
+      "y",
+      "a",
+      "pas",
+      "d'",
+      "ataxie",
+      ",",
+      "il",
+      "n'",
+      "y",
+      "a",
+      "pas",
+      "d'",
+      "ataxie",
+      "\n",
+      "10",
+      "heure",
+      ",",
+      "il",
+      "n'",
+      "y",
+      "a",
+      "pas",
+      "d'",
+      "ataxie",
+      ",",
+      "il",
+      "n'",
+      "y",
+      "a",
+      "pas",
+      "d'",
+      "ataxie",
+      "\n",
+      "11",
+      "heure",
+      ",",
+      "il",
+      "n'",
+      "y",
+      "a",
+      "pas",
+      "...",
+      ",",
+      "il",
+      "n'",
+      "y",
+      "a",
+      "pas",
+      "..."
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "\n\n12 heure, \n\nTous les effets secondaires sont dits \nTous les effets de Krueger sont ici \nTous les effets secondaires maudits \nTous les méfaits de Krueger sont la nuit \n\n4 heure, les musées sont pornographiques \n5 heure, une vision pharmaceutique \n\n6 heure, mon idéal, c'est d'aimer avec horreur \n7 heure, un précipice entre vous et moi...",
+    "nombre de token": 73,
+    "Liste de tokens": [
+      "\n\n",
+      "12",
+      "heure",
+      ",",
+      "\n\n",
+      "Tous",
+      "les",
+      "effets",
+      "secondaires",
+      "sont",
+      "dits",
+      "\n",
+      "Tous",
+      "les",
+      "effets",
+      "de",
+      "Krueger",
+      "sont",
+      "ici",
+      "\n",
+      "Tous",
+      "les",
+      "effets",
+      "secondaires",
+      "maudits",
+      "\n",
+      "Tous",
+      "les",
+      "méfaits",
+      "de",
+      "Krueger",
+      "sont",
+      "la",
+      "nuit",
+      "\n\n",
+      "4",
+      "heure",
+      ",",
+      "les",
+      "musées",
+      "sont",
+      "pornographiques",
+      "\n",
+      "5",
+      "heure",
+      ",",
+      "une",
+      "vision",
+      "pharmaceutique",
+      "\n\n",
+      "6",
+      "heure",
+      ",",
+      "mon",
+      "idéal",
+      ",",
+      "c'",
+      "est",
+      "d'",
+      "aimer",
+      "avec",
+      "horreur",
+      "\n",
+      "7",
+      "heure",
+      ",",
+      "un",
+      "précipice",
+      "entre",
+      "vous",
+      "et",
+      "moi",
+      "..."
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "\n\n8 heure",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n\n",
+      "8",
+      "heure"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": ", est-ce qu'on en voit jamais le bout ?",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      ",",
+      "est",
+      "-ce",
+      "qu'",
+      "on",
+      "en",
+      "voit",
+      "jamais",
+      "le",
+      "bout",
+      "?"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "\nNon répondent mes yeux...",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "\n",
+      "Non",
+      "répondent",
+      "mes",
+      "yeux",
+      "..."
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "\n9 heure, ... seulement quand on est au bout !",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "\n",
+      "9",
+      "heure",
+      ",",
+      "...",
+      "seulement",
+      "quand",
+      "on",
+      "est",
+      "au",
+      "bout",
+      "!"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "Ah bon ?",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ah",
+      "bon",
+      "?"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "\n10 heure, pas dormir...",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "10",
+      "heure",
+      ",",
+      "pas",
+      "dormir",
+      "..."
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "Faut pas dormir ...",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Faut",
+      "pas",
+      "dormir",
+      "..."
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "\n\n11 heure, 12 heure, il n'y a pas d'ataxie, \nIl n'y a pas d'ataxie.. 1 heure, il n'y a pas d'ataxie.",
+    "nombre de token": 35,
+    "Liste de tokens": [
+      "\n\n",
+      "11",
+      "heure",
+      ",",
+      "12",
+      "heure",
+      ",",
+      "il",
+      "n'",
+      "y",
+      "a",
+      "pas",
+      "d'",
+      "ataxie",
+      ",",
+      "\n",
+      "Il",
+      "n'",
+      "y",
+      "a",
+      "pas",
+      "d'",
+      "ataxie",
+      "..",
+      "1",
+      "heure",
+      ",",
+      "il",
+      "n'",
+      "y",
+      "a",
+      "pas",
+      "d'",
+      "ataxie",
+      "."
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "\n\n2 heure, 3 heure, 4 heure, en cas de doute, \nDemandez l'avis de votre médecin ...",
+    "nombre de token": 23,
+    "Liste de tokens": [
+      "\n\n",
+      "2",
+      "heure",
+      ",",
+      "3",
+      "heure",
+      ",",
+      "4",
+      "heure",
+      ",",
+      "en",
+      "cas",
+      "de",
+      "doute",
+      ",",
+      "\n",
+      "Demandez",
+      "l'",
+      "avis",
+      "de",
+      "votre",
+      "médecin",
+      "..."
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "\n5 heure, confusion mentale ...",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "5",
+      "heure",
+      ",",
+      "confusion",
+      "mentale",
+      "..."
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Troubles psychiques ...",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Troubles",
+      "psychiques",
+      "..."
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "\n6 heure,",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "\n",
+      "6",
+      "heure",
+      ","
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "Ah bon ?",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ah",
+      "bon",
+      "?"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "1, 2, 3, nous irons au bois \n7 heure, 4, 5 ...",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "1",
+      ",",
+      "2",
+      ",",
+      "3",
+      ",",
+      "nous",
+      "irons",
+      "au",
+      "bois",
+      "\n",
+      "7",
+      "heure",
+      ",",
+      "4",
+      ",",
+      "5",
+      "..."
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "transcendantal \n\n8 heure, tous les effets secondaires...",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "transcendantal",
+      "\n\n",
+      "8",
+      "heure",
+      ",",
+      "tous",
+      "les",
+      "effets",
+      "secondaires",
+      "..."
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "\n9 heure, ... sont dits",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "9",
+      "heure",
+      ",",
+      "...",
+      "sont",
+      "dits"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "- Accélération du rythme cardiaque",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "-",
+      "Accélération",
+      "du",
+      "rythme",
+      "cardiaque"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "\n\n10 heure",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "\n\n",
+      "10",
+      "heure"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": ", tous les effets de Krueger \n11 heure, ... sont ici \nMauvaise coordination des mouvements, attention \n\n12 heure, tous les effets secondaires ...",
+    "nombre de token": 29,
+    "Liste de tokens": [
+      ",",
+      "tous",
+      "les",
+      "effets",
+      "de",
+      "Krueger",
+      "\n",
+      "11",
+      "heure",
+      ",",
+      "...",
+      "sont",
+      "ici",
+      "\n",
+      "Mauvaise",
+      "coordination",
+      "des",
+      "mouvements",
+      ",",
+      "attention",
+      "\n\n",
+      "12",
+      "heure",
+      ",",
+      "tous",
+      "les",
+      "effets",
+      "secondaires",
+      "..."
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "\n1 heure, .... maudits",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "\n",
+      "1",
+      "heure",
+      ",",
+      "....",
+      "maudits"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "- Y a l'plafond qui m'regarde !",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "-",
+      "Y",
+      "a",
+      "l'",
+      "plafond",
+      "qui",
+      "m'",
+      "regarde",
+      "!"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "\n\n2 heure, tous les méfaits de Krueger...",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "\n\n",
+      "2",
+      "heure",
+      ",",
+      "tous",
+      "les",
+      "méfaits",
+      "de",
+      "Krueger",
+      "..."
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "\nUn faux-plafond ...",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "\n",
+      "Un",
+      "faux-plafond",
+      "..."
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "Un mensonge \n\n4 heure, je mets des faux-cils à leurs yeux, \nPour un regard plus profond...",
+    "nombre de token": 21,
+    "Liste de tokens": [
+      "Un",
+      "mensonge",
+      "\n\n",
+      "4",
+      "heure",
+      ",",
+      "je",
+      "mets",
+      "des",
+      "faux-cils",
+      "à",
+      "leurs",
+      "yeux",
+      ",",
+      "\n",
+      "Pour",
+      "un",
+      "regard",
+      "plus",
+      "profond",
+      "..."
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  }
+}

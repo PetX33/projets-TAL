@@ -1,0 +1,688 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Si J'Avais au Moins... par Mylene Farmer\n\nQui n'a connu \n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Si",
+      "J'",
+      "Avais",
+      "au",
+      "Moins",
+      "...",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Qui",
+      "n'",
+      "a",
+      "connu",
+      "\n"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Douleur immense",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Douleur",
+      "immense"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "N'aura qu'un aperçu \nDu temps \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "N'",
+      "aura",
+      "qu'",
+      "un",
+      "aperçu",
+      "\n",
+      "Du",
+      "temps",
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "L'aiguille lente \nQu'il neige ou vente \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "L'",
+      "aiguille",
+      "lente",
+      "\n",
+      "Qu'",
+      "il",
+      "neige",
+      "ou",
+      "vente",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "L'omniprésente \nSouligne ton absence",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "L'",
+      "omniprésente",
+      "\n",
+      "Souligne",
+      "ton",
+      "absence"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "Partout",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Partout"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "\n\nQui n'a connu \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "\n\n",
+      "Qui",
+      "n'",
+      "a",
+      "connu",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "L'instable règne \nQui n'a perdu \nNe sait la peine \nPlus de réserve, du tout \nNi Dieu, ni Haine, s'en fout \nPlus de superbe, j'ai tout \nD'une peine...",
+    "nombre de token": 43,
+    "Liste de tokens": [
+      "L'",
+      "instable",
+      "règne",
+      "\n",
+      "Qui",
+      "n'",
+      "a",
+      "perdu",
+      "\n",
+      "Ne",
+      "sait",
+      "la",
+      "peine",
+      "\n",
+      "Plus",
+      "de",
+      "réserve",
+      ",",
+      "du",
+      "tout",
+      "\n",
+      "Ni",
+      "Dieu",
+      ",",
+      "ni",
+      "Haine",
+      ",",
+      "s'",
+      "en",
+      "fout",
+      "\n",
+      "Plus",
+      "de",
+      "superbe",
+      ",",
+      "j'",
+      "ai",
+      "tout",
+      "\n",
+      "D'",
+      "une",
+      "peine",
+      "..."
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "Un enténèbrement",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Un",
+      "enténèbrement"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "\n\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Si j'avais au moins \n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Si",
+      "j'",
+      "avais",
+      "au",
+      "moins",
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "Revu",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Revu"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "ton visage",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "ton",
+      "visage"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Entrevu",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Entrevu"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "au loin \nLe moindre nuage",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "au",
+      "loin",
+      "\n",
+      "Le",
+      "moindre",
+      "nuage"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Mais c'est à ceux \nQui se lèvent \nQu'on somme \"d'espoir\" \nDont on dit qu'ils saignent \nSans un au revoir, de croire \nEt moi pourquoi j'existe \nQuand l'autre dit \"je meurs\" ?",
+    "nombre de token": 48,
+    "Liste de tokens": [
+      "Mais",
+      "c'",
+      "est",
+      "à",
+      "ceux",
+      "\n",
+      "Qui",
+      "se",
+      "lèvent",
+      "\n",
+      "Qu'",
+      "on",
+      "somme",
+      "\"",
+      "d'",
+      "espoir",
+      "\"",
+      "\n",
+      "Dont",
+      "on",
+      "dit",
+      "qu'",
+      "ils",
+      "saignent",
+      "\n",
+      "Sans",
+      "un",
+      "au",
+      "revoir",
+      ",",
+      "de",
+      "croire",
+      "\n",
+      "Et",
+      "moi",
+      "pourquoi",
+      "j'",
+      "existe",
+      "\n",
+      "Quand",
+      "l'",
+      "autre",
+      "dit",
+      "\"",
+      "je",
+      "meurs",
+      "\"",
+      "?"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "\nPourquoi plus rien n'agite...",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "Pourquoi",
+      "plus",
+      "rien",
+      "n'",
+      "agite",
+      "..."
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "Ton cœur ?",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ton",
+      "cœur",
+      "?"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "\n\nTous mes démons \nLes plus hostiles \nBrisent",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "\n\n",
+      "Tous",
+      "mes",
+      "démons",
+      "\n",
+      "Les",
+      "plus",
+      "hostiles",
+      "\n",
+      "Brisent"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "les voix \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "les",
+      "voix",
+      "\n"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "Les plus fragiles",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Les",
+      "plus",
+      "fragiles"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "\nDe tous mes anges",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "\n",
+      "De",
+      "tous",
+      "mes",
+      "anges"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Les plus dévoués \nEt moi l'étrange paumée \n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Les",
+      "plus",
+      "dévoués",
+      "\n",
+      "Et",
+      "moi",
+      "l'",
+      "étrange",
+      "paumée",
+      "\n"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "Fiancée à l'enténèbrement...",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Fiancée",
+      "à",
+      "l'",
+      "enténèbrement",
+      "..."
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "\n\nSi j'avais au moins \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n\n",
+      "Si",
+      "j'",
+      "avais",
+      "au",
+      "moins",
+      "\n"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "Revu",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Revu"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "ton visage",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "ton",
+      "visage"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "Entrevu",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Entrevu"
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "au loin \nLe moindre nuage",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "au",
+      "loin",
+      "\n",
+      "Le",
+      "moindre",
+      "nuage"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "Mais c'est à ceux \nQui se lèvent \nQu'on somme \"d'espoir\" \nDont on dit qu'ils saignent \nSans un au revoir, de croire \nEt moi pourquoi j'existe \nQuand l'autre dit \"je meurs\" ?",
+    "nombre de token": 48,
+    "Liste de tokens": [
+      "Mais",
+      "c'",
+      "est",
+      "à",
+      "ceux",
+      "\n",
+      "Qui",
+      "se",
+      "lèvent",
+      "\n",
+      "Qu'",
+      "on",
+      "somme",
+      "\"",
+      "d'",
+      "espoir",
+      "\"",
+      "\n",
+      "Dont",
+      "on",
+      "dit",
+      "qu'",
+      "ils",
+      "saignent",
+      "\n",
+      "Sans",
+      "un",
+      "au",
+      "revoir",
+      ",",
+      "de",
+      "croire",
+      "\n",
+      "Et",
+      "moi",
+      "pourquoi",
+      "j'",
+      "existe",
+      "\n",
+      "Quand",
+      "l'",
+      "autre",
+      "dit",
+      "\"",
+      "je",
+      "meurs",
+      "\"",
+      "?"
+    ]
+  },
+  "Segment_39": {
+    "Phrase_0": "\nPourquoi plus rien n'agite...",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "Pourquoi",
+      "plus",
+      "rien",
+      "n'",
+      "agite",
+      "..."
+    ]
+  },
+  "Segment_40": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_41": {
+    "Phrase_0": "Ton cœur ?",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ton",
+      "cœur",
+      "?"
+    ]
+  },
+  "Segment_42": {
+    "Phrase_0": "\n\nSi j'avais au moins \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n\n",
+      "Si",
+      "j'",
+      "avais",
+      "au",
+      "moins",
+      "\n"
+    ]
+  },
+  "Segment_43": {
+    "Phrase_0": "Revu",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Revu"
+    ]
+  },
+  "Segment_44": {
+    "Phrase_0": "ton visage",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "ton",
+      "visage"
+    ]
+  },
+  "Segment_45": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_46": {
+    "Phrase_0": "Entrevu",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Entrevu"
+    ]
+  },
+  "Segment_47": {
+    "Phrase_0": "au loin \nLe moindre nuage",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "au",
+      "loin",
+      "\n",
+      "Le",
+      "moindre",
+      "nuage"
+    ]
+  },
+  "Segment_48": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_49": {
+    "Phrase_0": "Mais c'est à ceux \nQui se lèvent \nQu'on somme \"d'espoir\" \nDont on dit qu'ils saignent \nSans un au revoir, de croire \nEt moi pourquoi j'existe \nQuand l'autre dit \"je meurs\" ?",
+    "nombre de token": 48,
+    "Liste de tokens": [
+      "Mais",
+      "c'",
+      "est",
+      "à",
+      "ceux",
+      "\n",
+      "Qui",
+      "se",
+      "lèvent",
+      "\n",
+      "Qu'",
+      "on",
+      "somme",
+      "\"",
+      "d'",
+      "espoir",
+      "\"",
+      "\n",
+      "Dont",
+      "on",
+      "dit",
+      "qu'",
+      "ils",
+      "saignent",
+      "\n",
+      "Sans",
+      "un",
+      "au",
+      "revoir",
+      ",",
+      "de",
+      "croire",
+      "\n",
+      "Et",
+      "moi",
+      "pourquoi",
+      "j'",
+      "existe",
+      "\n",
+      "Quand",
+      "l'",
+      "autre",
+      "dit",
+      "\"",
+      "je",
+      "meurs",
+      "\"",
+      "?"
+    ]
+  },
+  "Segment_50": {
+    "Phrase_0": "\nPourquoi plus rien n'agite...",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "\n",
+      "Pourquoi",
+      "plus",
+      "rien",
+      "n'",
+      "agite",
+      "..."
+    ]
+  },
+  "Segment_51": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_52": {
+    "Phrase_0": "Ton cœur ?",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Ton",
+      "cœur",
+      "?"
+    ]
+  }
+}

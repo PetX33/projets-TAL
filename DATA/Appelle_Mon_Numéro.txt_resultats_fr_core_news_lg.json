@@ -1,0 +1,995 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Appelle mon numéro par Mylene Farmer\n\nQui entre dans l'histoire \nEntre dans le noir \nHistoire d'y voir \nMon plus beau geste \n\nJ'ai un pillow du soir \n",
+    "nombre de token": 35,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Qui",
+      "entre",
+      "dans",
+      "l'",
+      "histoire",
+      "\n",
+      "Entre",
+      "dans",
+      "le",
+      "noir",
+      "\n",
+      "Histoire",
+      "d'",
+      "y",
+      "voir",
+      "\n",
+      "Mon",
+      "plus",
+      "beau",
+      "geste",
+      "\n\n",
+      "J'",
+      "ai",
+      "un",
+      "pillow",
+      "du",
+      "soir",
+      "\n"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "Un pillow de star \nSans pillow je n'ai \nPlus l'envie d'être \n\nQui entre dans l'histoire",
+    "nombre de token": 22,
+    "Liste de tokens": [
+      "Un",
+      "pillow",
+      "de",
+      "star",
+      "\n",
+      "Sans",
+      "pillow",
+      "je",
+      "n'",
+      "ai",
+      "\n",
+      "Plus",
+      "l'",
+      "envie",
+      "d'",
+      "être",
+      "\n\n",
+      "Qui",
+      "entre",
+      "dans",
+      "l'",
+      "histoire"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "Cache derrière un fard, noir \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Cache",
+      "derrière",
+      "un",
+      "fard",
+      ",",
+      "noir",
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "La peur des regards \nQui glissent et blessent",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "La",
+      "peur",
+      "des",
+      "regards",
+      "\n",
+      "Qui",
+      "glissent",
+      "et",
+      "blessent"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "\n\nJ'ai un pillow en plumes \nEn forme de lune \nEn forme de dune \nRefais le geste \n\n[",
+    "nombre de token": 23,
+    "Liste de tokens": [
+      "\n\n",
+      "J'",
+      "ai",
+      "un",
+      "pillow",
+      "en",
+      "plumes",
+      "\n",
+      "En",
+      "forme",
+      "de",
+      "lune",
+      "\n",
+      "En",
+      "forme",
+      "de",
+      "dune",
+      "\n",
+      "Refais",
+      "le",
+      "geste",
+      "\n\n",
+      "["
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "Refrain] \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Refrain",
+      "]",
+      "\n"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "Appelle mon numéro",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "J'humeur à zéro \nAppelle mon numéro",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "J'",
+      "humeur",
+      "à",
+      "zéro",
+      "\n",
+      "Appelle",
+      "mon",
+      "numéro"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "J'ai le sang si chaud \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "J'",
+      "ai",
+      "le",
+      "sang",
+      "si",
+      "chaud",
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Appelle mon numéro \nViens",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n",
+      "Viens"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "dans mon sillage \nNi trop sage \nNi collage",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "dans",
+      "mon",
+      "sillage",
+      "\n",
+      "Ni",
+      "trop",
+      "sage",
+      "\n",
+      "Ni",
+      "collage"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Juste",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Juste"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "ce qu'il me faut \n\nAppelle mon numéro \nCompose ma vie \n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "ce",
+      "qu'",
+      "il",
+      "me",
+      "faut",
+      "\n\n",
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n",
+      "Compose",
+      "ma",
+      "vie",
+      "\n"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "Appelle mon numéro \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "Fais-moi l'hallali \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Fais",
+      "-moi",
+      "l'",
+      "hallali",
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "Appelle mon numéro \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "Donne-moi le \"la\" \nLalalala \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Donne",
+      "-moi",
+      "le",
+      "\"",
+      "la",
+      "\"",
+      "\n",
+      "Lalalala",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "Lalalala",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Lalalala"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "Appelle-moi \n\nQui entre dans l'histoire \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Appelle",
+      "-moi",
+      "\n\n",
+      "Qui",
+      "entre",
+      "dans",
+      "l'",
+      "histoire",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Entre dans le noir \nVelours d'un boudoir \nEt pour le reste",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Entre",
+      "dans",
+      "le",
+      "noir",
+      "\n",
+      "Velours",
+      "d'",
+      "un",
+      "boudoir",
+      "\n",
+      "Et",
+      "pour",
+      "le",
+      "reste"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "...",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "..."
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "\n\nJ'ai un pillow duvet",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "\n\n",
+      "J'",
+      "ai",
+      "un",
+      "pillow",
+      "duvet"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "\nSans pilosité \nSans pillow",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "\n",
+      "Sans",
+      "pilosité",
+      "\n",
+      "Sans",
+      "pillow"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "je n'ai \nPlus rien à mettre \n\nAllégorie, viens là \n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "je",
+      "n'",
+      "ai",
+      "\n",
+      "Plus",
+      "rien",
+      "à",
+      "mettre",
+      "\n\n",
+      "Allégorie",
+      ",",
+      "viens",
+      "là",
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Délit de l'émoi",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Délit",
+      "de",
+      "l'",
+      "émoi"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "\nMon au-delà c'est l'i...",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n",
+      "Mon",
+      "au-delà",
+      "c'",
+      "est",
+      "l'",
+      "i",
+      "..."
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "\n...vresse du geste \n\nÀ la folie j'ai \"l'a...llo\" \nQui me dit : Au lit, là !",
+    "nombre de token": 27,
+    "Liste de tokens": [
+      "\n",
+      "...",
+      "vresse",
+      "du",
+      "geste",
+      "\n\n",
+      "À",
+      "la",
+      "folie",
+      "j'",
+      "ai",
+      "\"",
+      "l'",
+      "a",
+      "...",
+      "llo",
+      "\"",
+      "\n",
+      "Qui",
+      "me",
+      "dit",
+      ":",
+      "Au",
+      "lit",
+      ",",
+      "là",
+      "!"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "L'embellie c'est l'o...",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "L'",
+      "embellie",
+      "c'",
+      "est",
+      "l'",
+      "o",
+      "..."
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "...reiller, de rêve \n\n[",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "...",
+      "reiller",
+      ",",
+      "de",
+      "rêve",
+      "\n\n",
+      "["
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "Refrain] \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Refrain",
+      "]",
+      "\n"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "Appelle mon numéro",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro"
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_39": {
+    "Phrase_0": "J'humeur à zéro \nAppelle mon numéro",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "J'",
+      "humeur",
+      "à",
+      "zéro",
+      "\n",
+      "Appelle",
+      "mon",
+      "numéro"
+    ]
+  },
+  "Segment_40": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_41": {
+    "Phrase_0": "J'ai le sang si chaud \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "J'",
+      "ai",
+      "le",
+      "sang",
+      "si",
+      "chaud",
+      "\n"
+    ]
+  },
+  "Segment_42": {
+    "Phrase_0": "Appelle mon numéro \nViens",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n",
+      "Viens"
+    ]
+  },
+  "Segment_43": {
+    "Phrase_0": "dans mon sillage \nNi trop sage \nNi collage",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "dans",
+      "mon",
+      "sillage",
+      "\n",
+      "Ni",
+      "trop",
+      "sage",
+      "\n",
+      "Ni",
+      "collage"
+    ]
+  },
+  "Segment_44": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_45": {
+    "Phrase_0": "Juste",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Juste"
+    ]
+  },
+  "Segment_46": {
+    "Phrase_0": "ce qu'il me faut \n\nAppelle mon numéro \nCompose ma vie \n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "ce",
+      "qu'",
+      "il",
+      "me",
+      "faut",
+      "\n\n",
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n",
+      "Compose",
+      "ma",
+      "vie",
+      "\n"
+    ]
+  },
+  "Segment_47": {
+    "Phrase_0": "Appelle mon numéro \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n"
+    ]
+  },
+  "Segment_48": {
+    "Phrase_0": "Fais-moi l'hallali \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Fais",
+      "-moi",
+      "l'",
+      "hallali",
+      "\n"
+    ]
+  },
+  "Segment_49": {
+    "Phrase_0": "Appelle mon numéro \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n"
+    ]
+  },
+  "Segment_50": {
+    "Phrase_0": "Donne-moi le \"la\" \nLalalala \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Donne",
+      "-moi",
+      "le",
+      "\"",
+      "la",
+      "\"",
+      "\n",
+      "Lalalala",
+      "\n"
+    ]
+  },
+  "Segment_51": {
+    "Phrase_0": "Lalalala",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Lalalala"
+    ]
+  },
+  "Segment_52": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_53": {
+    "Phrase_0": "Appelle-moi \n\n[",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Appelle",
+      "-moi",
+      "\n\n",
+      "["
+    ]
+  },
+  "Segment_54": {
+    "Phrase_0": "Refrain] \n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Refrain",
+      "]",
+      "\n"
+    ]
+  },
+  "Segment_55": {
+    "Phrase_0": "Appelle mon numéro",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro"
+    ]
+  },
+  "Segment_56": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_57": {
+    "Phrase_0": "J'humeur à zéro \nAppelle mon numéro",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "J'",
+      "humeur",
+      "à",
+      "zéro",
+      "\n",
+      "Appelle",
+      "mon",
+      "numéro"
+    ]
+  },
+  "Segment_58": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_59": {
+    "Phrase_0": "J'ai le sang si chaud \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "J'",
+      "ai",
+      "le",
+      "sang",
+      "si",
+      "chaud",
+      "\n"
+    ]
+  },
+  "Segment_60": {
+    "Phrase_0": "Appelle mon numéro \nViens",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n",
+      "Viens"
+    ]
+  },
+  "Segment_61": {
+    "Phrase_0": "dans mon sillage \nNi trop sage \nNi collage",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "dans",
+      "mon",
+      "sillage",
+      "\n",
+      "Ni",
+      "trop",
+      "sage",
+      "\n",
+      "Ni",
+      "collage"
+    ]
+  },
+  "Segment_62": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_63": {
+    "Phrase_0": "Juste",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Juste"
+    ]
+  },
+  "Segment_64": {
+    "Phrase_0": "ce qu'il me faut \n\nAppelle mon numéro \nCompose ma vie \n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "ce",
+      "qu'",
+      "il",
+      "me",
+      "faut",
+      "\n\n",
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n",
+      "Compose",
+      "ma",
+      "vie",
+      "\n"
+    ]
+  },
+  "Segment_65": {
+    "Phrase_0": "Appelle mon numéro \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n"
+    ]
+  },
+  "Segment_66": {
+    "Phrase_0": "Fais-moi l'hallali \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Fais",
+      "-moi",
+      "l'",
+      "hallali",
+      "\n"
+    ]
+  },
+  "Segment_67": {
+    "Phrase_0": "Appelle mon numéro \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n"
+    ]
+  },
+  "Segment_68": {
+    "Phrase_0": "Donne-moi le \"la\" \nLalalala \n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Donne",
+      "-moi",
+      "le",
+      "\"",
+      "la",
+      "\"",
+      "\n",
+      "Lalalala",
+      "\n"
+    ]
+  },
+  "Segment_69": {
+    "Phrase_0": "Lalalala",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Lalalala"
+    ]
+  },
+  "Segment_70": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_71": {
+    "Phrase_0": "Appelle-moi",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Appelle",
+      "-moi"
+    ]
+  },
+  "Segment_72": {
+    "Phrase_0": "\n\nAppelle mon numéro \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "\n\n",
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n"
+    ]
+  },
+  "Segment_73": {
+    "Phrase_0": "Appelle mon numéro",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro"
+    ]
+  },
+  "Segment_74": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_75": {
+    "Phrase_0": "J'ai le sang si chaud \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "J'",
+      "ai",
+      "le",
+      "sang",
+      "si",
+      "chaud",
+      "\n"
+    ]
+  },
+  "Segment_76": {
+    "Phrase_0": "Appelle mon numéro \nNi trop sage \nNi collage",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n",
+      "Ni",
+      "trop",
+      "sage",
+      "\n",
+      "Ni",
+      "collage"
+    ]
+  },
+  "Segment_77": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_78": {
+    "Phrase_0": "Juste",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Juste"
+    ]
+  },
+  "Segment_79": {
+    "Phrase_0": "ce qu'il me faut \n\nAppelle mon numéro \nAppelle mon numéro \nAppelle mon numéro \n",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "ce",
+      "qu'",
+      "il",
+      "me",
+      "faut",
+      "\n\n",
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n",
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n",
+      "Appelle",
+      "mon",
+      "numéro",
+      "\n"
+    ]
+  },
+  "Segment_80": {
+    "Phrase_0": "Lalalala \n",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Lalalala",
+      "\n"
+    ]
+  },
+  "Segment_81": {
+    "Phrase_0": "Lalalala \n",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Lalalala",
+      "\n"
+    ]
+  },
+  "Segment_82": {
+    "Phrase_0": "Apelle-moi.",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Apelle",
+      "-moi",
+      "."
+    ]
+  }
+}

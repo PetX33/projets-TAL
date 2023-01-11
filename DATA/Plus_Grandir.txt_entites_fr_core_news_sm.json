@@ -1,0 +1,22 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nPetit",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Mes baisers sont souillés \n\nPlus grandir",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "Jeux de mains",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Suspendue",
+    "Label": "PER"
+  },
+  "entité_4": {
+    "Entité": "Reviens",
+    "Label": "PER"
+  }
+}

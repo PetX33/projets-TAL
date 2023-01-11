@@ -1,0 +1,114 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer\n\nOu",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "ouou",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "ouou",
+    "Label": "PER"
+  },
+  "entité_3": {
+    "Entité": "ouou",
+    "Label": "PER"
+  },
+  "entité_4": {
+    "Entité": "Dépends",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Oh Oh\n",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "Han han bon\n",
+    "Label": "PER"
+  },
+  "entité_7": {
+    "Entité": "tac\n",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "Oh oui!",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "loup\nEst",
+    "Label": "PER"
+  },
+  "entité_10": {
+    "Entité": "X\nDis-moi oui\nMais non\nNe",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "X\nCall",
+    "Label": "MISC"
+  },
+  "entité_12": {
+    "Entité": "Ode",
+    "Label": "PER"
+  },
+  "entité_13": {
+    "Entité": "rougis\n",
+    "Label": "PER"
+  },
+  "entité_14": {
+    "Entité": "Oh Oh\n",
+    "Label": "MISC"
+  },
+  "entité_15": {
+    "Entité": "Han han bon\n",
+    "Label": "PER"
+  },
+  "entité_16": {
+    "Entité": "tac\n",
+    "Label": "MISC"
+  },
+  "entité_17": {
+    "Entité": "Oh oui!",
+    "Label": "MISC"
+  },
+  "entité_18": {
+    "Entité": "loup\nEst",
+    "Label": "PER"
+  },
+  "entité_19": {
+    "Entité": "X\nDis-moi oui\nMais non\nNe",
+    "Label": "MISC"
+  },
+  "entité_20": {
+    "Entité": "X\nCall",
+    "Label": "MISC"
+  },
+  "entité_21": {
+    "Entité": "You baby boy",
+    "Label": "MISC"
+  },
+  "entité_22": {
+    "Entité": "loup\nEst",
+    "Label": "PER"
+  },
+  "entité_23": {
+    "Entité": "X\nDis-moi oui\nMais non\nNe",
+    "Label": "MISC"
+  },
+  "entité_24": {
+    "Entité": "X\nCall",
+    "Label": "MISC"
+  },
+  "entité_25": {
+    "Entité": "Ou oui ouou",
+    "Label": "MISC"
+  },
+  "entité_26": {
+    "Entité": "ouou",
+    "Label": "PER"
+  },
+  "entité_27": {
+    "Entité": "ouou",
+    "Label": "PER"
+  }
+}

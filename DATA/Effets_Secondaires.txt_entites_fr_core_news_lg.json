@@ -1,0 +1,42 @@
+{
+  "entité_0": {
+    "Entité": "Mylene Farmer",
+    "Label": "PER"
+  },
+  "entité_1": {
+    "Entité": "Pas dormir ...",
+    "Label": "MISC"
+  },
+  "entité_2": {
+    "Entité": "Ah bon ?",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Krueger",
+    "Label": "PER"
+  },
+  "entité_4": {
+    "Entité": "Ah bon",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Troubles psychiques",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "Ah bon ? 1",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "- Accélération",
+    "Label": "ORG"
+  },
+  "entité_8": {
+    "Entité": "Krueger",
+    "Label": "PER"
+  },
+  "entité_9": {
+    "Entité": "méfaits de Krueger",
+    "Label": "MISC"
+  }
+}

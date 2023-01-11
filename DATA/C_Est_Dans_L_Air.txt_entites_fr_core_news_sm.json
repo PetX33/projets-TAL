@@ -1,0 +1,70 @@
+{
+  "entité_0": {
+    "Entité": "Air",
+    "Label": "ORG"
+  },
+  "entité_1": {
+    "Entité": "Mylene Farmer\n\nVanité",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Lâcheté",
+    "Label": "LOC"
+  },
+  "entité_3": {
+    "Entité": "Tous les fêlés",
+    "Label": "MISC"
+  },
+  "entité_4": {
+    "Entité": "Les bons apôtres",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Prendre l'air \nRespirer \nParfois",
+    "Label": "PER"
+  },
+  "entité_6": {
+    "Entité": "Coïter \nQuid",
+    "Label": "PER"
+  },
+  "entité_7": {
+    "Entité": "Sauve",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "Moi je m'invente une vie \n\nFatuité",
+    "Label": "MISC"
+  },
+  "entité_9": {
+    "Entité": "Prendre l'air \nRespirer \nParfois",
+    "Label": "PER"
+  },
+  "entité_10": {
+    "Entité": "Coïter \nQuid",
+    "Label": "PER"
+  },
+  "entité_11": {
+    "Entité": "Sauve",
+    "Label": "MISC"
+  },
+  "entité_12": {
+    "Entité": "Moi je m'invente une vie",
+    "Label": "MISC"
+  },
+  "entité_13": {
+    "Entité": "Prendre l'air \nRespirer \nParfois",
+    "Label": "PER"
+  },
+  "entité_14": {
+    "Entité": "Coïter \nQuid",
+    "Label": "PER"
+  },
+  "entité_15": {
+    "Entité": "Sauve",
+    "Label": "MISC"
+  },
+  "entité_16": {
+    "Entité": "Moi je m'invente une vie",
+    "Label": "MISC"
+  }
+}

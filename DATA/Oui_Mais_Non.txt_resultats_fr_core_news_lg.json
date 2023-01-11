@@ -1,0 +1,1318 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Oui Mais Non par Mylene Farmer\n\nOu oui ouou ou?",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "Oui",
+      "Mais",
+      "Non",
+      "par",
+      "Mylene",
+      "Farmer",
+      "\n\n",
+      "Ou",
+      "oui",
+      "ouou",
+      "ou",
+      "?"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "Ou oui ouou ou?",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Ou",
+      "oui",
+      "ouou",
+      "ou",
+      "?"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "Ou oui ouou ou?",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Ou",
+      "oui",
+      "ouou",
+      "ou",
+      "?"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "\nTout pas tout dit\nLe monde entier\n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "\n",
+      "Tout",
+      "pas",
+      "tout",
+      "dit",
+      "\n",
+      "Le",
+      "monde",
+      "entier",
+      "\n"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "Dépends",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Dépends"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "de nous\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "de",
+      "nous",
+      "\n"
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "Destins fragiles",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "Destins",
+      "fragiles"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "\nEt monde hostile",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "\n",
+      "Et",
+      "monde",
+      "hostile"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "On devient fous\nTout pas tout dit\nMais la vie m'effraie\nElle a bon dos",
+    "nombre de token": 19,
+    "Liste de tokens": [
+      "On",
+      "devient",
+      "fous",
+      "\n",
+      "Tout",
+      "pas",
+      "tout",
+      "dit",
+      "\n",
+      "Mais",
+      "la",
+      "vie",
+      "m'",
+      "effraie",
+      "\n",
+      "Elle",
+      "a",
+      "bon",
+      "dos"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Oh Oh\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Oh",
+      "Oh",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Ne voir que toi\nRien qu'une fois\n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Ne",
+      "voir",
+      "que",
+      "toi",
+      "\n",
+      "Rien",
+      "qu'",
+      "une",
+      "fois",
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "Rend tout plus beau\n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Rend",
+      "tout",
+      "plus",
+      "beau",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Regarde moi\n\nÊtre ou pas\n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Regarde",
+      "moi",
+      "\n\n",
+      "Être",
+      "ou",
+      "pas",
+      "\n"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "C'est n'être pas!",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "n'",
+      "être",
+      "pas",
+      "!"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "\nC'est peut être chic\nDe faire du toc\n",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "\n",
+      "C'",
+      "est",
+      "peut",
+      "être",
+      "chic",
+      "\n",
+      "De",
+      "faire",
+      "du",
+      "toc",
+      "\n"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "Tac au tac",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Tac",
+      "au",
+      "tac"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "c'est l'ère du toc\n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "c'",
+      "est",
+      "l'",
+      "ère",
+      "du",
+      "toc",
+      "\n"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "C'est non\nHan han bon\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "non",
+      "\n",
+      "Han",
+      "han",
+      "bon",
+      "\n"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "C'est peut être chic\n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "peut",
+      "être",
+      "chic",
+      "\n"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "C'est l'ère du toc\nPour l'authentique\n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "l'",
+      "ère",
+      "du",
+      "toc",
+      "\n",
+      "Pour",
+      "l'",
+      "authentique",
+      "\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "On traque du stock\nDu tac au tac\n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "On",
+      "traque",
+      "du",
+      "stock",
+      "\n",
+      "Du",
+      "tac",
+      "au",
+      "tac",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Changeons d'époque",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Changeons",
+      "d'",
+      "époque"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "Oh oui!",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Oh",
+      "oui",
+      "!"
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "\nDis-moi\nDis-moi oui\nMais non\n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "\n",
+      "Dis",
+      "-moi",
+      "\n",
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n"
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "Ne dis plus jamais non!",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Ne",
+      "dis",
+      "plus",
+      "jamais",
+      "non",
+      "!"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "\n\nL'amour le loup\nEst risque\n",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "\n\n",
+      "L'",
+      "amour",
+      "le",
+      "loup",
+      "\n",
+      "Est",
+      "risque",
+      "\n"
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "Dis-moi oui\nMais non\nNe dis plus jamais non\nEt plus\nMon cœur sous X\nDis-moi oui\nMais non\nNe dis plus jamais non\n",
+    "nombre de token": 34,
+    "Liste de tokens": [
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n",
+      "Ne",
+      "dis",
+      "plus",
+      "jamais",
+      "non",
+      "\n",
+      "Et",
+      "plus",
+      "\n",
+      "Mon",
+      "cœur",
+      "sous",
+      "X",
+      "\n",
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n",
+      "Ne",
+      "dis",
+      "plus",
+      "jamais",
+      "non",
+      "\n"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "L'amour mon loup\nSe risque",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "L'",
+      "amour",
+      "mon",
+      "loup",
+      "\n",
+      "Se",
+      "risque"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "Dis-moi oui\nMais non\nDieu, mon dieu que c'est long\nSans toi,\nMon corps sous X\nCall me now\n\nAllongée sur le dos\n",
+    "nombre de token": 34,
+    "Liste de tokens": [
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n",
+      "Dieu",
+      ",",
+      "mon",
+      "dieu",
+      "que",
+      "c'",
+      "est",
+      "long",
+      "\n",
+      "Sans",
+      "toi",
+      ",",
+      "\n",
+      "Mon",
+      "corps",
+      "sous",
+      "X",
+      "\n",
+      "Call",
+      "me",
+      "now",
+      "\n\n",
+      "Allongée",
+      "sur",
+      "le",
+      "dos",
+      "\n"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "L'amour rend tout plus beau\nOh-oh-oh-oh\n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "L'",
+      "amour",
+      "rend",
+      "tout",
+      "plus",
+      "beau",
+      "\n",
+      "Oh",
+      "-",
+      "oh",
+      "-",
+      "oh",
+      "-",
+      "oh",
+      "\n"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "Dis-moi oui\nMais non\nNe dis plus jamais non\nAmour, le loup c'est ton nom\nTout pas tout dit\nOde a la vie\nLa mort compose\nLa nuit se couche\n",
+    "nombre de token": 41,
+    "Liste de tokens": [
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n",
+      "Ne",
+      "dis",
+      "plus",
+      "jamais",
+      "non",
+      "\n",
+      "Amour",
+      ",",
+      "le",
+      "loup",
+      "c'",
+      "est",
+      "ton",
+      "nom",
+      "\n",
+      "Tout",
+      "pas",
+      "tout",
+      "dit",
+      "\n",
+      "Ode",
+      "a",
+      "la",
+      "vie",
+      "\n",
+      "La",
+      "mort",
+      "compose",
+      "\n",
+      "La",
+      "nuit",
+      "se",
+      "couche",
+      "\n"
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "Les yeux rougis\n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Les",
+      "yeux",
+      "rougis",
+      "\n"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "L'aube est morose\nTout pas tout dit\nSi la vie est gaie\nTout va a l'eau Oh Oh\n",
+    "nombre de token": 24,
+    "Liste de tokens": [
+      "L'",
+      "aube",
+      "est",
+      "morose",
+      "\n",
+      "Tout",
+      "pas",
+      "tout",
+      "dit",
+      "\n",
+      "Si",
+      "la",
+      "vie",
+      "est",
+      "gaie",
+      "\n",
+      "Tout",
+      "va",
+      "a",
+      "l'",
+      "eau",
+      "Oh",
+      "Oh",
+      "\n"
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "Oh bateau ivre\nEt joie de vivre\n\nMe fait défaut\n",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "Oh",
+      "bateau",
+      "ivre",
+      "\n",
+      "Et",
+      "joie",
+      "de",
+      "vivre",
+      "\n\n",
+      "Me",
+      "fait",
+      "défaut",
+      "\n"
+    ]
+  },
+  "Segment_39": {
+    "Phrase_0": "Regarde moi\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Regarde",
+      "moi",
+      "\n"
+    ]
+  },
+  "Segment_40": {
+    "Phrase_0": "Être ou pas\nC'est n'être pas!",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Être",
+      "ou",
+      "pas",
+      "\n",
+      "C'",
+      "est",
+      "n'",
+      "être",
+      "pas",
+      "!"
+    ]
+  },
+  "Segment_41": {
+    "Phrase_0": "\nC'est peut être chic\nDe faire du toc\n",
+    "nombre de token": 12,
+    "Liste de tokens": [
+      "\n",
+      "C'",
+      "est",
+      "peut",
+      "être",
+      "chic",
+      "\n",
+      "De",
+      "faire",
+      "du",
+      "toc",
+      "\n"
+    ]
+  },
+  "Segment_42": {
+    "Phrase_0": "Tac au tac",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Tac",
+      "au",
+      "tac"
+    ]
+  },
+  "Segment_43": {
+    "Phrase_0": "c'est l'ère du toc\n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "c'",
+      "est",
+      "l'",
+      "ère",
+      "du",
+      "toc",
+      "\n"
+    ]
+  },
+  "Segment_44": {
+    "Phrase_0": "C'est non\nHan han bon\n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "non",
+      "\n",
+      "Han",
+      "han",
+      "bon",
+      "\n"
+    ]
+  },
+  "Segment_45": {
+    "Phrase_0": "C'est peut être chic\n",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "peut",
+      "être",
+      "chic",
+      "\n"
+    ]
+  },
+  "Segment_46": {
+    "Phrase_0": "C'est l'ère du toc\nPour l'authentique\n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "C'",
+      "est",
+      "l'",
+      "ère",
+      "du",
+      "toc",
+      "\n",
+      "Pour",
+      "l'",
+      "authentique",
+      "\n"
+    ]
+  },
+  "Segment_47": {
+    "Phrase_0": "On traque du stock\nDu tac au tac\n",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "On",
+      "traque",
+      "du",
+      "stock",
+      "\n",
+      "Du",
+      "tac",
+      "au",
+      "tac",
+      "\n"
+    ]
+  },
+  "Segment_48": {
+    "Phrase_0": "Changeons d'époque",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Changeons",
+      "d'",
+      "époque"
+    ]
+  },
+  "Segment_49": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_50": {
+    "Phrase_0": "Oh oui!",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Oh",
+      "oui",
+      "!"
+    ]
+  },
+  "Segment_51": {
+    "Phrase_0": "\nDis-moi\n\nDis-moi oui\nMais non\n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "\n",
+      "Dis",
+      "-moi",
+      "\n\n",
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n"
+    ]
+  },
+  "Segment_52": {
+    "Phrase_0": "Ne dis plus jamais non!",
+    "nombre de token": 6,
+    "Liste de tokens": [
+      "Ne",
+      "dis",
+      "plus",
+      "jamais",
+      "non",
+      "!"
+    ]
+  },
+  "Segment_53": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_54": {
+    "Phrase_0": "L'amour le loup\nEst risque",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "L'",
+      "amour",
+      "le",
+      "loup",
+      "\n",
+      "Est",
+      "risque"
+    ]
+  },
+  "Segment_55": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_56": {
+    "Phrase_0": "Dis-moi oui\nMais non\nNe dis plus jamais non\nEt plus\nMon coeur sous X\nDis-moi oui\nMais non\nNe dis plus jamais non\n",
+    "nombre de token": 34,
+    "Liste de tokens": [
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n",
+      "Ne",
+      "dis",
+      "plus",
+      "jamais",
+      "non",
+      "\n",
+      "Et",
+      "plus",
+      "\n",
+      "Mon",
+      "coeur",
+      "sous",
+      "X",
+      "\n",
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n",
+      "Ne",
+      "dis",
+      "plus",
+      "jamais",
+      "non",
+      "\n"
+    ]
+  },
+  "Segment_57": {
+    "Phrase_0": "L'amour mon loup\nSe risque",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "L'",
+      "amour",
+      "mon",
+      "loup",
+      "\n",
+      "Se",
+      "risque"
+    ]
+  },
+  "Segment_58": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_59": {
+    "Phrase_0": "Dis-moi oui\nMais non\nDieu, mon dieu que c'est long\nSans toi,\n\n",
+    "nombre de token": 20,
+    "Liste de tokens": [
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n",
+      "Dieu",
+      ",",
+      "mon",
+      "dieu",
+      "que",
+      "c'",
+      "est",
+      "long",
+      "\n",
+      "Sans",
+      "toi",
+      ",",
+      "\n\n"
+    ]
+  },
+  "Segment_60": {
+    "Phrase_0": "Mon corps sous X\nCall me now\nAllongée sur le dos\n",
+    "nombre de token": 14,
+    "Liste de tokens": [
+      "Mon",
+      "corps",
+      "sous",
+      "X",
+      "\n",
+      "Call",
+      "me",
+      "now",
+      "\n",
+      "Allongée",
+      "sur",
+      "le",
+      "dos",
+      "\n"
+    ]
+  },
+  "Segment_61": {
+    "Phrase_0": "L'amour rend tout plus beau\nOh-oh-oh-oh\n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "L'",
+      "amour",
+      "rend",
+      "tout",
+      "plus",
+      "beau",
+      "\n",
+      "Oh",
+      "-",
+      "oh",
+      "-",
+      "oh",
+      "-",
+      "oh",
+      "\n"
+    ]
+  },
+  "Segment_62": {
+    "Phrase_0": "Dis-moi oui\nMais non\nNe dis plus jamais non\nAmour, le loup c'est ton nom\nYou baby boy",
+    "nombre de token": 25,
+    "Liste de tokens": [
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n",
+      "Ne",
+      "dis",
+      "plus",
+      "jamais",
+      "non",
+      "\n",
+      "Amour",
+      ",",
+      "le",
+      "loup",
+      "c'",
+      "est",
+      "ton",
+      "nom",
+      "\n",
+      "You",
+      "baby",
+      "boy"
+    ]
+  },
+  "Segment_63": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_64": {
+    "Phrase_0": "You baby love\n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "You",
+      "baby",
+      "love",
+      "\n"
+    ]
+  },
+  "Segment_65": {
+    "Phrase_0": "You baby",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "You",
+      "baby"
+    ]
+  },
+  "Segment_66": {
+    "Phrase_0": "boy",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "boy"
+    ]
+  },
+  "Segment_67": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_68": {
+    "Phrase_0": "Love lolove\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Love",
+      "lolove",
+      "\n"
+    ]
+  },
+  "Segment_69": {
+    "Phrase_0": "Yo",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Yo"
+    ]
+  },
+  "Segment_70": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_71": {
+    "Phrase_0": "You baby boy",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "You",
+      "baby",
+      "boy"
+    ]
+  },
+  "Segment_72": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_73": {
+    "Phrase_0": "You baby love\n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "You",
+      "baby",
+      "love",
+      "\n"
+    ]
+  },
+  "Segment_74": {
+    "Phrase_0": "You baby",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "You",
+      "baby"
+    ]
+  },
+  "Segment_75": {
+    "Phrase_0": "boy",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "boy"
+    ]
+  },
+  "Segment_76": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_77": {
+    "Phrase_0": "Love lolove\n",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Love",
+      "lolove",
+      "\n"
+    ]
+  },
+  "Segment_78": {
+    "Phrase_0": "Dis-moi oui\nMais non\nNe dis plus jamais non!",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n",
+      "Ne",
+      "dis",
+      "plus",
+      "jamais",
+      "non",
+      "!"
+    ]
+  },
+  "Segment_79": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_80": {
+    "Phrase_0": "L'amour le loup\nEst risque\n\nDis-moi oui\nMais non\n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "L'",
+      "amour",
+      "le",
+      "loup",
+      "\n",
+      "Est",
+      "risque",
+      "\n\n",
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n"
+    ]
+  },
+  "Segment_81": {
+    "Phrase_0": "Ne dis plus jamais non\nEt plus\nMon coeur sous X\nDis-moi oui\nMais non\nNe dis plus jamais non\n",
+    "nombre de token": 27,
+    "Liste de tokens": [
+      "Ne",
+      "dis",
+      "plus",
+      "jamais",
+      "non",
+      "\n",
+      "Et",
+      "plus",
+      "\n",
+      "Mon",
+      "coeur",
+      "sous",
+      "X",
+      "\n",
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n",
+      "Ne",
+      "dis",
+      "plus",
+      "jamais",
+      "non",
+      "\n"
+    ]
+  },
+  "Segment_82": {
+    "Phrase_0": "L'amour mon loup\nSe risque",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "L'",
+      "amour",
+      "mon",
+      "loup",
+      "\n",
+      "Se",
+      "risque"
+    ]
+  },
+  "Segment_83": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_84": {
+    "Phrase_0": "Dis-moi oui\nMais non\nDieu, mon dieu que c'est long\n\nSans toi,\nMon corps sous X\nCall me now\n",
+    "nombre de token": 29,
+    "Liste de tokens": [
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n",
+      "Dieu",
+      ",",
+      "mon",
+      "dieu",
+      "que",
+      "c'",
+      "est",
+      "long",
+      "\n\n",
+      "Sans",
+      "toi",
+      ",",
+      "\n",
+      "Mon",
+      "corps",
+      "sous",
+      "X",
+      "\n",
+      "Call",
+      "me",
+      "now",
+      "\n"
+    ]
+  },
+  "Segment_85": {
+    "Phrase_0": "Allongée",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Allongée"
+    ]
+  },
+  "Segment_86": {
+    "Phrase_0": "sur le dos\n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "sur",
+      "le",
+      "dos",
+      "\n"
+    ]
+  },
+  "Segment_87": {
+    "Phrase_0": "L'amour rend tout plus beau\nOh-oh-oh-oh\n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "L'",
+      "amour",
+      "rend",
+      "tout",
+      "plus",
+      "beau",
+      "\n",
+      "Oh",
+      "-",
+      "oh",
+      "-",
+      "oh",
+      "-",
+      "oh",
+      "\n"
+    ]
+  },
+  "Segment_88": {
+    "Phrase_0": "Dis-moi oui\nMais non\nNe dis plus jamais non\nAmour, le loup c'est ton nom\nOu oui ouou ou?",
+    "nombre de token": 27,
+    "Liste de tokens": [
+      "Dis",
+      "-moi",
+      "oui",
+      "\n",
+      "Mais",
+      "non",
+      "\n",
+      "Ne",
+      "dis",
+      "plus",
+      "jamais",
+      "non",
+      "\n",
+      "Amour",
+      ",",
+      "le",
+      "loup",
+      "c'",
+      "est",
+      "ton",
+      "nom",
+      "\n",
+      "Ou",
+      "oui",
+      "ouou",
+      "ou",
+      "?"
+    ]
+  },
+  "Segment_89": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_90": {
+    "Phrase_0": "Ou oui ouou ou?",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Ou",
+      "oui",
+      "ouou",
+      "ou",
+      "?"
+    ]
+  },
+  "Segment_91": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_92": {
+    "Phrase_0": "Ou oui ouou ou?",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Ou",
+      "oui",
+      "ouou",
+      "ou",
+      "?"
+    ]
+  }
+}

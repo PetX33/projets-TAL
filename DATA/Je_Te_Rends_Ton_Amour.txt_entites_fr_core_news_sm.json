@@ -1,0 +1,78 @@
+{
+  "entité_0": {
+    "Entité": "Te Rends",
+    "Label": "ORG"
+  },
+  "entité_1": {
+    "Entité": "Mylene Farmer\n\nM'extraire du cadre \nMa vie suspendue",
+    "Label": "PER"
+  },
+  "entité_2": {
+    "Entité": "Je rêvais mieux \nJe voyais l'âtre",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Redeviens",
+    "Label": "LOC"
+  },
+  "entité_4": {
+    "Entité": "Je te rends ton",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "Je te rends ton",
+    "Label": "MISC"
+  },
+  "entité_6": {
+    "Entité": "Redeviens",
+    "Label": "LOC"
+  },
+  "entité_7": {
+    "Entité": "Me compromettre \nJe",
+    "Label": "MISC"
+  },
+  "entité_8": {
+    "Entité": "Unique",
+    "Label": "ORG"
+  },
+  "entité_9": {
+    "Entité": "Un nu de maître \n\n\nEt je te rends ton",
+    "Label": "MISC"
+  },
+  "entité_10": {
+    "Entité": "Je te rends ton",
+    "Label": "MISC"
+  },
+  "entité_11": {
+    "Entité": "Redeviens",
+    "Label": "LOC"
+  },
+  "entité_12": {
+    "Entité": "SCHIELE",
+    "Label": "MISC"
+  },
+  "entité_13": {
+    "Entité": "Je te rends ton",
+    "Label": "MISC"
+  },
+  "entité_14": {
+    "Entité": "Redeviens",
+    "Label": "LOC"
+  },
+  "entité_15": {
+    "Entité": "SCHIELE",
+    "Label": "MISC"
+  },
+  "entité_16": {
+    "Entité": "Je te rends ton",
+    "Label": "MISC"
+  },
+  "entité_17": {
+    "Entité": "Redeviens",
+    "Label": "LOC"
+  },
+  "entité_18": {
+    "Entité": "SCHIELE",
+    "Label": "MISC"
+  }
+}

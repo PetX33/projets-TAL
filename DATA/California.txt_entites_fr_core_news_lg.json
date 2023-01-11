@@ -1,0 +1,38 @@
+{
+  "entité_0": {
+    "Entité": "California",
+    "Label": "LOC"
+  },
+  "entité_1": {
+    "Entité": "Amérique \nSex",
+    "Label": "LOC"
+  },
+  "entité_2": {
+    "Entité": "Sunset \n",
+    "Label": "MISC"
+  },
+  "entité_3": {
+    "Entité": "Marlboro",
+    "Label": "ORG"
+  },
+  "entité_4": {
+    "Entité": "Mon amour",
+    "Label": "MISC"
+  },
+  "entité_5": {
+    "Entité": "de Californie",
+    "Label": "LOC"
+  },
+  "entité_6": {
+    "Entité": "I.D.",
+    "Label": "MISC"
+  },
+  "entité_7": {
+    "Entité": "Vienne",
+    "Label": "LOC"
+  },
+  "entité_8": {
+    "Entité": "de Californie",
+    "Label": "LOC"
+  }
+}

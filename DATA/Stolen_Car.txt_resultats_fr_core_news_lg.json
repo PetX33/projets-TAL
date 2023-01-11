@@ -1,0 +1,851 @@
+{
+  "Segment_0": {
+    "Phrase_0": "Stolen Car par Mylene Farmer",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Stolen",
+      "Car",
+      "par",
+      "Mylene",
+      "Farmer"
+    ]
+  },
+  "Segment_1": {
+    "Phrase_0": "\n\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n\n"
+    ]
+  },
+  "Segment_2": {
+    "Phrase_0": "[Sting]",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "[",
+      "Sting",
+      "]"
+    ]
+  },
+  "Segment_3": {
+    "Phrase_0": "\nLate at night in summer heat.",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "\n",
+      "Late",
+      "at",
+      "night",
+      "in",
+      "summer",
+      "heat",
+      "."
+    ]
+  },
+  "Segment_4": {
+    "Phrase_0": "\nExpensive car and empty street \nThere's a wire in my jacket, but this is my trade \n",
+    "nombre de token": 21,
+    "Liste de tokens": [
+      "\n",
+      "Expensive",
+      "car",
+      "and",
+      "empty",
+      "street",
+      "\n",
+      "There'",
+      "s",
+      "a",
+      "wire",
+      "in",
+      "my",
+      "jacket",
+      ",",
+      "but",
+      "this",
+      "is",
+      "my",
+      "trade",
+      "\n"
+    ]
+  },
+  "Segment_5": {
+    "Phrase_0": "It only takes a moment, don't be afraid \nI can hotwire an ignition like some kind of star",
+    "nombre de token": 21,
+    "Liste de tokens": [
+      "It",
+      "only",
+      "takes",
+      "a",
+      "moment",
+      ",",
+      "don'",
+      "t",
+      "be",
+      "afraid",
+      "\n",
+      "I",
+      "can",
+      "hotwire",
+      "an",
+      "ignition",
+      "like",
+      "some",
+      "kind",
+      "of",
+      "star"
+    ]
+  },
+  "Segment_6": {
+    "Phrase_0": "\nI'",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n",
+      "I'"
+    ]
+  },
+  "Segment_7": {
+    "Phrase_0": "m just a poor boy in a rich man's car \n\n[",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "m",
+      "just",
+      "a",
+      "poor",
+      "boy",
+      "in",
+      "a",
+      "rich",
+      "man'",
+      "s",
+      "car",
+      "\n\n",
+      "["
+    ]
+  },
+  "Segment_8": {
+    "Phrase_0": "Mylène Farmer] \nEt le moteur s'allume enfin \nNos vies s'enlacent \n\n[Sting] \nAnd we drive into the night \n\n[Mylène Farmer] \n",
+    "nombre de token": 32,
+    "Liste de tokens": [
+      "Mylène",
+      "Farmer",
+      "]",
+      "\n",
+      "Et",
+      "le",
+      "moteur",
+      "s'",
+      "allume",
+      "enfin",
+      "\n",
+      "Nos",
+      "vies",
+      "s'",
+      "enlacent",
+      "\n\n",
+      "[",
+      "Sting",
+      "]",
+      "\n",
+      "And",
+      "we",
+      "drive",
+      "into",
+      "the",
+      "night",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "]",
+      "\n"
+    ]
+  },
+  "Segment_9": {
+    "Phrase_0": "Oh le cuir doux s'en mêle \n",
+    "nombre de token": 8,
+    "Liste de tokens": [
+      "Oh",
+      "le",
+      "cuir",
+      "doux",
+      "s'",
+      "en",
+      "mêle",
+      "\n"
+    ]
+  },
+  "Segment_10": {
+    "Phrase_0": "Affole ton imagination",
+    "nombre de token": 3,
+    "Liste de tokens": [
+      "Affole",
+      "ton",
+      "imagination"
+    ]
+  },
+  "Segment_11": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_12": {
+    "Phrase_0": "Je te vois déjà \nDans une autre situation \nTu es company director \n",
+    "nombre de token": 15,
+    "Liste de tokens": [
+      "Je",
+      "te",
+      "vois",
+      "déjà",
+      "\n",
+      "Dans",
+      "une",
+      "autre",
+      "situation",
+      "\n",
+      "Tu",
+      "es",
+      "company",
+      "director",
+      "\n"
+    ]
+  },
+  "Segment_13": {
+    "Phrase_0": "Une vie de famille \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "Une",
+      "vie",
+      "de",
+      "famille",
+      "\n"
+    ]
+  },
+  "Segment_14": {
+    "Phrase_0": "J'ai ce feeling qu'il y a bien plus de choses à dire \n\n[Sting] \nThere's some kind of complication \n\n[Mylène Farmer] \n",
+    "nombre de token": 31,
+    "Liste de tokens": [
+      "J'",
+      "ai",
+      "ce",
+      "feeling",
+      "qu'",
+      "il",
+      "y",
+      "a",
+      "bien",
+      "plus",
+      "de",
+      "choses",
+      "à",
+      "dire",
+      "\n\n",
+      "[",
+      "Sting",
+      "]",
+      "\n",
+      "There'",
+      "s",
+      "some",
+      "kind",
+      "of",
+      "complication",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "]",
+      "\n"
+    ]
+  },
+  "Segment_15": {
+    "Phrase_0": "Il lui dit \n\n[Sting] \nHe'",
+    "nombre de token": 9,
+    "Liste de tokens": [
+      "Il",
+      "lui",
+      "dit",
+      "\n\n",
+      "[",
+      "Sting",
+      "]",
+      "\n",
+      "He'"
+    ]
+  },
+  "Segment_16": {
+    "Phrase_0": "s",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "s"
+    ]
+  },
+  "Segment_17": {
+    "Phrase_0": "alone",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "alone"
+    ]
+  },
+  "Segment_18": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_19": {
+    "Phrase_0": "Spends",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "Spends"
+    ]
+  },
+  "Segment_20": {
+    "Phrase_0": "the",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "the"
+    ]
+  },
+  "Segment_21": {
+    "Phrase_0": "night with his lover",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "night",
+      "with",
+      "his",
+      "lover"
+    ]
+  },
+  "Segment_22": {
+    "Phrase_0": "\n\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n\n"
+    ]
+  },
+  "Segment_23": {
+    "Phrase_0": "[Mylène Farmer] \n",
+    "nombre de token": 5,
+    "Liste de tokens": [
+      "[",
+      "Mylène",
+      "Farmer",
+      "]",
+      "\n"
+    ]
+  },
+  "Segment_24": {
+    "Phrase_0": "Il y a des traces \n\n[Sting] \nOf her cologne \n\n[Mylène Farmer]",
+    "nombre de token": 18,
+    "Liste de tokens": [
+      "Il",
+      "y",
+      "a",
+      "des",
+      "traces",
+      "\n\n",
+      "[",
+      "Sting",
+      "]",
+      "\n",
+      "Of",
+      "her",
+      "cologne",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "]"
+    ]
+  },
+  "Segment_25": {
+    "Phrase_0": "\nTous les mots de sa maîtresse \nÀ l'oreille sans détour \nComme une chanson d'amour \n\n[Mylène Farmer (Sting)] \nPlease take me dancing tonight I've been all on my own \n",
+    "nombre de token": 41,
+    "Liste de tokens": [
+      "\n",
+      "Tous",
+      "les",
+      "mots",
+      "de",
+      "sa",
+      "maîtresse",
+      "\n",
+      "À",
+      "l'",
+      "oreille",
+      "sans",
+      "détour",
+      "\n",
+      "Comme",
+      "une",
+      "chanson",
+      "d'",
+      "amour",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "(",
+      "Sting",
+      ")",
+      "]",
+      "\n",
+      "Please",
+      "take",
+      "me",
+      "dancing",
+      "tonight",
+      "I'",
+      "ve",
+      "been",
+      "all",
+      "on",
+      "my",
+      "own",
+      "\n"
+    ]
+  },
+  "Segment_26": {
+    "Phrase_0": "S'il te plaît, emmène-moi danser ce soir.",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "S'",
+      "il",
+      "te",
+      "plaît",
+      ",",
+      "emmène",
+      "-moi",
+      "danser",
+      "ce",
+      "soir",
+      "."
+    ]
+  },
+  "Segment_27": {
+    "Phrase_0": "Je me sens seule depuis longtemps.",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Je",
+      "me",
+      "sens",
+      "seule",
+      "depuis",
+      "longtemps",
+      "."
+    ]
+  },
+  "Segment_28": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_29": {
+    "Phrase_0": "Les promesses d'un jour, d'un soir, je les entends comme un psaume.",
+    "nombre de token": 17,
+    "Liste de tokens": [
+      "Les",
+      "promesses",
+      "d'",
+      "un",
+      "jour",
+      ",",
+      "d'",
+      "un",
+      "soir",
+      ",",
+      "je",
+      "les",
+      "entends",
+      "comme",
+      "un",
+      "psaume",
+      "."
+    ]
+  },
+  "Segment_30": {
+    "Phrase_0": "\nI'",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n",
+      "I'"
+    ]
+  },
+  "Segment_31": {
+    "Phrase_0": "m just a prisoner of love \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "m",
+      "just",
+      "a",
+      "prisoner",
+      "of",
+      "love",
+      "\n"
+    ]
+  },
+  "Segment_32": {
+    "Phrase_0": "Je ne suis qu'un prisonnier de l'amour.",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Je",
+      "ne",
+      "suis",
+      "qu'",
+      "un",
+      "prisonnier",
+      "de",
+      "l'",
+      "amour",
+      "."
+    ]
+  },
+  "Segment_33": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_34": {
+    "Phrase_0": "Prisonnière de mes failles",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Prisonnière",
+      "de",
+      "mes",
+      "failles"
+    ]
+  },
+  "Segment_35": {
+    "Phrase_0": "\nTake me dancing, please take me dancing tonight \nPlease take me dancing tonight \nPlease take me dancing tonight \n\n[",
+    "nombre de token": 24,
+    "Liste de tokens": [
+      "\n",
+      "Take",
+      "me",
+      "dancing",
+      ",",
+      "please",
+      "take",
+      "me",
+      "dancing",
+      "tonight",
+      "\n",
+      "Please",
+      "take",
+      "me",
+      "dancing",
+      "tonight",
+      "\n",
+      "Please",
+      "take",
+      "me",
+      "dancing",
+      "tonight",
+      "\n\n",
+      "["
+    ]
+  },
+  "Segment_36": {
+    "Phrase_0": "Mylène Farmer] \n",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Mylène",
+      "Farmer",
+      "]",
+      "\n"
+    ]
+  },
+  "Segment_37": {
+    "Phrase_0": "Imagine ta femme \nSa vie glisse entre ses doigts \n",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "Imagine",
+      "ta",
+      "femme",
+      "\n",
+      "Sa",
+      "vie",
+      "glisse",
+      "entre",
+      "ses",
+      "doigts",
+      "\n"
+    ]
+  },
+  "Segment_38": {
+    "Phrase_0": "Il y a une règle : être chasseur ou bien la proie.",
+    "nombre de token": 13,
+    "Liste de tokens": [
+      "Il",
+      "y",
+      "a",
+      "une",
+      "règle",
+      ":",
+      "être",
+      "chasseur",
+      "ou",
+      "bien",
+      "la",
+      "proie",
+      "."
+    ]
+  },
+  "Segment_39": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_40": {
+    "Phrase_0": "Il lui dira « je rentre tard » \nSes affaires, partir à Rome.",
+    "nombre de token": 16,
+    "Liste de tokens": [
+      "Il",
+      "lui",
+      "dira",
+      "«",
+      "je",
+      "rentre",
+      "tard",
+      "»",
+      "\n",
+      "Ses",
+      "affaires",
+      ",",
+      "partir",
+      "à",
+      "Rome",
+      "."
+    ]
+  },
+  "Segment_41": {
+    "Phrase_0": "\n\n[Sting] \nBut there's more than a suspicion in this lingering cologne \n\n[Mylène Farmer] \n",
+    "nombre de token": 22,
+    "Liste de tokens": [
+      "\n\n",
+      "[",
+      "Sting",
+      "]",
+      "\n",
+      "But",
+      "there'",
+      "s",
+      "more",
+      "than",
+      "a",
+      "suspicion",
+      "in",
+      "this",
+      "lingering",
+      "cologne",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "]",
+      "\n"
+    ]
+  },
+  "Segment_42": {
+    "Phrase_0": "Et les enfants feront la tête \n\n[Sting] \nAnd she runs a traffic light \nAnd she drives into the night \n\n[Mylène Farmer (Sting)] \nPlease take me dancing tonight I've been all on my own \n",
+    "nombre de token": 46,
+    "Liste de tokens": [
+      "Et",
+      "les",
+      "enfants",
+      "feront",
+      "la",
+      "tête",
+      "\n\n",
+      "[",
+      "Sting",
+      "]",
+      "\n",
+      "And",
+      "she",
+      "runs",
+      "a",
+      "traffic",
+      "light",
+      "\n",
+      "And",
+      "she",
+      "drives",
+      "into",
+      "the",
+      "night",
+      "\n\n",
+      "[",
+      "Mylène",
+      "Farmer",
+      "(",
+      "Sting",
+      ")",
+      "]",
+      "\n",
+      "Please",
+      "take",
+      "me",
+      "dancing",
+      "tonight",
+      "I'",
+      "ve",
+      "been",
+      "all",
+      "on",
+      "my",
+      "own",
+      "\n"
+    ]
+  },
+  "Segment_43": {
+    "Phrase_0": "S'il te plaît, emmène-moi danser ce soir.",
+    "nombre de token": 11,
+    "Liste de tokens": [
+      "S'",
+      "il",
+      "te",
+      "plaît",
+      ",",
+      "emmène",
+      "-moi",
+      "danser",
+      "ce",
+      "soir",
+      "."
+    ]
+  },
+  "Segment_44": {
+    "Phrase_0": "Je me sens seule depuis longtemps.",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "Je",
+      "me",
+      "sens",
+      "seule",
+      "depuis",
+      "longtemps",
+      "."
+    ]
+  },
+  "Segment_45": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_46": {
+    "Phrase_0": "Les promesses d'un jour, d'un soir, je les entends comme un psaume.",
+    "nombre de token": 17,
+    "Liste de tokens": [
+      "Les",
+      "promesses",
+      "d'",
+      "un",
+      "jour",
+      ",",
+      "d'",
+      "un",
+      "soir",
+      ",",
+      "je",
+      "les",
+      "entends",
+      "comme",
+      "un",
+      "psaume",
+      "."
+    ]
+  },
+  "Segment_47": {
+    "Phrase_0": "\nI'",
+    "nombre de token": 2,
+    "Liste de tokens": [
+      "\n",
+      "I'"
+    ]
+  },
+  "Segment_48": {
+    "Phrase_0": "m just a prisoner of love \n",
+    "nombre de token": 7,
+    "Liste de tokens": [
+      "m",
+      "just",
+      "a",
+      "prisoner",
+      "of",
+      "love",
+      "\n"
+    ]
+  },
+  "Segment_49": {
+    "Phrase_0": "Je ne suis qu'un prisonnier de l'amour.",
+    "nombre de token": 10,
+    "Liste de tokens": [
+      "Je",
+      "ne",
+      "suis",
+      "qu'",
+      "un",
+      "prisonnier",
+      "de",
+      "l'",
+      "amour",
+      "."
+    ]
+  },
+  "Segment_50": {
+    "Phrase_0": "\n",
+    "nombre de token": 1,
+    "Liste de tokens": [
+      "\n"
+    ]
+  },
+  "Segment_51": {
+    "Phrase_0": "Prisonnière de mes failles",
+    "nombre de token": 4,
+    "Liste de tokens": [
+      "Prisonnière",
+      "de",
+      "mes",
+      "failles"
+    ]
+  },
+  "Segment_52": {
+    "Phrase_0": "\nTake me dancing, please take me dancing tonight \nPlease take me dancing tonight \nPlease take me dancing tonight",
+    "nombre de token": 22,
+    "Liste de tokens": [
+      "\n",
+      "Take",
+      "me",
+      "dancing",
+      ",",
+      "please",
+      "take",
+      "me",
+      "dancing",
+      "tonight",
+      "\n",
+      "Please",
+      "take",
+      "me",
+      "dancing",
+      "tonight",
+      "\n",
+      "Please",
+      "take",
+      "me",
+      "dancing",
+      "tonight"
+    ]
+  }
+}
